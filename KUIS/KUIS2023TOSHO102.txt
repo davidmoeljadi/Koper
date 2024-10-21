@@ -1,0 +1,22 @@
+Nama saya <NAMA>.
+Saya mahasiswa tingkat satu di Universitas Bahasa Asing Kanda.
+Jurusan saya Bahasa Indonesia.
+Saya belajar Bahasa Inggris dan Indonesia stiap hari.
+Saya dari Kota Sumoto, Provinsi Hyogo.
+Saya tinggal di Kota Chiba.
+Keluarga saya ada ayah, ibu, dan adik perempuan.
+Ayah saya <NAMA>.
+Dia bekerja di kantor prefektur Chiba.
+Hobinya memancing ikan di sungai.
+Dia suka nonton film (Star Wars)
+Ibu saya <NAMA>.
+Dia bekerja di Universitas Chiba.
+Dia pandai masak.
+Dia suka bunga.
+Adik perempuan saya <NAMA>.
+Dia suka nonton animasi (Shingekinokyoujin) dan mumdengarkan music K-pop.
+Adik laki-laki saya <NAMA>.
+Dia suka nonton bisbol.
+Tim yang dia suka Chiba Lotte Marines.
+Saya dan <NAMA> kadang-kadang nonton bisbol Bersama.
+Dia suka bermain bisbol juga.

@@ -1,0 +1,22 @@
+KELURAGA SAYA
+
+Nama saya <NAMA>. 
+Saya mahasiswa tingkat satu di Universitas Bahasa Asing Kanda.
+Jurusan saya Bahasa Indonesia.
+Saya belajar bahasa Inggris dan bahasa Indonesia setiap hari.
+Saya tinggal di kecamatan Edogawa, provinsi Tokyo.
+Keluarga saya ada ayah, ibu, dua adik laki-laki, dan satu ekor anjing.  
+Ayah saya ada di Osaka untuk urusan bisnis.
+Dia suka berbelanja.
+Ibu saya pandai memasak.
+Dia bekerja di toko cokelat.
+Adik laki-laki saya bernama <NAMA>.
+Dia sangat pinter.
+Dia adalah siswa tingkat dua di SMA Shibuya makuhari.
+Itu SMA di sebelah universitas ini.
+Lainnya Adik laki-laki saya bernama <NAMA>.
+Dia pandai baseball dan renang.
+Dia adalah siswa tingkat satu di SMP.
+Anjing saya bersama Arare.
+Dia suka sekali berjalan-jalan.
+Dia baik dan sangat imut-imut.
