@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023MYNK1.txt</textfile>
+    <lang>indonesian</lang>
+  </header>
+    <body>
+Nama dia Nazira <segment id='1' features='eror;ejaan;ejk' Correction='Abyan'>abyan</segment> <segment id='2' features='eror;ejaan;ejk' Correction='Haqqi'>haqqi</segment>. 
+Dia berasal dari Surabaya, <segment id='3' features='eror;ejaan;ejk' Correction='Pulau'>pulau</segment> Jawa. 
+Dia lahir di Surabaya, <segment id='4' features='eror;ejaan;ejk' Correction='tetapi'>Tetapi</segment> <segment id='5' features='eror;gramatikal;frasa-verba;vrbafx' Correction='dibesarkan'>besar</segment> di <segment id='6' features='eror;ejaan;ejk' Correction='Surabaya'>surabaya</segment>, <segment id='16' features='eror;ejaan;ejtb' Correction='semarang, dan'><segment id='9' features='eror;ejaan;ejk' Correction='Semarang' parent='16'>semarang</segment> dan</segment> Jakarta. 
+Fakultas dia APS. Jurusan ED. 
+Sekarang dia tinggal di asrama APU 2. 
+Hobi dia mendengarkan musik. 
+Dia tidak mengikuti klub <segment id='14' features='eror;ejaan;ejsp' Correction='apa pun'>apapun</segment>. 
+Dia tidak bekerja sampingan.    </body>
+</document>

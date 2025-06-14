@@ -1,0 +1,22 @@
+Selamat siang teman-teman.
+Apa kabar?
+Kali ini,saya akan meperkenalkan keluarga saya.
+Keluarga saya terdiri atas ayah,ibu dan kakak perempuan.
+
+Nama ayah saya <NAMA>. 
+Dia berasal dari CHIBA. 
+Dia bekerja sebagai karyawan. 
+Dia suka ramen. 
+Dia baik hati.
+
+Nama ibu saya <NAMA>. 
+Dia bekerja sebagai guru piano. 
+Dia suka AUDREY WAKABAYASHI. 
+Dia selalu mendengarkan radio. 
+Dia pandai piano.
+ 
+Nama kakak perempuan saya <NAMA>.
+Dia mahasiswa tingkat 2 di Universitas musik Musashino. 
+Dia belajar clarinet.
+Hobi dia mendengarkan musik.
+Dia juga suka EXILE.

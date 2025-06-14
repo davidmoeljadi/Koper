@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project>
+  <ctversion>3.3x</ctversion>
+
+  <mediatype>text</mediatype>
+  <layer version='3'>
+    <name>Eror</name>
+    <segtype>segment</segtype>
+    <segmentation>None</segmentation>
+    <autocode>None</autocode>
+    <special>error</special>
+    <scheme>Eror.xml</scheme>
+  </layer>
+</project>
