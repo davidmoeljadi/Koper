@@ -1,0 +1,5 @@
+Nama saya [NAMA].
+Saya dari Yamagata.
+Saya tinggal di Tokyo.
+Nana ayah saya, [NAMA], dan nama ibu saya, [NAMA].
+Nana adik laki-laki saya,[NAMA],dan nama adik perempuan saya,[NAMA].

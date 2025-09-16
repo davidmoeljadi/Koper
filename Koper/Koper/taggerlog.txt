@@ -1,6 +1,0 @@
-Reading POS tagger model from C:\Users\david\AppData\Roaming\UAMCT3AppData\StanfordParser2/Tagger331/english-bidirectional-distsim.tagger ... done [3.2 sec].
-Exception in thread "main" java.lang.NullPointerException
-	at stnfdtagger.MyTagger.start(MyTagger.java:90)
-	at stnfdtagger.Main.main(Main.java:25)Exception in thread "main" java.lang.NullPointerException
-	at stnfdtagger.MyTagger.start(MyTagger.java:90)
-	at stnfdtagger.Main.main(Main.java:25)
