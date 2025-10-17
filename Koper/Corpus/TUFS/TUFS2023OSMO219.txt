@@ -1,0 +1,7 @@
+M: Halo.
+E: Halo. Ini dengan M?
+M: Ya. Dari siapa ya?
+E: Dari E. Saya sedang ada di Bandara Sukarno Hatta, Jakarta. Saya sudah menunggu selama 30 menit, tetapi pesawat ke Bandara Juanda ditunda karena cuaca buruk. Jadi, saya akan terlambat sampai di Surabaya. Maaf, ya.
+M: Tidak apa-apa. Bisa telepon lagi setelah kamu tahu kapan pesawat akan berangkat?
+E: Oke. Terima kasih.
+M: Terima kasih kembali.

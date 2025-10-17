@@ -1,0 +1,16 @@
+hal: tentang absen kuliah hari ini
+
+Dosen [NAMA]
+
+Selamat pagi.
+Nama saya [NAMA] [NAMA] yang menjalani kuliah Anda bahasa Indonesia jam kedua hari Senin.
+
+Semalam suhu badan saya naik 39°C dan belum panasnya turun. 
+Jadi saya mau absen kuliah hari ini karena saya akan pergi ke rumah sakit.
+
+Saya juga tidak bisa ikut ujian hari ini.
+Apakah saya bisa ikut ujian susulan?
+
+Salam hangat,
+
+[NAMA] [NAMA]

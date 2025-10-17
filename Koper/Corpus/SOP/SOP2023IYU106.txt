@@ -1,0 +1,10 @@
+a: Halo, apa kabar?
+b: Baik. Dan kamu?
+a: Aku juga baik. Hari Minggu aku mau menonton film di Shinjuku? Kamu juga mau menonton dengan aku?
+b: Jam berapa dan kamu menonton film apa?
+a: Aku memonton Titanic tempat jam satu siang.
+b: Oke, kita bertemu di mana?
+a: Bagaimana kalau di depan Stasiun Shinjuku?
+b: Boleh! Kita bertemu jam berapa di sana?
+a: Bagaimana kalau jam 12 kerang seperempat?
+b: Itu bagus! Sampai jumpa hari Minggu, ya.

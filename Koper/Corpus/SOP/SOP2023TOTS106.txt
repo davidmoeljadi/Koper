@@ -1,0 +1,10 @@
+Y:Halo, T, apa kabar?
+T:Baik. Apa kabar, Y?
+Y:Saya juga baik. T, hari Jumat saya mau pergi ke Asakusa. T mau pergi dengan saya?
+T:Jam berapa?
+Y:Kira-kira jam setengah 2 siang.
+T:Oke, kita bertemu di mana?
+Y:Bagaimana kalau di Universitas Sophia?
+T:Boleh! kita bertemu jam 2 kurang 10 menit?
+Y:Bagaimana kalau jam 13 lewat 20 menit?
+T: Itu bagus! Sampai jumpa hari Jumat, ya.

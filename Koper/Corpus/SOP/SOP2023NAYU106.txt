@@ -1,0 +1,10 @@
+A.Halo, K, apa kabar?
+B.Baik. Apa kabar, Y?
+A.Saya juga baik. K, hari Minggu saya mau  pergi berbelanja  ke Shibuya. K mau pergi dengan saya?
+B.Jam berapa?
+A.Kira-kira jam 4 sore?
+B.Oke, kita bertemu di mana?
+A.Bagaimana kalau di depan Stasiun Shibuya?
+B.Boleh! Kita bertemu jam berapa di sana?
+A.Bagaimana kalau jam 5 kurang 10 menit?
+B.Itu bagas! Sampai jumpa hari Sabtu, ya.

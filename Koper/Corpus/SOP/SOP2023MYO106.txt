@@ -1,0 +1,10 @@
+H:”Halo, M, apa kabar?”
+M:”Baik. Apa kabar,  H?”
+H:”Saya juga baik. M, hari Minggu saya mau pergi ke makan M mau pergi ke dengan saya? “
+M:”Jam barapa?”
+H:”Kira-kira jam.”
+M:”Oke, kita bertemu di mana?”
+H:”Bagaimana kalau di depan Stasiun Shinjuku?”
+M:”Boleh! Kita bertemu jam berapa di sana?”
+H:”Bagaimana kalau jam 12 kurang 10 menit.”
+M: “itu bagus! Sampai jumpa hari Minggu, ya.” 

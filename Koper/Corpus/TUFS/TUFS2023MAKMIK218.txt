@@ -1,0 +1,11 @@
+B: Halo.
+A: Halo. Ini dengan B?
+B: Ya, dari siapa?
+A: Dari A.
+B: Oh begitu! Ada apa?
+A: Saya sedang ada di Bandara Sukarno-Hatta, Jakarta. Pesawat yang saya akan naik dituna karena cuaca buruk.
+B: Oh, apakah kamu tahu kapan pesawat berangkat?
+A: Tidak, saya sudah menunngu selama 30 (tiga puluh)menit. Saya akan menelepon kamu lagi ketika saya tahu waktunya.
+B: Okey. Saya menunngu kamu.
+A: Terima kasih banyak. Permisi, selamat siang!
+B: Terima kasih kembali! Sampai jumpa.
