@@ -1,0 +1,14 @@
+Z : Halo, A, S, apa kabar?
+S : Baik.
+A : Saya juga baik, Apa kabar, Z?
+Z : Saya juga baik. A, dari hari Sabtu sampai hari Minggu saya mau pergi ke Hakone. A mau pergi dengan saya?
+A : Jam berapa?
+Z : Kira-kira jam 9 pagi.
+A : Oke, kita bertemu di mana?
+Z : Bagaimana kalua di depan Stasiun Yotsuya?
+A : Boleh! Kita bertemu jam berapa di sana?
+Z : Bagaimana kalua jam 8 tepat?
+A : Itu bagus! Sampai jumpa hari Sabtu, ya.
+S : Sampai jumpa hari Sabtu, ya.
+Z : Saya tidak mengajak Anda, S.
+S : Aduh!!
