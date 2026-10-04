@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023HASAI206.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Dia pergi ke Kamogawa Sea World saat liburan dengan [NAMA] dan <segment id='1' features='eror;ejaan;ejsp' state='active'>saya.Dia</segment> naik bus ke <segment id='10' features='eror;leksikal;kata;noms' state='active' correction='sana'>situ</segment> dari <segment id='11' features='eror;ejaan;ejk' state='active'>stasiun</segment> Tokyo dua <segment id='2' features='eror;ejaan;ejsp' state='active'>jam.Dia</segment> ke <segment id='12' features='eror;leksikal;kata;noms' state='active'>situ</segment> tanggal tiga puluh satu Maret. <segment id='3' features='eror;gramatikal;frasa-nomina;nomafx' state='active'><segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='Hari' parent='3'>Itulah</segment></segment> hari Jumat. <segment id='6' features='eror;leksikal;kata;prons' state='active'>Mereka</segment> bertemu jam delapan lewat tiga puluh <segment id='13' features='eror;ejaan;ejsp' state='active'><segment id='5' features='eror;leksikal;kata;ktas' state='active' parent='13'>minutes</segment>.Dia</segment> makan kari di <segment id='14' features='eror;leksikal;kata;noms' state='active'>situ</segment>. Kari <segment id='15' features='eror;gramatikal;frasa-nomina;nyaitu' state='active'>itu</segment> enak <segment id='7' features='eror;ejaan;ejsp' state='active'>sekali.Pemandangan</segment> indah yang dilihat di situ adalah <segment id='8' features='eror;ejaan;ejsp' state='active'>laut.Saat</segment> liburan, dia tidak pulang ke rumah orang <segment id='16' features='eror;gramatikal;frasa-nomina;nya0' state='active'>tua</segment>. Dia menonton animasi di rumah <segment id='9' features='eror;ejaan;ejsp' state='active'>dia.Dia</segment> tidur sepuluh jam setiap hari.
+    </body>
+</document>

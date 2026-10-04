@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023HASAI201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='16' features='eror;ejaan;ejtb' state='active' comment='kurang tanda titik di akhir kalimat'><segment id='11' features='eror;leksikal;kata;ktvar' state='active' parent='16'><segment id='1' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='11'>Dia nama</segment> Ichita
+Dia laki-laki
+Dia <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='tampan' parent='11'>tanpan</segment>
+Dia berambut <segment id='17' features='eror;ejaan;ejtb' state='active' comment='tanda koma' parent='11'>pirang <segment id='6' features='eror;gramatikal;konjungsi;konjx' state='active' parent='17'>dan</segment> hitam dan</segment> pendek
+Dia memakai <segment id='8' features='eror;ejaan;ejhrf' state='active' correction='masker' parent='11'>maskar</segment> hitam</segment>
+Kulitnya putih
+<segment id='13' features='eror;leksikal;kata;ktvar' state='active' parent='16'>Dia memakai baju biru
+Dia memakai celana <segment id='12' features='eror;ejaan;ejhrf' state='active' correction='jin' parent='13'>jins</segment> biru
+Dia memakai kaus kaki hitam dan putih
+Dia tinggi
+Dia <segment id='2' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='duduk di atas' parent='13'>duduk atas</segment> kursi sekarang</segment>
+Alisnya tipis dan hitam
+<segment id='14' features='eror;leksikal;kata;ktvar' state='active' parent='16'>Dia terlihat mengantuk
+Dia langsing
+Dia memakai pakaian dalam putih
+Dia bersepatu hitam
+Dia berkaus hitam</segment>
+<segment id='3' features='eror;ejaan;ejk' state='active' correction='Lehernya' parent='16'>lehernya</segment> putih
+Matanya besar
+<segment id='15' features='eror;leksikal;kata;ktvar' state='active' parent='16'>Dia punya minuman
+Dia bermuka kecil
+Dia mempunyai <segment id='5' features='eror;leksikal;kata;ktas' state='active' correction='pensil' parent='15'>pencil</segment>
+Dia <segment id='7' features='eror;ejaan;ejhrf' state='active' correction='belajar' parent='15'>berajar</segment> bahasa Indonesia
+Dia hidungnya hitam</segment>
+Jasnya terlihat mahal
+Dia bertangan kecil 
+Jari-jarinya panjang
+<segment id='9' features='eror;leksikal;kata;noms' state='active' correction='Ponselnya' parent='16'>teleponya</segment> <segment id='10' features='eror;ejaan;ejhrf' state='active' correction='Android' parent='16'>Andoroid</segment> dan putih</segment>    </body>
+</document>

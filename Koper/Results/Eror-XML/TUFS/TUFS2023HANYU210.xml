@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023HANYU210.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya akan pergi ke Disney Sea dengan teman saya <segment id='10' features='eror;ejaan;ejsp' state='active'><segment id='1' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='10'>di</segment>  pada</segment> liburan musim dingin. <segment id='8' features='eror;gramatikal;kalimat;kalpan' state='active'>Saya mau pergi ke sana karena saya sudah pergi ke Disney Land <segment id='4' features='eror;leksikal;kata;preps' state='active' correction='pada' parent='8'>dalam</segment> <segment id='3' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='liburan musim panas' parent='8'><segment id='2' features='eror;ejaan;ejhrf' state='active' correction='liburan' parent='3'>libran</segment> panas</segment> dan saya mau pergi ke sana <segment id='5' features='eror;leksikal;kata;noms' state='active' correction='saat' parent='8'>sebelum</segment> <segment id='9' features='eror;ejaan;ejhrf' state='active' correction='atraksi' parent='8'>atraksion</segment> baru buka <segment id='11' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='masih' parent='8'>selama <segment id='12' features='eror;leksikal;kata;adjs' state='active' correction='sepi' parent='11'>kosong</segment></segment>.</segment> Saya mau <segment id='6' features='eror;gramatikal;frasa-verba;vrbx' state='active'>memberi</segment> membeli boneka Lina Bell dan Stella Lu di sana. Saya paling suka <segment id='7' features='eror;gramatikal;frasa-nomina;nomx' state='active'><segment id='13' features='eror;ejaan;ejhrf' state='active' parent='7'>atraksion</segment></segment> atraksi &apos;&apos;Soaring&apos;&apos; karena itu menyenangkan.
+Saya akan makan ayam goreng dan minum alkohol di sana. Saya akan datang ke sana dengan kereta api.    </body>
+</document>

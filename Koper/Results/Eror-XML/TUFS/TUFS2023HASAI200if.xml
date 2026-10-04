@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023HASAI200if.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejsp' state='active'>A:Halo!</segment>
+<segment id='2' features='eror;ejaan;ejsp' state='active'>B:<segment id='8' features='eror;ejaan;ejsp' state='active'><segment id='7' features='eror;ejaan;ejhrf' state='active' parent='8'>Helo</segment></segment>,kamu</segment> makan apa?
+<segment id='3' features='eror;ejaan;ejsp' state='active'>A:Aku</segment> mau hamburger.
+<segment id='4' features='eror;ejaan;ejsp' state='active'>B:Aku</segment> <segment id='9' features='eror;ejaan;ejsp' state='active'>juga!<segment id='10' features='eror;ejaan;ejtb' state='active'>Oh</segment> <segment id='11' features='eror;ejaan;ejk' state='active' parent='10'>Aku</segment></segment> tidak <segment id='12' features='eror;ejaan;ejhrf' state='active'><segment id='13' features='eror;leksikal;kata;ktinf' state='active' parent='12'>mliki</segment></segment> <segment id='14' features='eror;ejaan;ejsp' state='active'>uang,apakah</segment> kamu bisa pinjamkan lima ratus yen?
+<segment id='5' features='eror;ejaan;ejsp' state='active'>A:<segment id='15' features='eror;ejaan;ejhrf' state='active' parent='5'><segment id='16' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='Kembalikan' parent='15'>Kembari</segment></segment></segment> sampai besok.
+<segment id='6' features='eror;ejaan;ejsp' state='active'>B:<segment id='17' features='eror;ejaan;ejtb' state='active'>OK</segment> terima</segment> <segment id='18' features='eror;ejaan;ejtb' state='active'>kasih</segment>    </body>
+</document>
