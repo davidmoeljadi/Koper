@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023HAON102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejsp' state='active'>Diruangan</segment> saya ada <segment id='2' features='eror;ejaan;ejtb' state='active'><segment id='3' features='eror;gramatikal;konjungsi;konj0' state='active' parent='2'>meja,kursi</segment></segment>.
+Di atas meja ada buku.
+Di kiri meja ada <segment id='4' features='eror;ejaan;ejhrf' state='active'>raku</segment> buku.
+Ada kamus di rak buku.    </body>
+</document>

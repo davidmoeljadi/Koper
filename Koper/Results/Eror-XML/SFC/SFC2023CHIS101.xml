@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023CHIS101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Adik perempuanku namanya [NAMA]. <segment id='1' features='eror;gramatikal;frasa-verba;vrb0' state='active'>Dia pada</segment> tanggal 18 Septembar 2006. <segment id='2' features='eror;ejaan;ejhrf' state='active'>Thaun</segment> <segment id='3' features='eror;gramatikal;frasa-nomina;nomx' state='active'>tahun</segment> ini umurnya 18 <segment id='4' features='eror;ejaan;ejhrf' state='active'>thaun</segment>. Dia mau kado buku.    </body>
+</document>

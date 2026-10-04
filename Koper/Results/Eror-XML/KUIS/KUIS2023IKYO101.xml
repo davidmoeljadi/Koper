@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023IKYO101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat <segment id='1' features='eror;ejaan;ejtb' state='active'>siang <segment id='2' features='eror;ejaan;ejsp' state='active'>teman-teman</segment>.Apa</segment> kabar?
+Kenalkan. Nama saya &lt;NAMA&gt;.
+Panggil saya &lt;NAMA&gt;.
+Saya orang Jepang.
+Saya dari Kelurahan Kagamiishi, Provinsi Fukushima.
+Saya mahasiswa tingkat satu, Program Bahasa Indonesia, Jurusan Bahasa Asia,
+Universitas Bahasa Asing Kanda.
+Di universitas, saya belajar <segment id='3' features='eror;ejaan;ejk' state='active'>Bahasa</segment> Indonesia dan <segment id='4' features='eror;ejaan;ejk' state='active'>Bahasa</segment> Inggris.
+Hobi saya mendengarkan musik.
+Saya suka jalan-jalan.
+Saya tinggal di Makuhari.
+Senang bertemu dengan Anda.
+Terima kasih.    </body>
+</document>

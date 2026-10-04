@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023NIR208.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;gramatikal;kalimat;kalpan' state='active' correction='[NAMA] tidak suka rumah yang besar. Dia suka rumah yang kecil.'>[NAMA] tidak suka rumah yang besar, <segment id='17' features='eror;leksikal;kata;ktvar' state='active'>dia suka rumah yang kecil.</segment> Dia suka warna <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='cokelat' parent='17'>coklat</segment> untuk rumahnya. Dia ingin <segment id='3' features='eror;leksikal;kata;vrbs' state='active' correction='membangun' parent='17'>membuat</segment> <segment id='4' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='rumahnya' parent='17'>rumah</segment> di daerah pedesaan. Dia <segment id='5' features='eror;leksikal;kata;vrbauxs' state='active' correction='ingin' parent='17'>mau</segment> rumah satu lantai <segment id='8' features='eror;ejaan;ejtb' state='active' comment='Tidak perlu memakai tanda koma karena hanya ada dua rincian' parent='17'><segment id='6' features='eror;gramatikal;frasa-nomina;nomx' state='active' comment='&quot;rumah&quot; sudah disebutkan di bagian awal jadi tidak perlu disebutkan lagi agar kalimatnya efektif' parent='8'>rumahnya</segment>, dan</segment> satu kamar <segment id='7' features='eror;leksikal;ungkapan;ukps' state='active' parent='17'>rumah itu selain daripada hidup</segment>.</segment> <segment id='10' features='eror;gramatikal;frasa-nomina;pronx' state='active'>Itu</segment> tidak <segment id='11' features='eror;gramatikal;frasa-nomina;pronx' state='active'>apa</segment> ada tempat parkir mobil di rumahnya, tetapi ada halaman atau taman di rumahnya. Dia <segment id='15' features='eror;leksikal;kata;vrbauxs' state='active' correction='ingin'>mau</segment> tinggal di rumah tapak.    </body>
+</document>

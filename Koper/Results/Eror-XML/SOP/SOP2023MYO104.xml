@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023MYO104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di kamarku ada meja, kursi, rak buku, selimut, <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='jendela'>jendala</segment>, <segment id='2' features='eror;ejaan;ejtb' state='active' comment='Kekurangan tanda koma' correction='lantai, dan'>lantai dan</segment> lain-lain. Di atas meja ada jam, pensil <segment id='3' features='eror;ejaan;ejsp' state='active' comment='Kekurangan spasi' correction='pensil mekanik, gunting'>mekanik,gunting</segment>, pensil, bolpoin, dan komputer. Di samping meja ada rak buku. <segment id='4' features='eror;lainnya;lain' state='active' correction='Buku-buku'>Buku</segment> ada di dalam rak <segment id='5' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='itu, tersebut'>buku</segment>. Di sebelah meja ada kursi dan laci. Bantal ada di atas selimut. Jendela ada di dekat <segment id='6' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='itu, tersebut'>selimut</segment>. Anjing <segment id='7' features='eror;gramatikal;frasa-adverbia;adv0' state='active' comment='Perlu keterangan atau konteks waktu' correction='biasa, selalu'>saya melihat</segment> ke luar <segment id='8' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='itu, tersebut'>jendela</segment>.    </body>
+</document>

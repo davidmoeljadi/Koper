@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023SAYU101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejhrf' state='active' correction='Saya'>Says</segment> pergi ke <segment id='2' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='ketika'>Aomori liburan</segment> <segment id='6' features='eror;ejaan;ejhrf' state='active' correction='musim'>musis</segment> panas. Dari Tokyo ke Aomori naik pesawat kira-kira satu jam. Saya pergi dengan ayah, ibu, dan adik <segment id='8' features='eror;ejaan;ejhrf' state='active' correction='perempuan'>prempuan</segment> saya. Kami pergi ke Aomori <segment id='9' features='eror;ejaan;ejhrf' state='active' correction='untuk'>utuk</segment> <segment id='10' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='dengan'>bertemu kakek</segment> dan nenek. Di Aomori, saya makan sushi <segment id='11' features='eror;gramatikal;frasa-nomina;yg0' state='active' comment='&quot;dan itu sangat enak&quot; bisa jadikan satu klausa dengan klausa sebelumnya agar kalimjat lebih sederhana' correction='yang sangat'><segment id='13' features='eror;gramatikal;konjungsi;konjx' state='active' parent='11'>dan</segment> <segment id='12' features='eror;gramatikal;frasa-nomina;pronx' state='active' parent='11'>itu</segment> sangat</segment> enak. <segment id='14' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='juga'>Saya melihat</segment> laut. Laut <segment id='3' features='eror;gramatikal;frasa-nomina;nyaitu' state='active'>itu</segment> indah. Kami pulang ke Tokyo naik Shinkansen. Dari Aomori ke Tokyo naik Shinkansen kira-kira tiga jam.    </body>
+</document>

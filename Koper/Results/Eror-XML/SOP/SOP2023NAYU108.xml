@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023NAYU108.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama ibu saya [NAMA]. Ibu saya bukan ibu rumah tangga, dia pegawai. Dia suka kucing dan belanja. Ulang tahun ibu saya tanggal 13 Desember. Dia tinggal di Hokkaido. Dia bekerja dari Senin hingga Sabtu. Ibu saya bangun setiap <segment id='2' features='eror;gramatikal;frasa-nomina;nom0' state='active' comment='perlu penambahan nomina &quot;jam&quot; agar konteks lebih jelas.' correction='Ibu saya bangun setiap pagi jam setengah 7.'>pagi setengah</segment> 7 <segment id='3' features='eror;gramatikal;frasa-nomina;nomx' state='active' comment='Nomina pagi dipakai berulang dalam kalimat ini.'>pagi</segment>. <segment id='4' features='eror;leksikal;kata;noms' state='active' comment='Penggunaan &quot;sang induk&quot; terasa janggal karena yang sedang dibicarakan dalam paragraf ini adalah mengenai ibu penulis, sementara &quot;sang induk&quot; berkonotasi ibu hewan.' correction='Ibu saya'>Sang induk</segment> kemudian memberi makan <segment id='1' features='eror;ejaan;ejtb' state='active'>kucingnya. lalu</segment> mencuci muka dan menggosok gigi di wastafel. Dia makan pagi dengan kucing. Setelah <segment id='5' features='eror;ejaan;ejtb' state='active' comment='Perlu penambhan tanda koma [,] sebelyum kata &quot;ibu&quot;' correction='Setelah itu, ibu saya...'>itu ibu</segment> saya pergi ke kantor dengan <segment id='7' features='eror;ejaan;ejhrf' state='active' correction='mobil'>movil</segment>.    </body>
+</document>

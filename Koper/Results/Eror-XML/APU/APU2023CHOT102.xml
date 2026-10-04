@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023CHOT102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama restoran favorit saya adalah Ali, Muthu &amp; Ah Hock.
+Restoran ini ada di dekat rumah saya, kira-kira 6 menit dari rumah saya.
+<segment id='3' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya suka restoran <segment id='1' features='eror;ejaan;ejtb' state='active' comment='hapus koma' parent='3'>ini, karena</segment> ada <segment id='9' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='3'>banyak menu di restoran ini.
+<segment id='10' features='eror;ejaan;ejk' state='active' correction='makanan' parent='9'>Makanan</segment>, minuman, dan <segment id='2' features='eror;lainnya;lain' state='active' correction='hidangan penutup' parent='9'>dessert</segment></segment></segment>.
+Saya sangat suka menu nasi lemak di restoran ini. <segment id='5' features='eror;ejaan;ejtb' state='active'><segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='rasanya enak' parent='5'>Enak</segment>, dan</segment> harganya tidak begitu mahal.
+Restoran ini sedikit jauh <segment id='6' features='eror;lainnya;lain' state='active' comment='hapus'>(far)</segment> dari KL, <segment id='11' features='eror;leksikal;kata;ktinf' state='active'>tapi</segment> <segment id='7' features='eror;leksikal;kata;noms' state='active' comment='konteks awalnya membahas restoran' correction='restoran'>kafe</segment> ini <segment id='8' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='bagus untuk makan'>bagus makan</segment> dan <segment id='12' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>bicara</segment> dengan teman.
+Silakan pergi ke restoran ini!    </body>
+</document>

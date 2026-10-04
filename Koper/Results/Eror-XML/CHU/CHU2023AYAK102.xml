@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023AYAK102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan <segment id='1' features='eror;ejaan;ejk' state='active'>Saya</segment> ada meja, kursi, dan <segment id='2' features='eror;ejaan;ejhrf' state='active'>raku</segment> buku. Di atas meja ada komputer dan buku. Meja ada di dekat jendela. Di kiri meja ada rak buku.    </body>
+</document>

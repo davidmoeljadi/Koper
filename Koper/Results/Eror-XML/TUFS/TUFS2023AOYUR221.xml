@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023AOYUR221.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya tinggal sendiri <segment id='15' features='eror;ejaan;ejtb' state='active'><segment id='1' features='eror;ejaan;ejhrf' state='active' correction='sekarang' parent='15'>sedang</segment> tetapi</segment> <segment id='16' features='eror;leksikal;kata;noms' state='active' correction='dahulu'>lalu</segment> tinggal dengan keluarga saya. Saya punya seorang adik laki-laki yang berumur 16 tahun.
+Dia sering ditegur oleh ibu saya karena dia <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='dianggap'>diangap</segment> <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='malas'>melas</segment> oleh ibu <segment id='7' features='eror;leksikal;kata;prons' state='active' correction='saya'>kami</segment>.
+Ketika <segment id='14' features='eror;ejaan;ejk' state='active' correction='ibu'>Ibu</segment> saya melihat pintu <segment id='4' features='eror;leksikal;kata;vrbs' state='active' correction='didorong atau ditendang'>ditekan</segment> oleh kaki adik saya, <segment id='8' features='eror;ejaan;ejk' state='active' correction='saya'>Saya</segment> mendengar ibu saya <segment id='5' features='eror;gramatikal;frasa-nomina;nomafx' state='active' correction='memarahi'>memarah</segment> adik saya.
+<segment id='18' features='eror;gramatikal;kalimat;kalpan' state='active'><segment id='17' features='eror;ejaan;ejtb' state='active' parent='18'><segment id='6' features='eror;leksikal;kata;konjs' state='active' comment='Konjungsi &apos;tetapi&apos; merupakan konjungsi intrakalimat' correction='Namun,' parent='17'>Tetapi</segment> <segment id='10' features='eror;ejaan;ejk' state='active' correction='adik' parent='17'>Adik</segment></segment> saya <segment id='9' features='eror;ejaan;ejhrf' state='active' correction='jujur' parent='18'>jujul</segment> <segment id='11' features='eror;ejaan;ejtb' state='active' correction='sekali. Dia' parent='18'>sekali dia</segment> meminta maaf dan diampuni oleh ibu <segment id='13' features='eror;leksikal;kata;prons' state='active' correction='saya' parent='18'>kami</segment>.</segment>     </body>
+</document>

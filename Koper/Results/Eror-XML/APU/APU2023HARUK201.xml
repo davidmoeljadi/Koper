@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023HARUK201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Wawancara dengan &lt;NAMA&gt;
+
+Hari <segment id='21' features='eror;ejaan;ejk' state='active'>senin</segment>, tanggal 24 <segment id='22' features='eror;ejaan;ejk' state='active'>april</segment>, saya <segment id='1' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>wawancara</segment> mahasiswa Indonesia. Dia bernama &lt;NAMA&gt;, mahasiswa APM, <segment id='2' features='eror;ejaan;ejk' state='active'>jurusan</segment> Marketing, tahun <segment id='3' features='eror;ejaan;ejsp' state='active'>ke dua</segment>. Dia berasal dari Tangerang, Indonesia. <segment id='23' features='eror;ejaan;ejtb' state='active'>Sekarang, dia</segment> tinggal di Minamisuga.
+
+Hobi dia <segment id='4' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>main</segment> <segment id='24' features='eror;leksikal;kata;ktas' state='active'>game</segment> dan <segment id='5' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>olahraga</segment>. Dia sangat suka “Singekinokyozin”. Karakter favorit dia Eren dan Zeke<segment id='6' features='eror;ejaan;ejtb' state='active'>, <segment id='7' features='eror;ejaan;ejhrf' state='active' parent='6'>kerena</segment></segment> dia suka persahabatan antara mereka. Dia juga suka “Sentochihironokamikakushi” di <segment id='25' features='eror;ejaan;ejk' state='active'>ghibli</segment>. Kadang-kadang, dia <segment id='8' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>mendengar</segment> lagu “<segment id='26' features='eror;ejaan;ejk' state='active'>itsumonandodemo</segment>”. Saya juga suka itu.
+
+Di Jepang, dia sudah pernah pergi ke Osaka, Fukuoka, <segment id='27' features='eror;ejaan;ejtb' state='active'>Yamagata dan</segment> Tokyo. Di Osaka, dia makan takoyaki dan ramen. Di Fukuoka, dia <segment id='9' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>jalan-jalan daerah</segment> Stasiun Hakata. Dia makan tonkatsu dan kakifurai. Dia <segment id='10' features='eror;gramatikal;frasa-adjektiva;urtfaj' state='active'>suka makan sekali</segment>. Dia sudah <segment id='11' features='eror;gramatikal;frasa-verba;urtfv' state='active'>pernah makan <segment id='28' features='eror;gramatikal;frasa-verba;vrbafx' state='active' parent='11'>coba</segment> natto</segment>, <segment id='29' features='eror;leksikal;kata;ktinf' state='active'>tapi</segment> dia sangat tidak suka. Dia <segment id='13' features='eror;gramatikal;frasa-verba;vrbafx' state='active'><segment id='12' features='eror;leksikal;kata;ktas' state='active' parent='13'>recommendasi</segment></segment> nasi <segment id='14' features='eror;ejaan;ejhrf' state='active'>riwet</segment> dan <segment id='15' features='eror;ejaan;ejk' state='active'>pulau</segment> Lombok.
+
+Dia ingin bekerja di Tokyo atau Osaka kalau sudah lulus dari APU, karena dia bisa mendapatkan pengalaman. Dia mau menjadi <segment id='16' features='eror;leksikal;kata;ktas' state='active'>businessman</segment> dan membuat sebuah perusahaan. Sekarang dia tidak tahu, <segment id='17' features='eror;leksikal;kata;ktinf' state='active'>tapi</segment> <segment id='18' features='eror;leksikal;ungkapan;ukpa' state='active'>di pikiranku ingin membuat usaha F&amp;B</segment>.
+
+<segment id='30' features='eror;ejaan;ejk' state='active'>saya</segment> senang dapat berbicara dengan &lt;NAMA&gt;. Dia ramah dan baik hati sekali. Saya terkejut karena kami ada banyak hobi yang sama. <segment id='19' features='eror;ejaan;ejk' state='active'>saya</segment> agak sulit untuk <segment id='31' features='eror;gramatikal;kalimat;kalobj' state='active'><segment id='20' features='eror;gramatikal;frasa-verba;vrbafx' state='active' parent='31'>wawancara</segment> dalam</segment> bahasa Indonesia. Saya akan belajar bahasa Indonesia lebih banyak.    </body>
+</document>

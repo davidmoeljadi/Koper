@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023SAYU104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan ada meja. Meja ada di dekat jendela. Di atas meja ada pensil dan buku. <segment id='1' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>Di</segment> buku <segment id='2' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>ada rak</segment> buku. Rak buku ada di dekat tempat tidur.    </body>
+</document>

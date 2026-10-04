@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023SHIDE404.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Yth. Bapak [NAMA]
+
+Dengan hormat,
+Saya [NAMA] ([NOMOR]), mahasiswa yang mengikuti kuliah bahasa Indonesia Bapak. Melalui pos-el ini, saya beri tahukan bahwa saya terkena virus <segment id='2' features='eror;leksikal;kata;ktas' state='active' correction='korona.'>corona</segment>.
+Saya demam dari semalam. Hari ini, saya pergi ke rumah sakit dan <segment id='1' features='eror;leksikal;kata;vrbs' state='active' correction='melakukan/melaksanakan'>memeriksakan</segment> tes <segment id='3' features='eror;ejaan;ejk' state='active' correction='Covid-19.'>COVID-19.</segment> Hasil pemeriksaannya positif. Saya melampirkan hasil tes itu pada pos-el ini. Saya mohon Bapak mengecek <segment id='7' features='eror;gramatikal;frasa-nomina;nyaitu' state='active'>itu</segment>.
+Dokter mengatakan saya harus <segment id='8' features='eror;leksikal;kata;ktinf' state='active' correction='beristirahat'>istirahat</segment> di rumah selama dua minggu. Oleh karena itu, saya tidak dapat <segment id='9' features='eror;leksikal;kata;ktinf' state='active' correction='mengikuti'>ikut</segment> ujian. 
+Saya harap Bapak memberikan saya kesempatan ujian susulan. Setelah dua minggu, saya dapat <segment id='10' features='eror;leksikal;kata;ktinf' state='active' correction='mengikuti'>ikut</segment> ujian kapan saja.
+Sambil menunggu <segment id='4' features='eror;leksikal;kata;noms' state='active' correction='balasan'>kiriman</segment> Bapak, sebelumnya saya ucapkan terima kasih.
+
+Salam saya,
+[NAMA]
+    </body>
+</document>

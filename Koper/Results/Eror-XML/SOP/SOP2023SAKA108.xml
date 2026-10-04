@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023SAKA108.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama ibu saya [NAMA]. Ibu saya bukan ibu rumah tangga, dia pegawai. Dia bekerja dari hari Senin sampai hari Jumat. Ulang tahun ibu saya tanggal 31 Juli. Dia suka menari dan minum kopi.
+Setiap hari ibu <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='bangun'>bungun</segment> jam setengah 7, lalu mencuci muka dan menggosok gigi di wastafel. Kemudian dia menonton TV sambil makan pagi di dapur. Setelah <segment id='5' features='eror;ejaan;ejtb' state='active'>itu dia</segment> minum kopi dan pergi ke kantor. 
+Pada hari <segment id='7' features='eror;ejaan;ejtb' state='active'><segment id='6' features='eror;ejaan;ejk' state='active' parent='7'>minggu</segment> saya</segment>, <segment id='3' features='eror;gramatikal;konjungsi;konjx' state='active'>dan</segment> adik <segment id='8' features='eror;ejaan;ejtb' state='active'>perempuan dan</segment> ibu pergi ke <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='Shinjuku'>Shinjyuku</segment>. Kami membeli baju di mal. Kami naik <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='kereta'>ketera</segment> dan <segment id='9' features='eror;ejaan;ejhrf' state='active'>pulung</segment> ke rumah kami.    </body>
+</document>

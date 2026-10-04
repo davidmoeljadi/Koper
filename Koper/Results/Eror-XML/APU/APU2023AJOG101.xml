@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023AJOG101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama dia [NAMA].
+<segment id='3' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari Indonesia.
+Dia lahir dan besar di <segment id='1' features='eror;ejaan;ejhrf' state='active' parent='3'><segment id='2' features='eror;ejaan;ejtb' state='active' parent='1'>Jakaruta</segment></segment>
+Dia tinggal di Mochigahama.
+Dia mahasiswa <segment id='4' features='eror;ejaan;ejk' state='active' parent='3'>fakultas</segment> APS, <segment id='5' features='eror;ejaan;ejk' state='active' parent='3'>jurusan</segment> CSM.</segment>
+Sekarang dia bekerja <segment id='6' features='eror;ejaan;ejhrf' state='active'>sampigan</segment> di Narutakiudon.
+Hobi dia <segment id='7' features='eror;ejaan;ejtb' state='active'>menyanyi</segment>
+Dia ikut klub Indonesian <segment id='8' features='eror;ejaan;ejk' state='active'>week</segment>.    </body>
+</document>

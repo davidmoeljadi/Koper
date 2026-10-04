@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BASU103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama teman saya [NAMA]. Hobi dia membaca buku dan menari. Dia membaca buku dua jam setiap hari. Dia suka buku <segment id='1' features='eror;ejaan;ejsp' state='active'>HarryPotter</segment>. Dia sering menari. <segment id='8' features='eror;gramatikal;kalimat;kalpen' state='active'>Dia menari empat kali seminggu. Karena menari adalah <segment id='2' features='eror;leksikal;kata;ktas' state='active' parent='8'>refreshing</segment> untuknya.</segment> Dia belum pernah menonton konser. <segment id='6' features='eror;gramatikal;kalimat;kalpen' state='active'>Dia berencana untuk pergi ke konser bulan depan. Karena dia bersemangat tinggi.</segment>    </body>
+</document>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023ENAT102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Kafe Favorit Saya
+
+Nama kafe favorit saya adalah Starbucks.
+Kafe ini ada di <segment id='1' features='eror;ejaan;ejk' state='active' correction='Stasiun'>stasiun</segment> Beppudaigaku, kira-kira 10 menit dari rumah saya.
+Saya suka kafe <segment id='3' features='eror;ejaan;ejtb' state='active' comment='Tidak perlu memakai tanda koma'>ini, karena</segment> ada kopi dan <segment id='8' features='eror;leksikal;kata;noms' state='active' correction='kopi'>kafe</segment> latte di kafe ini.
+<segment id='4' features='eror;gramatikal;frasa-verba;vrb0' state='active' comment='Kalimat belum memiliki predikat jadi perlu ditambah &quot;ada&quot;.' correction='Ada juga makanan, minuman, dan dessert.'><segment id='5' features='eror;gramatikal;frasa-adverbia;adv0' state='active' comment='Perlu tambahan kata &quot;juga&quot;' correction='Ada juga makanan, minuman, dan dessert' parent='4'>Makanan, minuman, dan dessert.</segment></segment>
+Saya sangat suka <segment id='7' features='eror;leksikal;kata;noms' state='active' correction='kopi'>kafe</segment> latte dan donat di kafe ini. Makanan <segment id='10' features='eror;leksikal;kata;dets' state='active' correction='ini'>itu</segment> enak dan manis.
+Ada juga kue. Rasanya enak dan manis sekali.
+<segment id='11' features='eror;ejaan;ejhrf' state='active' correction='Silakan'>Sliakan</segment> pergi ke kafe ini. Saya mau pergi ke kafe ini setiap hari.    </body>
+</document>

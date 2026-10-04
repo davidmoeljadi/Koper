@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023MIRIN404.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tokyo, 19 November 2023
+
+Hal: Kehadiran kuliah hari ini
+
+Dengan hormat,
+<segment id='10' features='eror;leksikal;ungkapan;ukpa' state='active'>Bersama ini, saya sampaikan kepada Bapak bahwa kehadiran kuliah hari ini.</segment> 
+
+Hari ini, saya tidak bisa ikut kuliah karena <segment id='3' features='eror;gramatikal;frasa-verba;vrbx' state='active'>ada</segment> demam, sakit kepala, pilek, sakit perut, dan batuk. Saya sudah minum parasetamol, tetapi demam saya masih tinggi. Gejala tersebut mulai dari kemarin malam. Saya belum pergi ke RS sehingga nanti siang saya akan pergi ke sana. 
+
+Saya sudah <segment id='1' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='mengirimkan'>kirimkan</segment> PR minggu yang lalu. Kalau hari ini ada PR, tolong <segment id='4' features='eror;ejaan;ejsp' state='active' correction='beri tahu'>beritahu</segment> <segment id='5' features='eror;leksikal;kata;prons' state='active' correction='saya.'>itu.</segment> 
+
+<segment id='8' features='eror;ejaan;ejtb' state='active' correction='Sebelumnya, saya'>Sebelumnya <segment id='6' features='eror;leksikal;kata;prons' state='active' correction='saya' parent='8'>kami</segment></segment> <segment id='7' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='mengucapkan'>ucapkan</segment> terima kasih. 
+
+Hormat <segment id='9' features='eror;leksikal;kata;prons' state='active' correction='saya,'>kami,</segment>
+[NAMA] [NAMA]
+Departemen Bahasa Asia
+Jurusan Bahasa Indonesia
+(Nomor mahasiswa) [NOMOR]    </body>
+</document>

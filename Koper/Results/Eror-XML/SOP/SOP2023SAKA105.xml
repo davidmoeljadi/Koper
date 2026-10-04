@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023SAKA105.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama <segment id='1' features='eror;ejaan;ejk' state='active'>Saya</segment> [NAMA]. Saya tinggal di Tokyo dengan orang tua dan adik <segment id='2' features='eror;gramatikal;frasa-nomina;pron0' state='active'>perempuan.</segment> Saya dari <segment id='3' features='eror;ejaan;ejk' state='active'>tokyo</segment>. Nama ayah saya [NAMA], <segment id='4' features='eror;gramatikal;konjungsi;konjx' state='active'>dan</segment> nama ibu saya [NAMA], dan nama adik perempuan saya [NAMA]. Ayah saya karyawan. Ibu saya ibu rumah <segment id='5' features='eror;ejaan;ejhrf' state='active'>taugga</segment>. Adik perempuan saya siswa SMP. Dia murid Touhoudaitouhou.    </body>
+</document>

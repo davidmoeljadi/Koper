@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023IWHA104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan saya ada tempat tidur. Di <segment id='1' features='eror;ejaan;ejhrf' state='active'>sabelah</segment> <segment id='3' features='eror;gramatikal;konjungsi;konj0' state='active'><segment id='4' features='eror;ejaan;ejtb' state='active' parent='3'>meja, <segment id='2' features='eror;ejaan;ejhrf' state='active' parent='4'>krusi</segment></segment></segment> ada tempat tidur. <segment id='8' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='Di atas tempat tidur ada buku, bantal, dan kaus'>Tempat tidur ada di atas <segment id='5' features='eror;ejaan;ejsp' state='active' parent='8'>buku ,<segment id='7' features='eror;gramatikal;konjungsi;konj0' state='active' parent='5'><segment id='6' features='eror;ejaan;ejhrf' state='active' parent='7'>bantam</segment>,kaus</segment></segment></segment>. Di atas lantai ada <segment id='9' features='eror;ejaan;ejtb' state='active'><segment id='10' features='eror;gramatikal;konjungsi;konj0' state='active' parent='9'>kamus,koran</segment></segment>.    </body>
+</document>

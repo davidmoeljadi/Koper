@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KIMI102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan saya ada <segment id='1' features='eror;ejaan;ejsp' state='active'>meja,<segment id='2' features='eror;ejaan;ejsp' state='active'>kursi</segment>,<segment id='3' features='eror;ejaan;ejsp' state='active'><segment id='4' features='eror;gramatikal;konjungsi;konj0' state='active' parent='3'>laptop</segment>,tempat</segment></segment> <segment id='5' features='eror;ejaan;ejsp' state='active'>tidur.Meja</segment> dan kursi ada di atas <segment id='7' features='eror;ejaan;ejsp' state='active'><segment id='6' features='eror;ejaan;ejhrf' state='active' parent='7'>lantal</segment>.Laptop</segment> ada di <segment id='8' features='eror;ejaan;ejsp' state='active'>meja.Tempat</segment> tidur ada di sudut dinding.    </body>
+</document>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BEKI203.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nagashisoumen adalah acara tradisional pada musim panas.
+Nagashisoumen dalam bahasa Indonesia dapat diterjemahkan sebagai &quot;<segment id='1' features='eror;leksikal;kata;ktinf' state='active'>Mie</segment> Mengalir.&quot;
+Ini adalah suatu acara di mana <segment id='4' features='eror;ejaan;ejsp' state='active'><segment id='2' features='eror;leksikal;kata;ktinf' state='active' parent='4'>mie</segment>  <segment id='5' features='eror;ejaan;ejtb' state='active'>&quot;somen</segment> (<segment id='3' features='eror;leksikal;kata;ktinf' state='active' parent='5'>mie</segment>)&quot;</segment> dialirkan di atas permukaan bambu.
+Banyak orang menikmati makan <segment id='6' features='eror;leksikal;kata;ktinf' state='active'>mie</segment> somen.    </body>
+</document>

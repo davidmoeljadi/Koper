@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023CHIS102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='9' features='eror;leksikal;kata;ktvar' state='active'><segment id='1' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Saya tinggal di Shonandai, di sebuah apartemen.' parent='9'>Saya tinggal di Shonandai. Saya tinggal di <segment id='2' features='eror;gramatikal;frasa-nomina;nomx' state='active' parent='1'>aoartemen</segment> apartemen.</segment>  <segment id='3' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Saya bangun jam tiga dan tidak mandi pagi.' parent='9'>Saya bangun jam tiga. Saya tidak mandi pagi.</segment> <segment id='5' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Saya pergi ke kampus naik bus dari Shonandai pada jam satu siang.' parent='9'>Saya pergi ke <segment id='4' features='eror;gramatikal;frasa-nomina;nomx' state='active' parent='5'>kampas</segment> kampus naik bus dari Shonandai. Saya pergi ke kampus jam satu siang.</segment> <segment id='6' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='Dari Shonandai' parent='9'>Shonandai</segment> ke kampus SFC kira-kira setengah jam.  Saya pulang ke <segment id='7' features='eror;gramatikal;frasa-nomina;nomx' state='active' parent='9'>disebuah</segment> rumah jam empat sore. <segment id='8' features='eror;gramatikal;konjungsi;konj0' state='active' correction='Setelah itu, saya' parent='9'>Saya</segment> makan lalu tidur jam sebelas malam.</segment>    </body>
+</document>

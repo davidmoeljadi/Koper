@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023SHIDE402.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+ Letak geografis adalah letak suatu negara di permukaan bumi. Secara geografis, Indonesia dikelilingi dua benua dan dua samudra <segment id='2' features='eror;leksikal;kata;konjs' state='active' comment='Dalam satu kalimat, jangan menggunakan satu kata yang sama jika maknanya sama. Dalam kalimat ini, penggunaan kata &quot;dan&quot; boros sehingga dapat diganti kata &quot;serta&quot;.' correction='serta'>dan</segment> berbatasan dengan beberapa wilayah. Jadi, Indonesia adalah jalur lalu lintas perdagangan dunia antara <segment id='1' features='eror;ejaan;ejtb' state='active'>negara negara</segment> dan digunakan sebagai wilayah yang dilewati untuk perdagangan. Karena kapal-kapal melewati Indonesia, Indonesia menjalin interaksi sosial dengan <segment id='10' features='eror;leksikal;kata;noms' state='active' correction='negara-negara luar'>luar negeri</segment>. Interaksi sosial ini menjadi kesempatan <segment id='4' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>untuk</segment> <segment id='5' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='masuknya'>masuk</segment> berbagai agama. Indonesia diberkahi dengan sumber daya alam <segment id='8' features='eror;leksikal;kata;konjs' state='active' correction='sehingga'>dan</segment> mengekspor bermacam-macam barang atau hasil bumi. <segment id='14' features='eror;ejaan;ejtb' state='active' correction='Di samping itu,'><segment id='13' features='eror;leksikal;kata;konjs' state='active' correction='Di samping itu' parent='14'>Sementara</segment> Indonesia</segment> mengimpor berbagai produk barang dari negara-negara yang lain.    </body>
+</document>

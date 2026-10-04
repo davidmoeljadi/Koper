@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023ENAT101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama dia [NAMA].
+<segment id='1' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari Jepang.
+Dia lahir <segment id='5' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='1'>di</segment> dan <segment id='6' features='eror;ejaan;ejhrf' state='active' parent='1'>besal</segment> di Gifu.
+Dia <segment id='7' features='eror;ejaan;ejhrf' state='active' parent='1'>tiggal</segment> di Kamegawa.
+Dia mahasiswa <segment id='8' features='eror;ejaan;ejk' state='active' parent='1'>fakultas</segment> <segment id='9' features='eror;ejaan;ejtb' state='active' parent='1'>APS, <segment id='10' features='eror;ejaan;ejk' state='active' parent='9'>jurusan</segment></segment> CSM.
+Dia <segment id='11' features='eror;ejaan;ejhrf' state='active' parent='1'>bekarja</segment> sampingan di <segment id='12' features='eror;ejaan;ejk' state='active' parent='1'>Izakaya</segment>.</segment>
+Hobi dia <segment id='2' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>mendengar</segment> musik.
+Dia ikut <segment id='3' features='eror;leksikal;kata;ktas' state='active'><segment id='4' features='eror;ejaan;ejk' state='active' parent='3'>club</segment></segment> SSS.    </body>
+</document>

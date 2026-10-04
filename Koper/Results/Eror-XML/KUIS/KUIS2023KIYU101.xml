@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023KIYU101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat siang. Saya mau memperkenalkan teman saya <segment id='1' features='eror;leksikal;ungkapan;ukps' state='active'>linteman saya</segment>.
+Nama dia &lt;NAMA&gt;. Panggil dia &lt;NAMA&gt;. Dia dari <segment id='2' features='eror;ejaan;ejk' state='active'>setagaya</segment>, <segment id='3' features='eror;ejaan;ejk' state='active'>provinsi</segment> Tokyo.
+Dia mahasiswa tingkat satu, program bahasa <segment id='4' features='eror;ejaan;ejk' state='active'>indonesia</segment>, Jurusan Bahasa Asia, Universitas <segment id='5' features='eror;ejaan;ejk' state='active'>bahasa asing kanda</segment>. Di universitas, <segment id='6' features='eror;leksikal;kata;prons' state='active'>saya</segment> belajar bahasa Indonesia dan bahasa Inggris. Hobi dia mendengarkan <segment id='7' features='eror;gramatikal;konjungsi;konj0' state='active'>musik, menonton</segment> film. Dia suka BTOB. Dia tinggal di <segment id='8' features='eror;ejaan;ejk' state='active'>setagaya</segment>. <segment id='9' features='eror;ejaan;ejsp' state='active'>Terimakasih</segment>.    </body>
+</document>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023IHA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat <segment id='10' features='eror;ejaan;ejtb' state='active'>siang teman-teman</segment>.
+Apa kabar?
+Kali <segment id='1' features='eror;ejaan;ejsp' state='active'>ini,saya</segment> akan <segment id='2' features='eror;ejaan;ejhrf' state='active'>meperkenalkan</segment> keluarga saya.
+Keluarga saya terdiri atas <segment id='3' features='eror;ejaan;ejsp' state='active'>ayah,<segment id='4' features='eror;ejaan;ejtb' state='active'>ibu</segment> dan</segment> kakak perempuan.
+
+Nama ayah saya &lt;NAMA&gt;. 
+Dia berasal dari <segment id='5' features='eror;ejaan;ejk' state='active'>CHIBA.</segment> 
+Dia bekerja sebagai karyawan. 
+Dia suka ramen. 
+Dia baik hati.
+
+Nama ibu saya &lt;NAMA&gt;. 
+Dia bekerja sebagai guru piano. 
+Dia suka <segment id='6' features='eror;ejaan;ejk' state='active'>AUDREY WAKABAYASHI</segment>. 
+Dia selalu mendengarkan radio. 
+Dia <segment id='7' features='eror;gramatikal;frasa-verba;vrb0' state='active'>pandai piano</segment>.
+ 
+Nama kakak perempuan saya &lt;NAMA&gt;.
+Dia mahasiswa tingkat 2 di Universitas <segment id='8' features='eror;ejaan;ejk' state='active'>musik</segment> Musashino. 
+Dia belajar <segment id='9' features='eror;leksikal;kata;ktas' state='active'>clarinet</segment>.
+Hobi dia mendengarkan musik.
+Dia juga suka EXILE.    </body>
+</document>

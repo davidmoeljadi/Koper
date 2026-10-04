@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023KHON102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Film <segment id='1' features='eror;ejaan;ejk' state='active' correction='Favorit Saya'>favorit saya</segment>
+
+Nama film favorit saya <segment id='5' features='eror;ejaan;ejtb' state='active' correction='Spider-Man: Homecoming.'>Spider <segment id='6' features='eror;ejaan;ejk' state='active' correction='Man' parent='5'>man</segment> Homecoming</segment> 
+Saya suka Tom <segment id='2' features='eror;ejaan;ejk' state='active' correction='Holland'>holland</segment>. Dia ganteng <segment id='3' features='eror;ejaan;ejk' state='active' correction='dan'>Dan</segment> lucu <segment id='4' features='eror;ejaan;ejtb' state='active' correction='sekali.'>sekali</segment> 
+Film ini bagus sekali. Saya dengan [NAMA] pergi ke Oita menonton <segment id='9' features='eror;ejaan;ejtb' state='active' correction='Spider-Man:'>Spider <segment id='8' features='eror;ejaan;ejk' state='active' correction='Man' parent='9'>man</segment></segment> Homecoming di Park Place minggu lalu. <segment id='10' features='eror;gramatikal;kalimat;kalsub' state='active' correction='Lokasinya kira-kira 2 jam dari rumah.'>Kira-Kira 2 jam dari rumah.</segment>
+ Saya suka warna merah. <segment id='12' features='eror;ejaan;ejtb' state='active' correction='Spider-Man'>Spider<segment id='13' features='eror;ejaan;ejk' state='active' correction='Man' parent='12'>man</segment></segment> juga <segment id='15' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='berwarna'>warna</segment> merah. 
+<segment id='14' features='eror;lainnya;lain' state='active' comment='Rambut Tom Holland tidak pernah berwarna kuning di film-film Marvel.'>Rambut Tom Holland cantik <segment id='7' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='14'>dia rambut</segment> <segment id='11' features='eror;gramatikal;frasa-verba;vrbafx' state='active' parent='14'>warna</segment> kuning.</segment> Saya suka film <segment id='19' features='eror;ejaan;ejtb' state='active'>ini <segment id='21' features='eror;leksikal;kata;ktinf' state='active' parent='19'>tapi</segment></segment> <segment id='20' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='tiketnya'>tiket</segment> mahal.
+Saya suka Oita. Beppu terlalu sepi <segment id='22' features='eror;leksikal;kata;preps' state='active' correction='bagi'>untuk</segment> saya. 
+Silakan menonton <segment id='16' features='eror;ejaan;ejtb' state='active' correction='Spider-Man: Homecoming.'>Spider<segment id='17' features='eror;ejaan;ejk' state='active' correction='Man' parent='16'>man</segment> <segment id='18' features='eror;ejaan;ejsp' state='active' correction='Homecoming' parent='16'>Home coming</segment></segment>    </body>
+</document>

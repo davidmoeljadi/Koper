@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023FUKI102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan saya ada meja, <segment id='1' features='eror;ejaan;ejtb' state='active'>kursi dan</segment> rak buku. Meja ada di dekat pintu. Kursi ada di dekat meja. Rak buku ada di samping meja. Buku ada di rak buku.    </body>
+</document>

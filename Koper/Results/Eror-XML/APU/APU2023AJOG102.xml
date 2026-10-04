@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023AJOG102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama sumber air panas favorit saya adalah Turunoyu.
+Sumber air panas ini ada di dekat Kannawa, kira-kira 10 menit dari rumah saya.
+Saya suka tempat <segment id='2' features='eror;ejaan;ejtb' state='active' correction='ini karena'>ini , karena</segment> sumber <segment id='8' features='eror;ejaan;ejsp' state='active' correction='air panas'>air  panas</segment> ini sepi <segment id='4' features='eror;ejaan;ejk' state='active' correction='dan'>Dan</segment> harganya <segment id='6' features='eror;ejaan;ejsp' state='active' correction='juga murah.'>juga  <segment id='7' features='eror;ejaan;ejk' state='active' correction='murah' parent='6'>Murah</segment>.</segment> 
+<segment id='9' features='eror;leksikal;ungkapan;ukpa' state='active' correction='Sumber air panas ini sempit sehingga daya tampungnya sedikit.'>Sumber air panas ini sempit <segment id='10' features='eror;leksikal;kata;konjs' state='active' correction='sehingga' parent='9'>tapi</segment> orangnya sedikit ini Sempit sumber air panas.</segment> 
+Saya pergi ke tempat ini seminggu satu kali.
+<segment id='12' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Minggu ini, saya sudah pergi ke Turunoyu pada tanggal 2 Desember.'>Saya sudah pergi ke <segment id='1' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='12'>ini tempat</segment> <segment id='11' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='12'>ini minggu</segment>.
+Saya pergi ke tempat ini tanggal dua Desember.</segment>    </body>
+</document>

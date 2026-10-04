@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023AKOH103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat <segment id='1' features='eror;ejaan;ejsp' state='active'>pagi.<segment id='7' features='eror;gramatikal;kalimat;kalpen' state='active'>Nama</segment> ayah <segment id='2' features='eror;ejaan;ejtb' state='active' parent='7'>saya, [NAMA]</segment>. Nama <segment id='3' features='eror;ejaan;ejk' state='active' parent='7'><segment id='4' features='eror;ejaan;ejhrf' state='active' parent='3'>Abu</segment></segment> <segment id='5' features='eror;ejaan;ejtb' state='active' parent='7'>saya, [NAMA]</segment>. Nama kakak laki-laki <segment id='6' features='eror;ejaan;ejtb' state='active' parent='7'>saya, [NAMA]</segment>.</segment>
+Kami tinggal di Setagaya. Ayah saya bekerja di Ginza. <segment id='8' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='pegawai'>Dia toko</segment> koper.
+Ibu<segment id='9' features='eror;leksikal;kata;prons' state='active'>nya</segment> tidak bekerja. Dia <segment id='10' features='eror;ejaan;ejk' state='active'>Ibu</segment> rumah tangga.
+[NAMA] <segment id='12' features='eror;leksikal;kata;vrbs' state='active' correction='belajar'>kuliah</segment> di SMA Keio <segment id='11' features='eror;gramatikal;frasa-nomina;nomx' state='active'>SMA</segment>.    </body>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DAYU102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='6' features='eror;leksikal;kata;ktvar' state='active'>Saya tinggal di <segment id='1' features='eror;ejaan;ejsp' state='active' correction='Hachioji. Saya' parent='6'>Hachioji.Saya</segment> tinggal di apartemen sebelas <segment id='2' features='eror;ejaan;ejsp' state='active' correction='lantai. Setiap' parent='6'>lantai.Setiap</segment> <segment id='5' features='eror;ejaan;ejtb' state='active' correction='hari, saya' parent='6'>hari saya</segment> bangun jam delapan pagi dan sarapan jam <segment id='3' features='eror;ejaan;ejsp' state='active' correction='sembilan. Saya' parent='6'>sembilan.Saya</segment> tidak mandi <segment id='4' features='eror;ejaan;ejsp' state='active' correction='pagi. Saya' parent='6'>pagi.Saya</segment> pergi ke kampus naik kereta dari Hachioji.
+Saya pergi ke kampus jam <segment id='8' features='eror;ejaan;ejsp' state='active'>sepuluh.</segment>Dari</segment> Hachioji ke kampus SFC kira-kira dua jam. Setiap <segment id='7' features='eror;ejaan;ejtb' state='active' correction='hari, saya'>hari saya</segment> pulang ke apartemen jam <segment id='9' features='eror;gramatikal;frasa-nomina;nomx' state='active'>dua puluh</segment> delapan <segment id='10' features='eror;ejaan;ejsp' state='active' correction='malam. Saya'>malam.Saya</segment> <segment id='11' features='eror;ejaan;ejtb' state='active' correction='makan, lalu'>makan lalu</segment> tidur jam <segment id='12' features='eror;lainnya;lain' state='active'>dua puluh tiga</segment>.    </body>
+</document>

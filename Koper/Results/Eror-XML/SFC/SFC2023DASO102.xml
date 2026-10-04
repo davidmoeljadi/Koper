@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DASO102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di dalam kamar ada banyak barang.
+Di kamar ada tempat tidur <segment id='1' features='eror;gramatikal;frasa-nomina;nomx' state='active'>loteng</segment> tingkat.
+Di atas tempat tidur <segment id='2' features='eror;gramatikal;frasa-nomina;nomx' state='active'>loteng</segment> tingkat ada jam.
+Meja saya ada di bawah tempat tidur <segment id='3' features='eror;gramatikal;frasa-nomina;nomx' state='active'>loteng</segment> tingkat.
+Kursi saya ada di dekat <segment id='4' features='eror;ejaan;ejk' state='active'>Meja</segment>.
+Di atas meja ada sepuluh buku.
+Meja ada di dekat <segment id='5' features='eror;gramatikal;frasa-nomina;detx' state='active'>satu</segment> komputer.    </body>
+</document>

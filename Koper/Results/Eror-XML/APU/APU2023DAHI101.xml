@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023DAHI101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama <segment id='1' features='eror;leksikal;kata;prons' state='active' correction='dia'>dari</segment> [NAMA].
+<segment id='2' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari Taiwan.
+Dia lahir dan besar di Taichung.
+Dia mahasiswa APU <segment id='6' features='eror;ejaan;ejk' state='active' parent='2'>fakultas</segment> APM <segment id='7' features='eror;ejaan;ejk' state='active' parent='2'>jurusan</segment> <segment id='8' features='eror;leksikal;kata;ktas' state='active' parent='2'>Marketing</segment>.
+Dia sekarang tinggal di Kitahama, Beppu.
+Dia tidak bekerja <segment id='9' features='eror;ejaan;ejhrf' state='active' parent='2'>sampigan</segment>.</segment>
+Hobi dia <segment id='3' features='eror;ejaan;ejhrf' state='active'>olharaga</segment>.
+Dia <segment id='4' features='eror;ejaan;ejhrf' state='active'>iku</segment> <segment id='5' features='eror;ejaan;ejk' state='active'>klub</segment> Life Music.    </body>
+</document>

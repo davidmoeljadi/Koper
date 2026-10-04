@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023FUKA104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama<segment id='22' features='eror;leksikal;kata;prons' state='active'>nya</segment> [NAMA] [NAMA].
+<segment id='20' features='eror;leksikal;kata;ktvar' state='active'><segment id='17' features='eror;ejaan;ejhrf' state='active' correction='Saya' parent='20'>Sava</segment> mahasiswa Universitas Tokyo.
+Saya berasal dari Tokyo.
+<segment id='16' features='eror;leksikal;kata;prons' state='active' correction='Saya' parent='20'>Dia</segment> punya adik laki-laki.
+Dia <segment id='23' features='eror;gramatikal;frasa-verba;vrbafx' state='active' parent='20'>umur</segment> <segment id='13' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='tiga belas tahun.' parent='20'>tiga belas</segment>.
+Dia <segment id='21' features='eror;leksikal;kata;noms' state='active' correction='murid' parent='20'>mahasiswa</segment> SMP.
+Saya bangun jam 5 pagi.
+Saya sarapan jam <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='setengah' parent='20'>setangah</segment> 6 pagi.
+Saya paling <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='cepat' parent='20'>sepat</segment> pergi ke <segment id='3' features='eror;leksikal;kata;ktas' state='active' correction='kampus' parent='20'>campus</segment>.</segment>
+<segment id='19' features='eror;leksikal;kata;ktvar' state='active'>Saya jauh lebih pintar <segment id='5' features='eror;ejaan;ejhrf' state='active' correction='daripada' parent='19'>deripada</segment> <segment id='4' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='mahasiswa lain.' parent='19'>lain mahasiswa</segment>.
+Saya <segment id='6' features='eror;ejaan;ejhrf' state='active' correction='belajar' parent='19'>belajal</segment> <segment id='15' features='eror;leksikal;kata;noms' state='active' correction='farmasi' parent='19'>obat</segment> dari jam 8 <segment id='7' features='eror;ejaan;ejsp' state='active' correction='pagi sampai' parent='19'>pagi<segment id='8' features='eror;leksikal;kata;preps' state='active' correction='sampai' parent='7'>ke</segment></segment> jam 12.
+<segment id='14' features='eror;leksikal;ungkapan;ukpa' state='active' comment='Kalimat ini tidak jelas keterangan waktu makan siangnya karena bisa antara 5 menit atau 5 jam. Namun, melihat jarak antara jam 12 ke jam 1 adalah 1 jam, penulis kemungkinan dapat mengubah kalimatnya ke &quot;Saya makan siang 1 jam&quot;.' correction='Saya makan siang 1 jam' parent='19'>Saya makan <segment id='26' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='dari jam 12 lewat 5 menit' parent='14'>siang <segment id='24' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='14'>5</segment> menit <segment id='25' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='jam 12' parent='24'>jam</segment></segment>.</segment>
+Saya <segment id='9' features='eror;ejaan;ejhrf' state='active' correction='belajar' parent='19'>belajal</segment> hukum dari jam <segment id='11' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='setengah 1' parent='19'>1 <segment id='10' features='eror;ejaan;ejhrf' state='active' correction='setengah' parent='11'>setenga</segment></segment> siang
+sampai jam 6 sore.
+Saya <segment id='27' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='paruh' parent='19'>bekerja <segment id='18' features='eror;ejaan;ejhrf' state='active' comment='Kata ini barangkali dapat merujuk ke &apos;sif malam&apos; atau &apos;paruh waktu&apos;.' parent='27'>waku</segment></segment> di Kabukicho <segment id='29' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='jam' parent='19'>dari 8</segment> <segment id='28' features='eror;leksikal;kata;noms' state='active' correction='malam' parent='19'>sore</segment>
+sampai jam 2 pagi.
+Saya pulang ke rumah jam 3 pagi.
+Saya lelah. 
+<segment id='12' features='eror;gramatikal;kalimat;kalsub' state='active' correction='Saya sangat rajin.' parent='19'>Sangat rajin.</segment>
+Saya tidur 2 jam.
+<segment id='30' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='19'>Saya hobi</segment> menyanyi.</segment>    </body>
+</document>

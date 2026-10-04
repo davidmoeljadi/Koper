@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DAKA101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='5' features='eror;gramatikal;frasa-nomina;pron0' state='active'>Teman namanya</segment> <segment id='1' features='eror;ejaan;ejsp' state='active'>[NAMA].Dia</segment> lahir pada tanggal 25 Februari <segment id='2' features='eror;ejaan;ejsp' state='active'>2004.Tahun</segment> ini umurnya 18 <segment id='3' features='eror;ejaan;ejsp' state='active'>tahun.Dia</segment> mau kado <segment id='4' features='eror;ejaan;ejhrf' state='active'>coklat</segment>.    </body>
+</document>

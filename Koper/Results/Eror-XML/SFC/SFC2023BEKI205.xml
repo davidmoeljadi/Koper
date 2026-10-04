@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BEKI205.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='8' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya sering makan di <segment id='1' features='eror;ejaan;ejsp' state='active' parent='8'><segment id='3' features='eror;ejaan;ejtb' state='active' parent='1'>luar.  <segment id='4' features='eror;gramatikal;frasa-nomina;pronx' state='active' parent='3'>Saya</segment></segment></segment> tidak hanya di restoran makanan cepat <segment id='5' features='eror;ejaan;ejtb' state='active' correction='saji, tetapi' parent='8'>saji tetapi</segment> juga di restoran.</segment>
+
+Salah satu restoran favorit saya adalah <segment id='2' features='eror;ejaan;ejtb' state='active' comment='Tidak perlu menggunakan tanda petik tunggal'>&apos;Kushiya Monogatari&apos;</segment>. Tempat itu adalah restoran makanan goreng. Saya pergi ke sana kira-kira tiga kali setahun.
+
+Di sana, kita bisa memilih makanan favorit kita dari beragam pilihan dan makan sebanyak yang kita inginkan.
+Kita bisa puas dengan kuantitas dan rasa makanan di sana.    </body>
+</document>

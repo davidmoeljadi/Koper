@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023AOMI103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+［Rendang］
+
+Di Indonesia ada kuliner bernama <segment id='18' features='eror;ejaan;ejsp' state='active'><segment id='1' features='eror;ejaan;ejhrf' state='active' parent='18'><segment id='17' features='eror;ejaan;ejk' state='active' parent='1'>Rundan</segment></segment>.<segment id='19' features='eror;gramatikal;frasa-nomina;nom0' state='active' parent='18'>Ini</segment></segment> dinobatkan sebagai makanan paling lezat di dunia oleh CNN pada <segment id='2' features='eror;ejaan;ejsp' state='active'>2017.<segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Rendang' parent='2'>Rundan</segment></segment> adalah hidangan <segment id='15' features='eror;gramatikal;konjungsi;konj0' state='active' correction='yaitu'>tradisional <segment id='16' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='daging sapi yang direbus'>yang</segment> direbus daging sapi</segment> dengan susu kelapa dan rempah-rempah.
+Ada banyak <segment id='5' features='eror;ejaan;ejk' state='active' correction='muslim'>Muslim</segment> di Indonesia yang menjalankan ibadah <segment id='6' features='eror;ejaan;ejsp' state='active'>puasa.<segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active' parent='6'>Ini</segment></segment> adalah hidangan yang bisa dimakan setelah berbuka puasa.
+Selain itu, karena ini adalah hidangan khusus seperti <segment id='20' features='eror;ejaan;ejk' state='active'>Sukiyaki</segment> Jepang, kadang-kadang dimakan <segment id='7' features='eror;leksikal;kata;noms' state='active' correction='saat'>dengan</segment> <segment id='21' features='eror;leksikal;kata;noms' state='active' correction='hari khusus'>Halenohi</segment>.
+<segment id='8' features='eror;leksikal;ungkapan;ukpa' state='active'>Rempah-rempah digunakan dalam berbagai hal, seperti cabai, bawang putih, dan <segment id='10' features='eror;ejaan;ejsp' state='active'><segment id='22' features='eror;leksikal;kata;noms' state='active' parent='10'>galang</segment>.</segment>Selain</segment> daging sapi, <segment id='24' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='daging kambing, domba, dan ayam terkadang juga digunakan'>terkadang juga <segment id='9' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='daging' parent='24'><segment id='23' features='eror;gramatikal;frasa-verba;vrbpas' state='active' parent='9'>menggunakan</segment> kambing</segment>, domba, dan ayam</segment>.
+<segment id='11' features='eror;ejaan;ejhrf' state='active' correction='Rendang'>Rundan</segment> bisa dimakan di restoran <segment id='13' features='eror;ejaan;ejsp' state='active'><segment id='12' features='eror;ejaan;ejk' state='active' comment='Tidak perlu kapital karena merujuk ke nama tempat yang umum, bukan daerah.' correction='padang' parent='13'>Padang</segment>.Ini</segment> adalah hidangan termahal <segment id='14' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>di antara</segment> mereka.    </body>
+</document>

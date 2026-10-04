@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023SAKA104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di dekat piano ada <segment id='1' features='eror;ejaan;ejsp' state='active'>meja．Di</segment> dalam laci ada <segment id='3' features='eror;ejaan;ejtb' state='active'>pensil <segment id='2' features='eror;gramatikal;konjungsi;konjx' state='active' parent='3'>dan</segment></segment> <segment id='4' features='eror;ejaan;ejtb' state='active'>bolpoin dan</segment> pensil mekanik. Di atas meja ada buku. Koran ada di atas kursi.    </body>
+</document>

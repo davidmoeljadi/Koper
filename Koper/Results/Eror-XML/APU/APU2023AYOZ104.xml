@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023AYOZ104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya Tiga Bersaudara
+
+Nama saya [NAMA] [NAMA]. Saya berasal dari Oita.
+Saya mahasiswa <segment id='2' features='eror;ejaan;ejtb' state='active' comment='Kekurangan tanda baca koma [,]' correction='APU, Fakultas'>APU <segment id='1' features='eror;ejaan;ejk' state='active' comment='Penggunaan huruf kapital karena merujuk pada nama diri' correction='Fakultas' parent='2'>fakultas</segment></segment> APS. Umur saya 18 tahun.
+Saya mahasiswa tahun kesatu.
+<segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Keluarga'>Keluarge</segment> saya ada lima orang.
+<segment id='4' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya tiga bersaudara. Saya anak kedua.</segment>
+
+<segment id='5' features='eror;gramatikal;kalimat;kalsub' state='active'>Ayah, ibu, kakak laki-laki saya, <segment id='6' features='eror;ejaan;ejtb' state='active' comment='Kekurangan tanda baca koma [,]' correction='saya, dan' parent='5'>saya dan</segment> adik laki-laki saya.</segment> 
+Ibu dan adik <segment id='21' features='eror;gramatikal;frasa-nomina;pron0' state='active'>laki-laki tinggal</segment> di Oita, Kunisaki. 
+Nama ibu saya [NAMA], nama adik laki-laki saya [NAMA]. 
+Ulang tahun [NAMA] tanggal 23 Mei. Ulang tahun [NAMA] tanggal 7 <segment id='20' features='eror;ejaan;ejhrf' state='active' correction='Agustus'>Augustus</segment>. Umur [NAMA] 10 tahun. Dia siswa <segment id='9' features='eror;ejaan;ejsp' state='active' comment='Kekurangan spasi' correction='kelas 4'>kelas4</segment> SD.
+Ayah saya adalah seorang <segment id='7' features='eror;leksikal;kata;noms' state='active' correction='pilot'>sopir</segment> helikopter. Nama dia [NAMA]. Umur dia 50 tahun.
+Hobi dia memancing dan memasak. 
+Adik laki-laki saya dan kakak laki-laki saya suka sepak bola.
+Kakak laki-laki saya adalah seorang petugas polisi. Umur dia 21 tahun. Dia tinggal di Hita, Oita. Dia bekerja setiap hari.
+
+Ngomong-ngomong, kakek saya dan nenek<segment id='8' features='eror;gramatikal;frasa-nomina;pronx' state='active'>ku</segment> saya tinggal di Miyazaki.
+Mereka suka berkebun. Saya pergi ke rumah kakek dan nenek <segment id='18' features='eror;ejaan;ejsp' state='active' comment='Kekurangan penggunaan spasi' correction='4 tahun'>4tahun</segment> <segment id='19' features='eror;ejaan;ejhrf' state='active' correction='sekali'>sekail</segment>.    </body>
+</document>

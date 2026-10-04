@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DASO103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya tinggal di Syonandai. Saya tinggal sendirian. <segment id='2' features='eror;gramatikal;kalimat;kalpen' state='active'>Nama ayah<segment id='1' features='eror;leksikal;kata;prons' state='active' correction='saya' parent='2'>nya</segment> [NAMA]. Dan nama ibu<segment id='3' features='eror;leksikal;kata;prons' state='active' parent='2'>nya</segment> [NAMA].</segment> Mereka tinggal di Chiba. Kami berasal dari Shinurayasu.
+Saya tidak punya saudara kandung.    </body>
+</document>

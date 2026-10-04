@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023IRIS105.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Saya tinggal di Tokyo dengan orang tua saya. Nama ayah saya <segment id='1' features='eror;ejaan;ejtb' state='active'>[NAMA], dan</segment> nama ibu saya [NAMA]. Ayah saya pegawai. Ibu <segment id='2' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='juga'>saya pegawai</segment>. Saya anak tunggal. Saya punya nenek. Dia tinggal di Kanazawa.    </body>
+</document>

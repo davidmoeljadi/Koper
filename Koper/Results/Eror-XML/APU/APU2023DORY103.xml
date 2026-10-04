@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023DORY103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Restoran <segment id='1' features='eror;ejaan;ejk' state='active'>favorit</segment> <segment id='2' features='eror;ejaan;ejk' state='active'>saya</segment>
+
+Restoran favorit saya Kappa Sushi.
+Seminggu <segment id='3' features='eror;leksikal;kata;dets' state='active'>ava</segment> kali saya makan di Kappa Sushi.
+<segment id='4' features='eror;gramatikal;kalimat;kalpen' state='active'>Makanan di Kappa Sushi enak sekali dan murah.
+Makanan di Kappa Sushi selalu bagus.</segment>
+Saya suka tuna dan tempura di Kappa Sushi.
+Saya selalu makan terlalu banyak!    </body>
+</document>

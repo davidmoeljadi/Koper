@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023KAYU104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejk' state='active' comment='Jika baris pertawa merupakan judul, maka gunakan huruf kapital' correction='Keluarga Saya'>Keluarga saya</segment>
+
+Nama saya [NAMA] [NAMA]
+Saya mahasiswa tahun kesatu di universitas. 
+Nama universitas <segment id='4' features='eror;gramatikal;frasa-verba;vrb0' state='active' comment='Kekurangan verba &quot;adalah&quot;' correction='saya adalah Ritsumeikan'>saya <segment id='2' features='eror;ejaan;ejsp' state='active' comment='Kekurangan spasi' correction='Ritsumeikan Asia Pacific University (APU)'>Ritsumeikan</segment> AsiaPacific University(APU)</segment>. <segment id='3' features='eror;gramatikal;frasa-nomina;nom0' state='active' comment='Kekurangan nomina &quot;mahasiswa&quot;' correction='Saya mahasiswa Fakultas ST'>Saya <segment id='5' features='eror;ejaan;ejk' state='active' correction='Fakultas ST'>fakultas</segment> ST</segment>. Sekarang saya tinggal di <segment id='6' features='eror;ejaan;ejk' state='active' correction='AP House'>AP house</segment>. 
+Umur saya 18 tahun.
+<segment id='15' features='eror;gramatikal;kalimat;kalpen' state='active'>Keluarga saya ada 5 orang.
+Ayah, <segment id='14' features='eror;ejaan;ejk' state='active' parent='15'>Ibu</segment>, kakak perempuan, <segment id='7' features='eror;ejaan;ejtb' state='active' comment='Kekurangan tanda baca koma [,]' correction='saya, dan' parent='15'>saya dan</segment> adik laki laki.</segment> Saya anak kedua dari tiga bersaudara.
+Saya kembar. 
+Kakak perempuan saya <segment id='16' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>umur</segment> 21 tahun. 
+Nama dia [NAMA]. Dia mahasiswa tahun ketiga. Sekarang dia tinggal di Chiba. Hobi dia <segment id='17' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>mendengar</segment> musik. Dia bekerja sampingan di <segment id='8' features='eror;ejaan;ejsp' state='active' comment='Merupakan nama diri, penggunaan spasi tidak perlu' correction='Starbucks'>Star bucks</segment>. Dia suka kopi. <segment id='18' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='juga'>Dia suka</segment> melon dan semangka. Ulang tahun dia tanggal 25 April. 
+Nama adik <segment id='13' features='eror;ejaan;ejtb' state='active' correction='laki-laki'>laki <segment id='19' features='eror;gramatikal;frasa-nomina;pron0' state='active'>laki</segment> [NAMA]</segment>. Dia mahasiswa tahun kesatu. Sekarang dia tinggal di Nagasaki. Hobi dia main <segment id='10' features='eror;leksikal;kata;ktas' state='active' comment='permainan' correction='gim'>game</segment>. Dia main <segment id='9' features='eror;leksikal;kata;ktas' state='active' comment='permainan' correction='gim'>game</segment> setiap hari. Dia suka pedas. Ulang tahun dia tanggal 21 Desember.
+<segment id='11' features='eror;leksikal;kata;prons' state='active' comment='Pronomina &quot;kami&quot; lebih tepat digunakan. Kami -&gt;&gt; Orang pertama jamak yang berbicara bersama dengan orang lain (tidak termasuk yang diajak berbicara); yang menulis atas nama kelompok, tidak termasuk pembaca (KBBI).' correction='Kami'>Kita</segment> pulang ke rumah orang tua kira-kira enam bulan sekali.
+Nama ayah saya [NAMA]. Dia tinggal di Fukuoka. Dia wiraswasta. Ulang tahun dia tanggal 2 Mei. Hobi dia mengambil foto. Dia mengambil foto seminggu sekali. Dia suka pedas. Dia tidak suka buah.
+Nama <segment id='20' features='eror;ejaan;ejk' state='active'>Ibu</segment> saya [NAMA]. Dia tinggal di Fukuoka. Ulang tahun dia tanggal 21 Januari. Hobi dia memakai <segment id='12' features='eror;ejaan;ejk' state='active' comment='Sudah tercantum dalam KBBI, dan penulisannya tidak menggunakan huruf kapital' correction='kimono'>Kimono.</segment> Dia bekerja di SD.    </body>
+</document>

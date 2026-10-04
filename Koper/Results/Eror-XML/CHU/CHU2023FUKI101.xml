@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023FUKI101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Saya tinggal dengan orang tua <segment id='1' features='eror;gramatikal;frasa-nomina;pronx' state='active'>kami</segment>. Saya punya kakak perempuan dan kakak laki-laki. Nama kakak perempuan saya [NAMA]. <segment id='2' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='ibu'>Dia rumah</segment> tangga. Nama kakak laki-laki saya [NAMA]. Dia pegawai negeri.    </body>
+</document>

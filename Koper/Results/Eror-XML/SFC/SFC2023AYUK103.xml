@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023AYUK103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Saya tinggal dengan orang tua saya. <segment id='1' features='eror;gramatikal;kalimat;kalpen' state='active'>Nama <segment id='2' features='eror;gramatikal;frasa-nomina;pron0' state='active' parent='1'>ayah [NAMA]</segment>. Dan nama <segment id='3' features='eror;gramatikal;frasa-nomina;pron0' state='active' parent='1'>ibu [NAMA]</segment>.</segment> Ayah<segment id='4' features='eror;leksikal;kata;prons' state='active' correction='saya'>nya</segment> karyawan. <segment id='6' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='Ibu saya ibu rumah tangga.'>Ibu<segment id='5' features='eror;leksikal;kata;prons' state='active' parent='6'>nya</segment> rumah</segment> tangga. <segment id='7' features='eror;leksikal;kata;konjs' state='active' correction='Selain itu,'>Dan</segment> kami punya satu kucing. Namanya [NAMA]. Kami tinggal di Machida.    </body>
+</document>

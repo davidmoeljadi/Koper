@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KIRI103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejsp' state='active' correction='Ibu kota'>Ibukota</segment> Indonesia adalah Jakarta.
+<segment id='2' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Jakarta adalah kota terbesar di Indonesia dan merupakan kota terpadat di dunia.'>Ini adalah kota terbesar di Indonesia. <segment id='3' features='eror;leksikal;kata;ktvar' state='active'>Jakarta juga merupakan kota terpadat kedua di dunia.</segment> Jakarta terletak di <segment id='11' features='eror;ejaan;ejk' state='active' parent='3'>pulau</segment> Jawa. Bahasa Indonesia digunakan di Jakarta. <segment id='4' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Jakarta memiliki dua makanan khas, yaitu nasi goreng dan mi goreng.'>Jakarta memiliki dua makanan khas: yang pertama adalah nasi goreng.</segment> Yang kedua adalah <segment id='12' features='eror;leksikal;kata;ktinf' state='active' parent='4'>mie</segment> goreng.</segment> <segment id='5' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='Mi gorengnya'><segment id='6' features='eror;leksikal;kata;ktinf' state='active' correction='Mi' parent='5'>Mie</segment> goreng</segment> mirip dengan <segment id='7' features='eror;leksikal;kata;ktinf' state='active' correction='mi'>mie</segment> goreng Jepang. Perbedaan <segment id='8' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='mi goreng'>antara Jepang</segment> dan Jakarta adalah penggunaan daging ayam sebagai pengganti daging babi. Hal ini dikarenakan banyaknya populasi <segment id='10' features='eror;ejaan;ejk' state='active' correction='muslim'><segment id='9' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='di Jakarta' parent='10'><segment id='13' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='di Jakarta' parent='9'>Muslim</segment></segment></segment>.
+Saya ingin mengunjungi Jakarta.    </body>
+</document>

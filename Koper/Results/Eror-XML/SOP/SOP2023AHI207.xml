@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023AHI207.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Sahabat <segment id='1' features='eror;ejaan;ejk' state='active' correction='Saya'>saya</segment>
+
+Sahabat saya [NAMA]. Dia tinggal di Tokyo dan pergi ke <segment id='2' features='eror;gramatikal;frasa-nomina;yg0' state='active'>universitas <segment id='4' features='eror;gramatikal;frasa-preposisi;prep0' state='active'><segment id='3' features='eror;ejaan;ejhrf' state='active' correction='berbeda' parent='4'>berbaeda</segment></segment> saya</segment>. Dia bersekolah <segment id='5' features='eror;gramatikal;frasa-verba;vrbx' state='active'>bertemu</segment> di sekolah yang sama di Selandia Baru. Saya bersekolah di <segment id='15' features='eror;gramatikal;frasa-nomina;det0' state='active'>SMP <segment id='6' features='eror;ejaan;ejhrf' state='active' correction='selama' parent='15'>saelama</segment></segment> satu semester. Saya mengenalnya di sana. Waktu kami ada di Selandia Baru, kami pergi ke <segment id='8' features='eror;leksikal;kata;ktas' state='active' correction='kafe'>cafe</segment> bersama <segment id='9' features='eror;gramatikal;frasa-verba;vrbx' state='active'>bertemu</segment>, tetapi kami berteman baik setelah <segment id='10' features='eror;gramatikal;frasa-verba;vrbx' state='active'>datang</segment> pulang ke <segment id='11' features='eror;ejaan;ejk' state='active' correction='Jepang'>jepang</segment>. 
+
+Kami pergi ke Disney <segment id='12' features='eror;ejaan;ejk' state='active' correction='Sea'>sea</segment> untuk <segment id='13' features='eror;ejaan;ejhrf' state='active' correction='Halloween'><segment id='7' features='eror;ejaan;ejk' state='active' parent='13'>hallowen</segment></segment> bulan ini. <segment id='14' features='eror;gramatikal;frasa-verba;vrbaux0' state='active'>Kami pergi</segment> ke sana tahun lalu. Saya senang sekali dan tidak sabar menunggu.    </body>
+</document>

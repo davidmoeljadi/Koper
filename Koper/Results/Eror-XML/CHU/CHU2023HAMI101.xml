@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023HAMI101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya <segment id='1' features='eror;ejaan;ejsp' state='active'>[NAMA].Saya</segment> dari <segment id='2' features='eror;ejaan;ejsp' state='active'>Kanagawa.Saya</segment> tinggal di Kanagawa dengan orang <segment id='3' features='eror;ejaan;ejsp' state='active'>tua.Ayah</segment> saya dari <segment id='4' features='eror;ejaan;ejsp' state='active'><segment id='5' features='eror;ejaan;ejtb' state='active' parent='4'>Nagasaki,<segment id='6' features='eror;leksikal;kata;konjs' state='active' correction='dan/sedangkan' parent='5'>dengan</segment></segment></segment> ibu saya dari <segment id='7' features='eror;ejaan;ejsp' state='active'>Yamagata.Ayah</segment> saya <segment id='8' features='eror;ejaan;ejsp' state='active'>pegawai.Ibu</segment> saya perawat.
+Saya punya kakak <segment id='9' features='eror;ejaan;ejsp' state='active'>laki-laki.Dia</segment> dari Yamagata dan sekarang tinggal di Kanagawa dengan <segment id='10' features='eror;ejaan;ejsp' state='active'>kami.Namanya</segment> [NAMA]. Kakak laki-laki saya perawat.    </body>
+</document>

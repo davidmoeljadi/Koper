@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023IWAKEN201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hai Tuti,
+
+<segment id='1' features='eror;leksikal;kata;ktinf' state='active'>Saya</segment> <segment id='3' features='eror;gramatikal;frasa-verba;urtfv' state='active'>mau menikahi <segment id='2' features='eror;leksikal;kata;ktinf' state='active' parent='3'>Anda</segment> sekali</segment>.
+<segment id='4' features='eror;leksikal;kata;ktinf' state='active'>Saya</segment> sangat mencintai <segment id='5' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment>.
+Perasaan ini tidak akan pernah berubah seumur hidup.
+Jika <segment id='6' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> merasakan hal yang sama, tolong katakan <segment id='7' features='eror;leksikal;kata;preps' state='active'>ke</segment> ibu <segment id='8' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> bahwa <segment id='9' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> ada pacar <segment id='11' features='eror;gramatikal;frasa-nomina;ygx' state='active'>yang</segment> calon suami <segment id='10' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment>.
+Mungkin sulit sekali untuk <segment id='12' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>menyampaikan ibu</segment> <segment id='13' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> tentang hal ini, tetapi <segment id='14' features='eror;leksikal;kata;ktinf' state='active'>saya</segment> senang kalau <segment id='15' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> melakukannya untuk masa depan <segment id='16' features='eror;leksikal;kata;prons' state='active'>kami</segment>.
+Dalam waktu dekat, <segment id='17' features='eror;leksikal;kata;ktinf' state='active'>saya</segment> akan mengunjungi rumah <segment id='18' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> untuk menemui ibu <segment id='19' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> dan <segment id='21' features='eror;gramatikal;frasa-verba;vrbaux0' state='active'><segment id='20' features='eror;leksikal;kata;ktinf' state='active' parent='21'>saya</segment> menjelaskan</segment> <segment id='22' features='eror;leksikal;kata;noms' state='active'>relasi</segment> <segment id='23' features='eror;leksikal;kata;prons' state='active'>kami</segment> kepada dia.
+Jangan khawatir, sayang.
+Tidak ada orang yang bisa <segment id='24' features='eror;gramatikal;frasa-verba;vrbpas' state='active'>diganggu</segment> <segment id='25' features='eror;leksikal;kata;prons' state='active'>kami</segment>.
+<segment id='26' features='eror;leksikal;kata;prons' state='active'>Kami</segment> harus mengatasi masalah ini.
+<segment id='29' features='eror;leksikal;ungkapan;ukpa' state='active'>Kalau <segment id='27' features='eror;leksikal;kata;prons' state='active' parent='29'>kami</segment> bisa mengatasi masalah ini, kebahagian menunggu <segment id='28' features='eror;leksikal;kata;prons' state='active' parent='29'>kami</segment>.</segment>    </body>
+</document>

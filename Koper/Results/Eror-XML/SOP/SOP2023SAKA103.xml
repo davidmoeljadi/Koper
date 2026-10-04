@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023SAKA103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya bangun jam <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='tujuh'>tuju</segment> pagi. Saya makan pagi jam <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='tujuh'>tuju</segment> <segment id='8' features='eror;ejaan;ejhrf' state='active'>jawat</segment> tiga puluh menit. Saya pergi ke kampus naik kereta. Dari rumah<segment id='6' features='eror;leksikal;kata;prons' state='active'>ku</segment> ke kampus kira-kira lima puluh menit. Saya makan siang di Nana Tua. Tepat jam <segment id='3' features='eror;lainnya;lain' state='active'>lima belas</segment> saya pergi ke <segment id='5' features='eror;ejaan;ejhrf' state='active' correction='rumah'>ruma</segment><segment id='4' features='eror;gramatikal;frasa-nomina;pronx' state='active' comment='hapus'>ku</segment>. Saya makan malam dari jam delapan malam. Saya tidur jam sebelas malam.    </body>
+</document>

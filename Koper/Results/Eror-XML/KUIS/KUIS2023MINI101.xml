@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023MINI101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat <segment id='12' features='eror;ejaan;ejtb' state='active'>siang <segment id='11' features='eror;ejaan;ejsp' state='active'>teman</segment>‐teman</segment>.
+Apa <segment id='1' features='eror;ejaan;ejhrf' state='active'>kaber</segment>?
+Kenalkan.
+Nama saya &lt;NAMA&gt;.
+Panggil saya &lt;NAMA&gt;.
+Saya orang Jepang.
+Saya dari <segment id='2' features='eror;ejaan;ejk' state='active'>kecamatan</segment> <segment id='13' features='eror;ejaan;ejtb' state='active'>Edogawa <segment id='3' features='eror;ejaan;ejk' state='active' parent='13'>provinsi</segment></segment> Tokyo.
+Saya mahasiswa tingkat satu, Program <segment id='4' features='eror;ejaan;ejk' state='active'>bahasa</segment> Indonesia, <segment id='5' features='eror;ejaan;ejk' state='active'>universitas</segment> <segment id='6' features='eror;ejaan;ejk' state='active'>bahasa</segment> <segment id='8' features='eror;ejaan;ejhrf' state='active'><segment id='7' features='eror;ejaan;ejk' state='active' parent='8'>asign</segment></segment> Kanda.
+Di universitas, saya belajar bahasa Indonesia dan bahasa Inggris.
+Hobi saya menonton film dan <segment id='9' features='eror;ejaan;ejsp' state='active'>jalan‐jalan</segment>.
+Saya suka anjing.
+Senang bertemu dengan <segment id='10' features='eror;ejaan;ejk' state='active'>anda</segment>.
+Terima kasih.    </body>
+</document>

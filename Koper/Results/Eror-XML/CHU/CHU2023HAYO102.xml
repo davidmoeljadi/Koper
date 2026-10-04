@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023HAYO102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di dalam ruanganku ada meja, kursi, tempat <segment id='1' features='eror;ejaan;ejtb' state='active'>tidur dan</segment> alat musik. Tempat tidur ada di kanan meja. Alat musik ada di depan meja. Laptop ada di atas meja.     </body>
+</document>

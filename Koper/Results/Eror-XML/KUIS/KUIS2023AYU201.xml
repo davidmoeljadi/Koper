@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023AYU201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hai Tuti,
+
+<segment id='1' features='eror;gramatikal;kalimat;kalsub' state='active'>Baik-baik saja.</segment> Aku tahu persis bagaimana rasanya. Tentu saja, aku <segment id='2' features='eror;gramatikal;frasa-verba;vrbaux0' state='active'>juga bertemu</segment> kamu.
+Hmmm, aku pikir <segment id='3' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='bisa'>kamu berkata</segment> ”<segment id='4' features='eror;leksikal;kata;prons' state='active' correction='Aku'>Saya</segment> sudah punya pacar. Jadi, <segment id='5' features='eror;leksikal;kata;prons' state='active' correction='aku'>saya</segment> <segment id='6' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='mau'>tidak menikah</segment> dengan anak <segment id='8' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='teman ibu'>teman<segment id='7' features='eror;gramatikal;frasa-nomina;nyax' state='active' parent='8'>nya</segment></segment>. Jangan khawatir.” kepada ibumu. 
+
+Salam sayang, 
+Rano    </body>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023FUMIN304.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hal: Undangan ke <segment id='15' features='eror;ejaan;ejhrf' state='active'>Pertunjukkan</segment> Kegiatan Sekolah Akapela LINES pada Musim Panas
+
+Kami bermaksud akan mengadakan <segment id='1' features='eror;ejaan;ejk' state='active' comment='kata &quot;pertunjukkan&quot; tidak perlu diawali dengan huruf kapital karena bukan nama diri.' correction='pertunjukkan Akapela'><segment id='16' features='eror;ejaan;ejhrf' state='active' parent='1'>Pertunjukkan</segment></segment> <segment id='17' features='eror;ejaan;ejk' state='active'>Akapela</segment> untuk <segment id='18' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='hasil'><segment id='2' features='eror;leksikal;kata;vrbs' state='active' correction='menampilkan' parent='18'>mempelajari</segment> latihan</segment> harian kami. <segment id='3' features='eror;lainnya;lain' state='active' comment='Angka tidak dapat ditulis pada awal kalimat.' correction='Sepuluh'>10</segment> <segment id='4' features='eror;leksikal;kata;ktas' state='active' comment='Band merupakan istilah bahasa inggris. Dalam bahasa Indonesia, padanannya adalah &quot;grup musik&quot;.' correction='grup musik'>band</segment> yang menang <segment id='5' features='eror;ejaan;ejk' state='active' comment='Tidak perlu menggunakan huruf kapital karena bukan nama diri dan tidak terletak di awal kalimat.' correction='audisi'>Audisi</segment> akan <segment id='19' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='bernyanyi'>menyanyi</segment> dan juga semua anggota <segment id='6' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='akan'>LINES <segment id='20' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='menyanyikan' parent='6'>menyanyi</segment></segment> 3 lagu bersama-sama. Kami sangat mengharapkan kehadiran Bapak/Ibu.
+
+<segment id='8' features='eror;ejaan;ejk' state='active' comment='Tidak perlu menggunakan nomina &quot;waktu&quot;. Langsung pada rincian tanggal, hari, dan jam.'>・waktu :</segment> 
+          - <segment id='7' features='eror;ejaan;ejtb' state='active'><segment id='9' features='eror;gramatikal;kalimat;kalpen' state='active' comment='Dua rincian ini lebih baik dijadikan satu.' correction='hari/tanggal : Jumat, 28 Juli 2023' parent='7'>Tanggal 28 Juli 2023
+          - Hari Jumat</segment></segment>
+          - <segment id='13' features='eror;leksikal;kata;noms' state='active' comment='Penggunaan kata &quot;waktu&quot; lebih tepat daripada &quot;jam&quot;.' correction='waktu'>Jam buka</segment> <segment id='14' features='eror;ejaan;ejtb' state='active'>17:00, <segment id='21' features='eror;gramatikal;frasa-verba;vrbx' state='active' parent='14'>mulai</segment> 18:00</segment>
+・Tempat : Kiyose Keyaki Hall
+・<segment id='11' features='eror;leksikal;kata;noms' state='active' correction='Tautan'>Lokasi</segment> : https://kiyosekeyakihall.jp/ 
+・Pakaian : Bebas
+
+Besar harapan kami untuk <segment id='10' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>bertemu Bapak/Ibu</segment> pada hari tersebut.    </body>
+</document>

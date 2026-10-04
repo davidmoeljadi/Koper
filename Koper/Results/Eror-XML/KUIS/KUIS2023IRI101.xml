@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023IRI101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejhrf' state='active'>Selmat</segment> <segment id='2' features='eror;ejaan;ejtb' state='active'>siang teman-teman</segment>. Apa kabar? <segment id='3' features='eror;ejaan;ejhrf' state='active'>Kanalkan</segment>. Nama saya &lt;NAMA&gt;. Nama Indonesia saya &lt;NAMA&gt;<segment id='4' features='eror;ejaan;ejsp' state='active'>.Saya</segment> orang Jepang. Saya dari Kota Utsunomiya, <segment id='5' features='eror;leksikal;kata;noms' state='active'>Provinsi</segment> Tochigi. Saya mahasiswa <segment id='6' features='eror;ejaan;ejhrf' state='active'>tingat</segment> satu, Program Bahasa Asia, Universitas Bahasa Asing Kanda. Di universitas, saya belajar bahasa Indonesia dan bahasa Inggris. Hobi saya menonton film. Saya <segment id='7' features='eror;gramatikal;frasa-nomina;nom0' state='active'>suka Star</segment> wars. Saya tinggal di Funabashi. Senang bertemu dengan Anda. Terima <segment id='8' features='eror;ejaan;ejtb' state='active'>kasih</segment>    </body>
+</document>

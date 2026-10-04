@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023INOS102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tempat favorit saya adalah <segment id='1' features='eror;leksikal;kata;ktas' state='active'>beach</segment> di Okinawa.
+Saya suka pantai ini <segment id='2' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='ada'>karena pasir</segment>, laut, dan matahari.
+Silakan pergi ke sini untuk <segment id='3' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='bersantai'>santai</segment> dan berenang!    </body>
+</document>

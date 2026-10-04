@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023MANA304.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Yth. Bapak [NAMA]
+
+Dengan hormat,
+Saya [NAMA], mahasiswa <segment id='7' features='eror;leksikal;kata;noms' state='active'>kelas</segment> tiga di <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='kuliah'>kulia</segment> Anda. Saya mengalami demam tinggi sejak kemarin <segment id='10' features='eror;leksikal;kata;noms' state='active'>lusa</segment> sehingga saya pergi ke rumah sakit hari ini. Dokter mengatakan bahwa saya terkena flu. <segment id='3' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Oleh karena itu, saya tidak bisa pergi ke kampus untuk ujian dan ingin mengikuti ujian susulan.'>Oleh karena itu, saya tidak bisa <segment id='2' features='eror;leksikal;kata;vrbs' state='active' parent='3'>pergi</segment> <segment id='11' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='3'>ke</segment> ujian. 
+Saya ingin mengikuti ujian susulan.</segment> Saya <segment id='5' features='eror;gramatikal;frasa-verba;vrbauxx' state='active' correction='mulai'>akan</segment> bisa pergi ke <segment id='4' features='eror;leksikal;kata;noms' state='active' correction='kampus'>sekolah</segment> minggu depan, jadi bisakah Anda <segment id='9' features='eror;leksikal;kata;vrbs' state='active' correction='mengadakan'>mengulang</segment> ujian susulan minggu berikutnya?
+
+Hormat saya,
+[NAMA]    </body>
+</document>

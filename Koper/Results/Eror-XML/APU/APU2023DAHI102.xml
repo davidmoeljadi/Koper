@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023DAHI102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Kafe Favorit Saya
+
+Nama kafe favorit saya adalah Ranzucafe.
+Kafe ini ada di dekat <segment id='4' features='eror;ejaan;ejk' state='active' comment='Penulisan kata stasiun yang diikuti nama diri diawali dengan huruf kapital.' correction='Stasiun'>stasiun</segment> Beppu, kira-kira satu menit dari <segment id='5' features='eror;ejaan;ejk' state='active' comment='Penulisan kata stasiun yang diikuti nama diri diawali dengan huruf kapital.' correction='Stasiun'>stasiun</segment> Beppu.
+<segment id='7' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya suka kafe <segment id='1' features='eror;ejaan;ejtb' state='active' parent='7'>ini, karena</segment> ada banyak menu di kafe ini.
+Minuman dan <segment id='2' features='eror;leksikal;kata;ktas' state='active' comment='Dapat dipilih salah satu dari koreksi yang diberikan sebab kedua padanan merupakan sinonim.' correction='hidangan penutup atau pencuci mulut' parent='7'>dessert</segment>.</segment>
+Saya sangat suka menu puding di kafe ini. <segment id='6' features='eror;gramatikal;kalimat;kalsub' state='active'>Enak dan manis.</segment>
+Ada juga parfait. Ini agak <segment id='3' features='eror;ejaan;ejtb' state='active'>mahal <segment id='8' features='eror;leksikal;kata;ktinf' state='active' parent='3'>tapi</segment></segment> enak.
+Kafe ini sedikit jauh dari rumah saya, <segment id='9' features='eror;leksikal;kata;ktinf' state='active'>tapi</segment> kafe ini bagus <segment id='11' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='tempat'><segment id='10' features='eror;leksikal;kata;preps' state='active' correction='sebagai' parent='11'>untuk</segment> bergaul</segment> dengan teman. 
+Silakan pergi ke kafe ini!    </body>
+</document>

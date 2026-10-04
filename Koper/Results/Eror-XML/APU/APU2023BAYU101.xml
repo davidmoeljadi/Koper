@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023BAYU101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+1. Nama dia <segment id='1' features='eror;ejaan;ejtb' state='active'>[NAMA]</segment> 
+2. <segment id='12' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari <segment id='2' features='eror;ejaan;ejtb' state='active' parent='12'>Indonesia</segment> 
+3. Dia tinggal di asrama <segment id='3' features='eror;ejaan;ejtb' state='active' parent='12'>APU</segment>
+4. Dia mahasiswa APU <segment id='4' features='eror;ejaan;ejk' state='active' parent='12'>fakultas</segment> <segment id='5' features='eror;ejaan;ejtb' state='active' parent='12'>APM</segment>
+5. Dia tidak bekerja <segment id='7' features='eror;ejaan;ejtb' state='active' parent='12'><segment id='6' features='eror;ejaan;ejhrf' state='active' parent='7'>sampigan</segment></segment> 
+6. <segment id='8' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='12'>Dia hobi</segment> <segment id='9' features='eror;ejaan;ejtb' state='active' parent='12'>fotografi</segment> 
+7. Dia tidak ikut <segment id='10' features='eror;ejaan;ejhrf' state='active' parent='12'><segment id='11' features='eror;ejaan;ejtb' state='active' parent='10'>klab</segment></segment></segment>    </body>
+</document>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DANA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya tinggal di Tokyo. Saya tinggal di apartemen. 
+Setiap hari, saya bangun jam delapan pagi dan sarapan jam delapan lewat sepuluh menit. 
+Saya tidak mandi pagi.
+Saya pergi ke kampus naik <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='sepeda'>sepada</segment> dan kereta. 
+Dari rumah ke kampus kira-kira satu setengah jam.
+Setiap hari, saya pulang ke rumah jam enam sore. 
+Saya makan <segment id='2' features='eror;leksikal;kata;preps' state='active' correction='pada'>di</segment> jam <segment id='3' features='eror;ejaan;ejtb' state='active'>tujuh lalu</segment> tidur jam dua malam.    </body>
+</document>

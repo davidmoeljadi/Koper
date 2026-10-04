@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023KUTA101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat (<segment id='1' features='eror;lainnya;lain' state='active'>pagi/siang/sore/malam</segment>).
+Nama saya &lt;NAMA&gt;.
+Panggil saya <segment id='11' features='eror;ejaan;ejtb' state='active'>&lt;NAMA&gt;</segment>
+Saya orang Jepang.
+Saya dari <segment id='6' features='eror;ejaan;ejk' state='active'>kota</segment> Mobara, Provinsi Chiba.
+Saya mahasiswa tingkat <segment id='2' features='eror;leksikal;ungkapan;ukps' state='active'>delapan belas</segment>.
+<segment id='3' features='eror;gramatikal;frasa-nomina;nom0' state='active'>Saya program</segment> Bahasa Indonesia, Jurusan Bahasa Indonesia.
+Di Universitas Bahasa Asing Kanda, saya belajar bahasa Indonesia.
+Hobi saya menonton <segment id='4' features='eror;ejaan;ejhrf' state='active'>firm</segment> dan mendengarkan musik.
+Saya suka <segment id='5' features='eror;ejaan;ejk' state='active'>kirby</segment>.
+Saya tinggal di <segment id='7' features='eror;ejaan;ejk' state='active'>kota</segment> <segment id='12' features='eror;ejaan;ejtb' state='active'>Mobara <segment id='8' features='eror;ejaan;ejk' state='active' parent='12'>provinsi</segment></segment> Chiba.
+Senang bertemu <segment id='9' features='eror;ejaan;ejhrf' state='active'>bengan</segment> <segment id='10' features='eror;ejaan;ejk' state='active'>anda</segment>.    </body>
+</document>

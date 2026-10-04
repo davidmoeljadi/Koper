@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BEHE103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hobi [NAMA] menyetir. <segment id='14' features='eror;leksikal;kata;ktvar' state='active'><segment id='1' features='eror;ejaan;ejk' state='active' parent='14'>dia</segment> menyetir tiap hari. Dia suka berkendara ke <segment id='2' features='eror;ejaan;ejsp' state='active' parent='14'>pantai.Dia</segment> juga suka menonton <segment id='4' features='eror;ejaan;ejsp' state='active' parent='14'><segment id='3' features='eror;ejaan;ejk' state='active' parent='4'>youtube</segment>.Dia</segment> menonton <segment id='5' features='eror;ejaan;ejk' state='active' parent='14'>youtube</segment> dua kali <segment id='6' features='eror;ejaan;ejsp' state='active' parent='14'>sehari.Dia</segment> suka menonton konser di <segment id='8' features='eror;ejaan;ejsp' state='active' parent='14'><segment id='7' features='eror;ejaan;ejk' state='active' parent='8'>youtube</segment>.Dia</segment> tidak suka menonton <segment id='9' features='eror;ejaan;ejsp' state='active' parent='14'>film.Dia</segment> lebih suka drama daripada <segment id='10' features='eror;ejaan;ejtb' state='active' parent='14'><segment id='11' features='eror;ejaan;ejsp' state='active' parent='10'>filmDia</segment></segment> menonton satu drama seminggu <segment id='12' features='eror;ejaan;ejsp' state='active' parent='14'>sekali.Dia</segment> <segment id='13' features='eror;ejaan;ejhrf' state='active' parent='14'>pinya</segment> banyak hobi.</segment>    </body>
+</document>

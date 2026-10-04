@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023MIKI105.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. <segment id='1' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Saya tinggal di Tokyo bersama orang tua dan adik perempuan.'><segment id='5' features='eror;leksikal;kata;ktvar' state='active' parent='1'>Saya tinggal di Tokyo dengan orang tua. Saya dari Tokyo. Saya punya adik <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='perempuan' parent='5'>perempuam</segment>.</segment> Dia tinggal di Tokyo dengan orang tua.</segment> Nama ayah saya <segment id='3' features='eror;ejaan;ejtb' state='active'>[NAMA], dan</segment> nama <segment id='4' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='nama ibu saya [NAMA]'>ibu [NAMA]</segment>. Ayah saya pemadam kebakaran. Ibu saya perawat. <segment id='7' features='eror;gramatikal;frasa-nomina;nomx' state='active' comment='Kalimat tidak logis jika menggunakan kata &quot;nama&quot; di awal kalimat.'>Nama</segment> adik saya murid SMA. Saya juga punya nenek. Dia tinggal di Saitama.    </body>
+</document>

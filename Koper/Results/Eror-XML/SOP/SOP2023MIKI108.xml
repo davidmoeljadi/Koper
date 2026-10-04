@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023MIKI108.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama ayah saya [NAMA]. Dia berasal dari Saitama. Dia pemadam kebakaran. Dia pergi ke kantor jam 8 pagi dan bekerja 24 jam. Dia pulang ke rumah kira-kira jam setengah 10 pagi. Setelah makan <segment id='1' features='eror;ejaan;ejtb' state='active'>pagi dia</segment> mandi dan tidur 5 jam. Dia suka <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='kopi'>copi</segment>. Setiap hari dia minum <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='kopi'>copi</segment> sambil membaca koran. Pada hari <segment id='4' features='eror;ejaan;ejtb' state='active'>Rabu, setelah</segment> makan malam, dia bermain judo di dekat rumah. Dia melakukan latihan otot setiap hari.    </body>
+</document>

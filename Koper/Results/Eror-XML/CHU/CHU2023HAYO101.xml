@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023HAYO101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA] [NAMA]. Saya tinggal di Tokyo bersama orang tua<segment id='1' features='eror;leksikal;kata;prons' state='active'>ku</segment> dan adik laki-laki<segment id='2' features='eror;leksikal;kata;prons' state='active'>ku</segment>. Orang <segment id='3' features='eror;gramatikal;frasa-nomina;pron0' state='active'>tua pegawai</segment> negeri.
+Nama adik <segment id='4' features='eror;gramatikal;frasa-nomina;pron0' state='active'>laki-laki [NAMA]</segment>. Dia murid SMA. Saya punya nenek. Dia tinggal di dekat rumah<segment id='5' features='eror;leksikal;kata;prons' state='active'>ku</segment>. Nenek<segment id='6' features='eror;leksikal;kata;prons' state='active'>ku</segment> orang Jepang dan berasal dari Toyama.    </body>
+</document>

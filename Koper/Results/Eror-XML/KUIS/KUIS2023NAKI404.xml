@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023NAKI404.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejhrf' state='active' correction='Yth.'>Tth.</segment> Bapak [NAMA] [NAMA]
+
+Dengan hormat,
+Melalui surat ini, saya ingin meminta maaf kepada Bapak <segment id='2' features='eror;leksikal;kata;konjs' state='active' correction='karena'>bahwa</segment> saya tidak dapat masuk kuliah dan ikut ujian karena sakit. 
+Sudah <segment id='3' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='seminggu saya tidak'>seminggu tidak</segment> enak badan<segment id='4' features='eror;gramatikal;frasa-nomina;nyax' state='active'>nya</segment>, jadi kemarin saya pergi ke dokter. Lalu, ternyata saya kena <segment id='7' features='eror;ejaan;ejk' state='active' correction='Covid-19'>covid-19</segment>. <segment id='8' features='eror;ejaan;ejtb' state='active' correction='Katanya, minggu'>Katanya minggu</segment> depan saya akan bisa masuk kuliah lagi.
+Saya ingin menanyakan apakah saya bisa ikut ujian susulan?
+Atas perhatian Bapak, saya ucapkan terima kasih.
+
+Hormat saya,
+[NAMA] [NAMA] 
+    </body>
+</document>

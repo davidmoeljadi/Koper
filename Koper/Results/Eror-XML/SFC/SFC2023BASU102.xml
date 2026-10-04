@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BASU102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Aku tinggal di <segment id='1' features='eror;ejaan;ejk' state='active' correction='Shonandai'>shonandai</segment> sendirian. <segment id='2' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Nama ayahku [NAMA] dan nama ibuku [NAMA].'>Nama ayahku [NAMA]. Dan nama ibuku [NAMA].</segment> Mereka berasal dari <segment id='3' features='eror;ejaan;ejsp' state='active'>Saitama.  Ayah<segment id='10' features='eror;leksikal;kata;prons' state='active' parent='3'>nya</segment></segment> bekerja di Tokyo. Dia <segment id='4' features='eror;gramatikal;frasa-nomina;nomafx' state='active' correction='pekerja'>pekerjaan</segment> transportasi. Ibu<segment id='5' features='eror;leksikal;kata;prons' state='active'>nya</segment> bekerja di Saitama. Dia pelatih olahraga. Aku punya dua orang saudara kandung. Nama adik <segment id='7' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='laki-lakiku'>laki-laki</segment> [NAMA]. Dia belajar di SMA Saitama. Nama adik laki-laki aku yang lain adalah [NAMA]. Dia belajar di SMP Saitama. Mereka <segment id='8' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='bersama'>tinggal orang</segment> tua <segment id='9' features='eror;leksikal;kata;prons' state='active' correction='kami'>aku</segment>.    </body>
+</document>

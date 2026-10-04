@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KOSH101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Saya tinggal sendirian di Yokohama. Saya punya kakak laki-laki. Dia tinggal di Itabashi. Nama ayah saya <segment id='1' features='eror;ejaan;ejtb' state='active' comment='Tidak perlu menggunakan tanda koma jika hanya ada dua unsur yang dihubungkan oleh konjungsi &quot;dan&quot;.' correction='Nama ayah saya [Nama] dan nama ibu saya [NAMA].'><segment id='8' features='eror;ejaan;ejsp' state='active' parent='1'>[NAMA],dan</segment></segment> nama ibu saya [NAMA]. <segment id='2' features='eror;gramatikal;kalimat;kalpen' state='active' comment='Kedua kalimat ini lebih baik digabung menjadi satu. Gunakan kata &quot;tetapi&quot; sebagai kata penghubung intrakalimat.' correction='Ayah saya bukan pegawai, tetapi ibu saya pegawai.'>Ayah saya bukan pegawai. Ibu saya pegawai.</segment>
+ Nama kakak laki-laki saya [NAMA]. <segment id='3' features='eror;ejaan;ejsp' state='active'>Dia  mahasiswa  Universitas</segment> Musashino <segment id='4' features='eror;ejaan;ejsp' state='active'>Art.Saya</segment> juga punya kakek dan nenek. Mereka tinggal di Simane. Kakek saya orang Jepang dan nenek saya orang Jepang.    </body>
+</document>

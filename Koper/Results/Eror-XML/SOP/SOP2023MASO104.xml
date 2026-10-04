@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023MASO104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Kamarku ada di lantai dua. Di kamarku ada meja, kursi, rak <segment id='1' features='eror;gramatikal;konjungsi;konj0' state='active' correction='dan'>buku, <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='tempat' parent='1'>tenpad</segment></segment> tidur. Di atas meja ada laptop dan <segment id='11' features='eror;gramatikal;frasa-nomina;urtfn' state='active'>PC monitor</segment>. <segment id='3' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='Meja itu'>Meja</segment> ada di dekat pintu. Di kiri meja ada rak buku. Buku teks dan manga ada di rak <segment id='4' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='itu'>buku</segment>. <segment id='5' features='eror;ejaan;ejhrf' state='active' correction='Tempat'>Tenpad</segment> tidur ada di dekat jendela. Setiap hari kucingku <segment id='6' features='eror;ejaan;ejhrf' state='active' correction='melihat'>meliihat</segment> <segment id='10' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>ke</segment> burung gagak di luar <segment id='9' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='itu, tersebut'>jendela</segment>.    </body>
+</document>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DAMI102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='4' features='eror;gramatikal;kalimat;kalpen' state='active'>Di dalam kamar ada banyak barang. 
+Di dalam kamar ada <segment id='1' features='eror;ejaan;ejhrf' state='active' parent='4'>tempt</segment> sembahyang.</segment>
+Saya berdoa <segment id='2' features='eror;leksikal;kata;preps' state='active' correction='di'>untuk</segment> <segment id='3' features='eror;leksikal;kata;prons' state='active' correction='situ'>itu</segment>.
+<segment id='6' features='eror;leksikal;kata;ktvar' state='active'>TV ada di atas rak.
+Komputer ada di atas meja.
+<segment id='5' features='eror;gramatikal;frasa-verba;vrbx' state='active' parent='6'>Ada</segment> vas bunga ada di atas meja.
+Baju ada di dalam lemari.</segment>
+Ada <segment id='7' features='eror;ejaan;ejsp' state='active'>mini market</segment> di depan rumah saya.    </body>
+</document>

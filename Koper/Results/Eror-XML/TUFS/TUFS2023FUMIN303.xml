@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023FUMIN303.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hal: Pertanyaan tentang <segment id='13' features='eror;leksikal;kata;ktinf' state='active' comment='Kata [indekos] merupakan bentuk baku dari [kost].' correction='Indekos'>Kost</segment>
+
+Yth. Ibu Petugas Penerimaan <segment id='1' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>untuk</segment> Program Pertukaran Pelajar (Admission Officer for Exchange Student Program) di UGM, [NAMA] [NAMA]
+
+Dengan <segment id='12' features='eror;ejaan;ejk' state='active' comment='Penggunaan kapital tidak perlu.' correction='hormat'>Hormat</segment>,
+
+Saya [NAMA] [NAMA], mahasiswa di TUFS. Saya akan belajar di UGM sebagai mahasiswa pertukaran pelajar <segment id='2' features='eror;leksikal;ungkapan;ukpa' state='active' correction='mulai Agustus mendatang'>dari Agustus kemudian</segment>.
+
+<segment id='3' features='eror;leksikal;ungkapan;ukpa' state='active' comment='Frasa ini cukup aneh dalam bahasa Indonesia formal.'>Maaf, dengan tanpa segan,</segment> saya mohon Ibu untuk memberikan informasi tentang <segment id='14' features='eror;leksikal;kata;ktinf' state='active' comment='Kata [indekos] merupakan bentuk baku dari [kost].' correction='indekos'>kost</segment> di Yogyakarta.
+Saya melihat “Accommodation Reference Near UGM” di situs web UGM, dan saya <segment id='6' features='eror;gramatikal;frasa-preposisi;prep0' state='active' comment='Kekurangan preposisi [untuk].' correction='memutuskan untuk tinggal'><segment id='4' features='eror;leksikal;kata;vrbs' state='active' correction='memutuskan' parent='6'>menentukan</segment> tinggal</segment> di “Kost Dahlia Caturtunggal Depok Sleman Yogyakarta 762843UG”.
+Akan tetapi, saya tidak bisa <segment id='16' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='cara'>menemukan bagaimana</segment> saya menghubungi pemilik <segment id='15' features='eror;leksikal;kata;ktinf' state='active' comment='Kata &quot;indekos&quot; merupakan bentuk baku dari &quot;kost&quot;. Sementara untuk teks sebelumnya, tidak saya perbaiki karena merujuk pada nama diri.' correction='indekos'>kost</segment> ini.
+Saya mohon Ibu untuk <segment id='7' features='eror;ejaan;ejsp' state='active' comment='Kekurangan spasi' correction='memberi tahu'>memberitahu</segment> <segment id='8' features='eror;gramatikal;frasa-preposisi;prepx' state='active' comment='Kata &quot;kepada&quot; tidak diperlukan'>kepada</segment> saya cara untuk memesan <segment id='9' features='eror;leksikal;kata;ktinf' state='active' comment='Kata [indekos] merupakan bentuk baku dari [kost].' correction='indekos'>kost</segment> ini.
+Akhir <segment id='17' features='eror;ejaan;ejtb' state='active'>kata <segment id='10' features='eror;leksikal;kata;prons' state='active' correction='saya' parent='17'>kami</segment></segment> ucapkan terima kasih. 
+
+Hormat <segment id='11' features='eror;leksikal;kata;prons' state='active' correction='saya'>kami</segment>,
+
+[NAMA] [NAMA]
+Tokyo <segment id='5' features='eror;ejaan;ejk' state='active' correction='University'>university</segment> of Foreign Studies    </body>
+</document>

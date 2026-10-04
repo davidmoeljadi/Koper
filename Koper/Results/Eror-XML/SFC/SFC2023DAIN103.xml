@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DAIN103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya <segment id='1' features='eror;ejaan;ejhrf' state='active'>tingal</segment> di <segment id='2' features='eror;ejaan;ejsp' state='active'>Yokohama.Saya</segment> <segment id='3' features='eror;ejaan;ejhrf' state='active'><segment id='4' features='eror;leksikal;kata;vrbs' state='active' correction='berasal' parent='3'>tingal</segment></segment> dari <segment id='5' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>di</segment> <segment id='6' features='eror;ejaan;ejsp' state='active'>Shizuoka.Orang</segment> tua<segment id='7' features='eror;leksikal;kata;prons' state='active'>ku</segment> di Shizuoka.
+Nama ayah <segment id='8' features='eror;leksikal;kata;prons' state='active'>kami</segment> <segment id='9' features='eror;gramatikal;frasa-nomina;nomx' state='active'>Pak</segment> <segment id='10' features='eror;ejaan;ejtb' state='active'><segment id='11' features='eror;ejaan;ejsp' state='active' parent='10'><segment id='12' features='eror;gramatikal;konjungsi;konj0' state='active' parent='11'>[NAMA],<segment id='14' features='eror;gramatikal;frasa-nomina;pron0' state='active'><segment id='13' features='eror;ejaan;ejk' state='active' parent='14'>Ibu</segment></segment></segment></segment> [NAMA]</segment>.
+<segment id='19' features='eror;gramatikal;kalimat;kalpen' state='active'>[NAMA] <segment id='15' features='eror;ejaan;ejhrf' state='active' parent='19'>bekerjua</segment> di <segment id='17' features='eror;ejaan;ejsp' state='active' parent='19'><segment id='16' features='eror;ejaan;ejhrf' state='active' parent='17'>Shizuika</segment>.[NAMA]</segment> <segment id='18' features='eror;ejaan;ejk' state='active' parent='19'>Ibu</segment> rumah tangga.</segment>
+Saya punya kakak <segment id='20' features='eror;ejaan;ejsp' state='active'>laki-laki.Nama</segment> dia [NAMA].
+Dia <segment id='21' features='eror;ejaan;ejsp' state='active'>bekerja.<segment id='24' features='eror;gramatikal;kalimat;kalbel' state='active'>Dia</segment> <segment id='22' features='eror;ejaan;ejhrf' state='active' parent='24'>tingal</segment> di Tokyo dan <segment id='23' features='eror;ejaan;ejhrf' state='active' parent='24'>tingal</segment> di Tokyo sendirian.</segment>    </body>
+</document>

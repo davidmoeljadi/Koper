@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023ISHIHA201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Aku ingin <segment id='1' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>menikah</segment> <segment id='4' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> sehingga aku tidak ingin <segment id='5' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> menikah dengan pria yang dikenalkan oleh ibu <segment id='6' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment>. 
+<segment id='10' features='eror;gramatikal;kalimat;kalpen' state='active'><segment id='9' features='eror;gramatikal;konjungsi;konjx' state='active' parent='10'>Karena</segment> aku ingin membuatmu bahagia. 
+Tetapi sekarang aku tidak punya uang.</segment> 
+<segment id='2' features='eror;leksikal;kata;konjs' state='active'>Dan</segment> syaratku untuk menikahi <segment id='7' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> adalah bahwa kita hidup bersama selama satu tahun. 
+<segment id='3' features='eror;leksikal;ungkapan;ukpa' state='active'>Ketika itu berakhir</segment> dan aku telah menabung <segment id='11' features='eror;gramatikal;frasa-adjektiva;adj0' state='active'>cukup uang</segment>, aku ingin menikah dengan <segment id='8' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> sehingga aku ingin kau menungguku.     </body>
+</document>

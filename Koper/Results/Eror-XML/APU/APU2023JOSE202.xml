@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023JOSE202.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Ini adalah foto saya dan keluarga saya yang diambil <segment id='13' features='eror;gramatikal;frasa-nomina;nom0' state='active'>bulan tahun</segment> lalu di Miaoli, Taiwan. Yang berambut emas adalah saya. Laki-laki yang memakai kacamata hitam adalah ayah <segment id='1' features='eror;ejaan;ejtb' state='active'>saya, <segment id='11' features='eror;ejaan;ejk' state='active' parent='1'>namanya</segment></segment> &lt;NAMA&gt;. Dia adalah dokter. Orang yang <segment id='2' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>rambut</segment> <segment id='3' features='eror;ejaan;ejk' state='active'>Panjang</segment> dan <segment id='4' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>pakai</segment> kaus warna putih adalah <segment id='5' features='eror;gramatikal;frasa-nomina;pron0' state='active'>adik <segment id='6' features='eror;ejaan;ejtb' state='active'>perempuan</segment>, <segment id='7' features='eror;ejaan;ejk' state='active' parent='6'>namanya</segment></segment> &lt;NAMA&gt;. Dia <segment id='8' features='eror;leksikal;kata;noms' state='active'>siswa</segment> universitas tahun pertama. <segment id='9' features='eror;leksikal;kata;noms' state='active'>Ibu</segment> yang memakai topi dan kacamata hitam adalah ibu <segment id='10' features='eror;ejaan;ejtb' state='active'>saya, Namanya</segment> <segment id='12' features='eror;ejaan;ejtb' state='active'>&lt;NAMA&gt;。Dia</segment> adalah ibu rumah tangga. Hari itu, kami berkemah (camping) di Miaoli. Hari itu adalah hari yang sangat menyenangkan.    </body>
+</document>

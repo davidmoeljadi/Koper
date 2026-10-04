@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023NAKA302.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+ Letak geografis adalah letak suatu negara <segment id='1' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='di permukaan bumi'>permukaan di <segment id='2' features='eror;leksikal;kata;noms' state='active' correction='bumi' parent='1'>dunia</segment></segment>. Secara geografis, Indonesia terletak di antara dua benua dan dua samudra. Lalu, wilayah Indonesia berbatasan dengan sejumlah <segment id='3' features='eror;leksikal;kata;noms' state='active' correction='negara'>wilayah</segment>. Letak geografis Indonesia sangat <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='strategis'>strategi</segment> karena menjadi jalur lintas pelayaran dan perdagangan dunia. Letak geografis memberi pengaruh bagi Indonesia, baik secara sosial, ekonomi, maupun budaya. Bangsa Indonesia sudah lama menjalin interaksi sosial dengan bangsa lain. Interaksi itu menjadi jalan bagi masuknya berbagai agama.
+ <segment id='5' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Indonesia yang kaya akan sumber daya alam menjual berbagai komoditas atau hasil bumi, sedangkan negara-negara lain menjual berbagai produk ke Indonesia.'>Indonesia yang kaya akan sumber daya alam menjual berbagai komoditas atau hasil bumi. Sementara negara-negara lain menjual berbagai produk barang ke Indonesia.</segment>    </body>
+</document>

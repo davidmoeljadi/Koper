@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023HARI101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat siang.
+Nama saya &lt;NAMA&gt;. Nama Indonesia saya &lt;NAMA&gt;.
+Saya orang <segment id='2' features='eror;ejaan;ejsp' state='active'>Jepang.Saya</segment> dari <segment id='3' features='eror;ejaan;ejk' state='active'>kota</segment> <segment id='4' features='eror;ejaan;ejtb' state='active'><segment id='5' features='eror;ejaan;ejsp' state='active' parent='4'>Sanmu.Provinsi</segment></segment> Chiba.
+Saya mahasiswa <segment id='6' features='eror;ejaan;ejhrf' state='active'>tingat</segment> <segment id='7' features='eror;ejaan;ejsp' state='active'>satu,Program</segment> <segment id='8' features='eror;ejaan;ejk' state='active'>bahasa</segment> Indonesia.
+Hobi saya mendengarkan <segment id='9' features='eror;leksikal;kata;ktas' state='active'>music</segment>.
+Saya suka <segment id='10' features='eror;leksikal;kata;ktas' state='active'>music</segment> barat.
+Saya tinggal di <segment id='12' features='eror;ejaan;ejsp' state='active'><segment id='11' features='eror;ejaan;ejhrf' state='active' parent='12'>Sannmu</segment>.Senang</segment> bertemu dengan Anda.Terima kasih.    </body>
+</document>

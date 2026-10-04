@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023KIZMOE201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejtb' state='active'>Hai <segment id='13' features='eror;ejaan;ejtb' state='active'>Tuti</segment>,</segment>
+
+Aku ingin segera bertemu denganmu, jadi aku tidak bisa tidur di malam hari.
+Wah, itu masalah yang sangat besar karena aku akan <segment id='2' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='meminang'>pinangan</segment>mu. 
+<segment id='3' features='eror;ejaan;ejtb' state='active' comment='Gunakan tanda koma setelah kata &quot;ayo&quot; karena tanda koma digunakan sebelum dan/atau sesudah kata seru.' correction='Ayo, menikah sekarang juga.'>Ayo menikah</segment> sekarang <segment id='4' features='eror;ejaan;ejtb' state='active'>juga.</segment> 
+Tapi lain kali, aku mau <segment id='5' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>pinangan</segment>mu secara langsung. 
+Maafkan aku <segment id='8' features='eror;leksikal;kata;negs' state='active' comment='Kata &quot;tidak&quot; kurang tepat jika digunakan' correction='Maafkan aku belum meminangmu, padahal kita sudah 12 tahun berpacaran.'>tidak</segment> <segment id='6' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>pinangan</segment>mu <segment id='7' features='eror;leksikal;kata;konjs' state='active' correction='Maafkan aku belum meminangmu, padahal sudah 12 tahun berpacaran.'>namun</segment> sudah 12 tahun berpacaran.
+Tapi perasaanku padamu nyata.
+Aku ingin menyapa orang tuamu.
+Apakah kamu <segment id='10' features='eror;leksikal;kata;adjs' state='active' comment='Ganti kata &quot;bebas&quot; menjadi &quot;luang&quot; atau &quot;kosong&quot;.' correction='Apakah kamu luang di hari Sabtu ini?'>bebas</segment> hari Sabtu ini?
+Tolong <segment id='11' features='eror;ejaan;ejsp' state='active' comment='Kata &quot;beritahu&quot; merupakan bentuk takbaku dari &quot;beri tahu&quot;.' correction='Tolong beri tahu ibumu'>beritahu</segment> ibumu, “Aku punya seseorang yang ingin kunikahi. Dia akan datang ke rumah<segment id='12' features='eror;gramatikal;frasa-nomina;pronx' state='active' correction='Dia datang ke rumah Sabtu ini.'>ku</segment> Sabtu ini.”
+Aku tak sabar untuk melihatmu.
+
+Salam sayang,
+Rano    </body>
+</document>

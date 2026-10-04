@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BESE104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Harga sewa di <segment id='1' features='eror;leksikal;kata;ktas' state='active'>Apartment</segment> Keio Garden lebih murah dibandingkan harga sewa di <segment id='2' features='eror;leksikal;kata;ktas' state='active'>Apartment</segment> Shonandai Heights.    </body>
+</document>

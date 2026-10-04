@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023GIKA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan saya ada meja, <segment id='1' features='eror;ejaan;ejhrf' state='active'>kurusi</segment>, rak buku, dan <segment id='2' features='eror;ejaan;ejsp' state='active'>tempattidur</segment>. Di atas meja ada komputer, buku, <segment id='3' features='eror;ejaan;ejsp' state='active'>dankacamata</segment>. <segment id='4' features='eror;gramatikal;frasa-verba;urtfv' state='active'>Tidak televisi ada</segment> di ruangan saya. Di atas <segment id='5' features='eror;ejaan;ejsp' state='active'>tempattidur</segment> ada kucing. Kucing saya ada di dalam koper.    </body>
+</document>

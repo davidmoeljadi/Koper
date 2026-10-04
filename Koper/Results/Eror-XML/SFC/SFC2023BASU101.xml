@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BASU101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Adik laki-laki aku namanya [NAMA]. Dia lahir pada tanggal dua puluh satu September tahun dua ribu lima. Tahun ini umurnya tujuh belas <segment id='1' features='eror;ejaan;ejsp' state='active'>tahun.  Dia</segment> mau kado <segment id='2' features='eror;leksikal;kata;ktas' state='active'>pencil</segment>.    </body>
+</document>

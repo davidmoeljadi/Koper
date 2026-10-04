@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023ENDAYA201.txt</textfile>
+    <lang>indonesian</lang>
+  </header>
+    <body>
+Hai Tuti,
+Apa kabar? Aku baik-baik saja.
+Aku juga ingin bertemu kamu secepat-cepatnya.
+Aku memikirkanmu setiap hari.
+Sejujurnya, aku bingung setelah membaca surat kamu.
+Aku ingin menikah dengan kamu karena aku cinta kamu.
+Apa pendapat kamu tentang pernikahan?
+Kalau begitu, aku ingin bertemu dan berbicara langsung dengan kamu.
+Setelah itu, <segment id='1' features='eror;leksikal;kata;vrbs' state='active'>tolong</segment> aku berbicara dengan ibu kamu.
+Sampaikan salam kepada orang tuamu.
+Salam sayang,
+Rano    </body>
+</document>

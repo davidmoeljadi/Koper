@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023FUKA106.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya bangun jam <segment id='1' features='eror;ejaan;ejhrf' state='active'>sentengah</segment> tujuh <segment id='2' features='eror;ejaan;ejhrf' state='active'>pergi</segment>.
+Saya makan pagi jam tujuh <segment id='3' features='eror;ejaan;ejhrf' state='active'>pergi</segment>.
+Saya <segment id='4' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>pergi universitas</segment> jam delapan.
+Saya mandi jam delapan <segment id='5' features='eror;ejaan;ejhrf' state='active'>satiep</segment> hari.    </body>
+</document>

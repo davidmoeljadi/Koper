@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023NIR206.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+[NAMA] bekerja sebagai guru les. Ia bekerja sekali seminggu, <segment id='1' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='setiap'>yaitu hari</segment> Jumat. Ia bekerja kira-kira 1 jam 30 menit setiap harinya. Muridnya adalah seorang siswa SMP <segment id='6' features='eror;ejaan;ejsp' state='active'>perempuan.  Rumah</segment> siswanya dekat dengan stasiun terdekat dari rumah [NAMA], jadi <segment id='3' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='bisa'><segment id='4' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='dengan' parent='3'>ia mudah</segment></segment> <segment id='5' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>untuk</segment> bepergian ke sana. Tugasnya adalah mengajar bahasa Inggris dan mempersiapkan siswanya untuk tes.    </body>
+</document>

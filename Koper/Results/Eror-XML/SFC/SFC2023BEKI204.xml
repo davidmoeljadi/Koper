@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BEKI204.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tahun baru di Jepang memiliki budaya yang disebut &quot;Hatsumoude&quot;. 
+
+Dalam budaya ini, orang pergi ke kuil di sekitar mereka untuk memberi salam kepada &quot;Toshigamisama&quot; dan sekaligus berdoa untuk kesehatan dan hal-hal baik di tahun yang baru.
+
+Saat kecil, saya juga pernah <segment id='4' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='pergi untuk &quot;Hatsumoude&quot;'>pergi &quot;Hatsumoude&quot;</segment>. 
+Tempat yang saya kunjungi adalah kuil bernama <segment id='2' features='eror;ejaan;ejtb' state='active' comment='Nama Diri tidak perlu diberi tanda kutip'>&quot;Tsurugaoka Hachimangu&quot;</segment> di Kamakura. 
+Di <segment id='1' features='eror;ejaan;ejtb' state='active'>sana, ada</segment> banyak warung yang buka khusus untuk &quot;Hatsumoude&quot; pada Tahun Baru, sehingga <segment id='3' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='suasananya'>suasana</segment> seperti festival.    </body>
+</document>

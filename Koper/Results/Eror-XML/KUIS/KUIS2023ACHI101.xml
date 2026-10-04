@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023ACHI101.txt</textfile>
+    <lang>indonesian</lang>
+  </header>
+    <body>
+Selamat <segment id='4' features='eror;ejaan;ejtb' state='active'>siang teman-teman</segment>. Apa kabar?
+Kenalkan. Nama <segment id='8' features='eror;ejaan;ejsp' state='active'>saya&lt;NAMA&gt;</segment>. Panggil saya &lt;NAMA&gt;.
+Saya orang Jepang. Saya dari <segment id='1' features='eror;ejaan;ejk' state='active'>kota</segment> <segment id='5' features='eror;ejaan;ejtb' state='active'><segment id='3' features='eror;ejaan;ejk' state='active' parent='5'>setagaya</segment>. Provinsi</segment> Tokyo.
+Saya mahasiswa tingkat <segment id='9' features='eror;ejaan;ejtb' state='active'>satu. 
+Program</segment> Bahasa Indonesia, <segment id='6' features='eror;ejaan;ejk' state='active'>jurusan</segment> Bahasa Asia, <segment id='2' features='eror;ejaan;ejk' state='active'>universitas</segment> Bahasa Asing Kanda.
+Di universitas, saya belajar <segment id='7' features='eror;ejaan;ejk' state='active'>Bahasa</segment> <segment id='13' features='eror;ejaan;ejhrf' state='active'>Indnesia</segment> dan <segment id='10' features='eror;ejaan;ejk' state='active'>Bahasa</segment> <segment id='14' features='eror;ejaan;ejhrf' state='active'>Ingrris</segment>.
+Hobi saya mendengarkan <segment id='11' features='eror;ejaan;ejhrf' state='active'>music</segment>. Saya suka K-pop dan J-pop.
+Saya tinggal di Tokyo.
+Senang bertemu dengan Anda. Terima <segment id='12' features='eror;ejaan;ejhrf' state='active'>kashi</segment>.    </body>
+</document>

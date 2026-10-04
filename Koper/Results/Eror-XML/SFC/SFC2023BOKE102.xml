@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BOKE102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya tinggal di Kanagawa. Saya tinggal dengan orang tua saya. <segment id='3' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Nama ayah saya [NAMA] dan nama ibu saya [NAMA]'>Nama ayah saya [NAMA]. Dan nama ibu saya [NAMA]</segment>. Mereka berasal dari Kanagawa. Ayah saya bekerja di perusahaan kosmetik. Dia adalah seorang karyawan perusahaan. Ibu saya bekerja di kelas kaligrafi. Dia guru. Saya punya dua orang saudara kandung. Nama kakak <segment id='6' features='eror;gramatikal;frasa-nomina;det0' state='active' comment='Perlu ditambah kata &quot;pertama&quot; agar teks dapat dipahami dalam konteks urutan kakak penulis.' correction='Kakak laki-laki pertama saya'>laki-laki saya</segment> [NAMA] dan nama kakak <segment id='7' features='eror;gramatikal;frasa-nomina;det0' state='active' comment='Perlu ditambah kata &quot;kedua&quot; agar teks dapat dipahami dalam konteks urutan kakak penulis.' correction='kakak laki-laki kedua saya'>laki-laki saya</segment> [NAMA]. [NAMA] kuliah di Universitas Waseda. [NAMA] bekerja untuk sebuah perusahaan di Tokyo. Saya tinggal dengan <segment id='1' features='eror;gramatikal;frasa-nomina;nomx' state='active'>orang</segment> saudara kandung saya dan orang tua saya di Kanagawa.    </body>
+</document>

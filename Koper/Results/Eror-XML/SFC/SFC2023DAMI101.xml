@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DAMI101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Hobi saya adalah menyetir dan bermain bisbol. <segment id='1' features='eror;leksikal;kata;ktinf' state='active'>Aku</segment> punya kucing. Senang bertemu dengan<segment id='2' features='eror;leksikal;kata;ktinf' state='active'>mu</segment>.    </body>
+</document>

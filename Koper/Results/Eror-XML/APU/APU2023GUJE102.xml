@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023GUJE102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Restoran <segment id='13' features='eror;ejaan;ejk' state='active'>favorit</segment> <segment id='14' features='eror;ejaan;ejk' state='active'>saya</segment>
+
+Nama restoran favorit saya adalah Kameshosushi. Restoran ini berjarak sekitar 30 menit dari rumah saya. Saya suka restoran <segment id='1' features='eror;gramatikal;konjungsi;konj0' state='active' comment='kekurangan konjungsi [walaupun]' correction='walaupun'><segment id='15' features='eror;ejaan;ejtb' state='active' parent='1'>ini, menunya</segment></segment> sedikit. <segment id='5' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='Namun, ada makanan, minuman, dan makanan penutup.'><segment id='2' features='eror;leksikal;kata;konjs' state='active' correction='Namun,' parent='5'>Tapi</segment> makanan, <segment id='3' features='eror;gramatikal;konjungsi;konj0' state='active' comment='kekurangan konjungsi [dan]' correction='minuman, dan makanan penutup' parent='5'>minuman, makanan</segment> penutup.</segment> Saya sangat suka menu <segment id='6' features='eror;leksikal;kata;noms' state='active' comment='mungkin bentuk benarnya adalah [toro sushi]'>Torossi</segment> di restoran ini. <segment id='4' features='eror;gramatikal;konjungsi;konj0' state='active'>Enak, harganya</segment> sedikit mahal. <segment id='7' features='eror;gramatikal;frasa-nomina;nom0' state='active'>Satu harganya</segment> 500 yen. Ada <segment id='8' features='eror;ejaan;ejk' state='active'>Salmon</segment> juga. Rasanya sangat enak. Restoran ini ada di Kannawa. <segment id='11' features='eror;gramatikal;kalimat;kalsub' state='active' correction='Lokasinya agak jauh, tetapi sangat menyenangkan pergi dengan teman-teman.'>Agak jauh, <segment id='9' features='eror;leksikal;kata;ktinf' state='active' parent='11'>tapi</segment> sangat menyenangkan pergi dengan teman-teman.</segment> <segment id='12' features='eror;gramatikal;kalimat;kalpan' state='active' correction='Ini adalah restoran sushi yang terkenal di Beppu. Jadi, jika Anda ingin makan sushi, silakan pergi ke restoran ini.'>Ini adalah restoran sushi yang terkenal di Beppu, jadi jika Anda ingin makan sushi, silakan pergi ke restoran ini.</segment>    </body>
+</document>

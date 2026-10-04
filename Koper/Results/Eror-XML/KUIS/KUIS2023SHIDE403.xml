@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023SHIDE403.txt</textfile>
+    <lang>indonesian</lang>
+  </header>
+    <body>
+Jalan-Jalan di Fukushima
+
+Pada liburan musim bunga tahun yang lalu, saya pergi ke Fukushima dengan teman-teman saya <segment id='10' features='eror;leksikal;kata;konjs' state='active'>karena</segment> mengikuti perkemahan untuk mahasiswa tingkat 2.
+Hari pertama, saya naik bus tujuan <segment id='11' features='eror;ejaan;ejsp' state='active'>British  Hills</segment> dari Universitas Bahasa Asing Kanda pada pagi hari. <segment id='13' features='eror;ejaan;ejsp' state='active'>British  Hills</segment> adalah fasilitas <segment id='1' features='eror;leksikal;kata;pronrels' state='active'><segment id='14' features='eror;gramatikal;kalimat;kalsub' state='active' parent='1'>yang dapat</segment></segment> <segment id='15' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>merasa</segment> suasana Inggris. 
+Setelah sampai <segment id='16' features='eror;ejaan;ejsp' state='active'>British  Hills</segment>, saya berjalan-jalan di situ dengan teman-teman saya. Pemandangan <segment id='2' features='eror;gramatikal;frasa-nomina;nyaitu' state='active'>itu</segment> sangat indah karena di Fukushima <segment id='17' features='eror;gramatikal;frasa-verba;urtfv' state='active'>turun salju</segment> dan menumpuk. Lalu, saya mengikuti ceramah rektor dan acara <segment id='4' features='eror;leksikal;kata;noms' state='active'>perundingan</segment> <segment id='5' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>kepada</segment> senior. Saya mendengarkan cerita tentang <segment id='3' features='eror;gramatikal;frasa-nomina;pron0' state='active'>pengalaman di</segment> luar negeri, pencarian pekerjaan, dan lain-lain. Setelah itu, saya makan malam. Ada banyak masakan Inggris yang sangat mewah. Lalu, saya bermain tenis meja dengan teman-teman saya dan <segment id='6' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>mengajar</segment> <segment id='7' features='eror;gramatikal;frasa-nomina;nom0' state='active'>teknik</segment>.
+Hari kedua, setelah membeli oleh-oleh, saya naik bus tujuan J Village. J Village adalah pusat pelatihan nasional sepak bola. Setelah sampai di sana, saya mendengarkan cerita tentang Gempa Bumi Besar di Jepang Timur. Saya bermain kartu dengan teman-teman saya pada malam hari.
+Hari terakhir, saya pergi ke akuarium bernama Aquamarine Fukushima dan mendengarkan cerita waktu gempa bumi dan pembangunan kembali. Kemudian, saya <segment id='8' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>menyenangkan</segment> melihat binatang laut.
+Ini ketiga kalinya saya pergi ke Fukushima. Saya <segment id='18' features='eror;gramatikal;frasa-preposisi;prep0' state='active'><segment id='9' features='eror;gramatikal;frasa-verba;vrbafx' state='active' parent='18'>menyenangkan</segment> suasana</segment> Inggris dan pemandangan alam yang indah di British Hills. Saya dapat mendengarkan pengalaman tentang Gempa Bumi Besar di Jepang Timur di dua fasilitas yang mendapat kerugian yang besar. Itu adalah pengalaman berharga bagi saya.    </body>
+</document>

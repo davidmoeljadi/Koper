@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DATO103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+[NAMA] tinggal di Tsujido sendiran. Orang tua [NAMA] <segment id='1' features='eror;ejaan;ejhrf' state='active'>tinngal</segment> di Gunma.
+Nama ayahnya <segment id='2' features='eror;ejaan;ejtb' state='active'>[NAMA], <segment id='3' features='eror;ejaan;ejk' state='active' parent='2'>Dan</segment></segment> nama ibunya [NAMA]. Mereka baik-baik saja.
+[NAMA] tidak punya saudara kandung.
+Ayahnya bekerja di industri <segment id='4' features='eror;ejaan;ejtb' state='active'>baja, <segment id='5' features='eror;ejaan;ejk' state='active' parent='4'>Dan</segment></segment> ibunya tidak bekerja. Dia ibu rumah tangga.    </body>
+</document>

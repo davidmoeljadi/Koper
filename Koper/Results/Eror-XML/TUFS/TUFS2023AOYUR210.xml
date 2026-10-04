@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023AOYUR210.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya akan pergi ke Yogyakarta. Alasan <segment id='2' features='eror;gramatikal;frasa-nomina;pron0' state='active'>perjalanan adalah</segment> untuk bersekolah dan belajar bahasa Indonesia. Saya akan tinggal di sana selama sebulan. Saya memilih Yogyakarta karena sekolah di sana lebih murah daripada sekolah di <segment id='1' features='eror;ejaan;ejtb' state='active'>Jakarta Saya</segment> akan naik pesawat ke Jakarta dan naik kereta api dari sana ke Yogyakarta. Saya mau berjalan-jalan ke semua kota seperti Jakarta, Surabaya, Bandung, dan Bali.    </body>
+</document>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023BOIM102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;leksikal;kata;ktas' state='active' correction='Favorit'><segment id='5' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='Tempat Favorit' parent='1'>Favorite</segment></segment> <segment id='25' features='eror;ejaan;ejtb' state='active'><segment id='7' features='eror;ejaan;ejk' state='active' correction='Saya' parent='25'>saya</segment>.</segment>
+
+<segment id='2' features='eror;leksikal;kata;ktas' state='active' correction='Favorit'><segment id='26' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='Tempat favorit' parent='2'>Favorito</segment></segment> saya adalah rumah <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='teman'><segment id='27' features='eror;ejaan;ejsp' state='active' parent='3'>temsn<segment id='4' features='eror;leksikal;kata;prons' state='active' correction='saya' parent='27'>ke</segment></segment></segment> di <segment id='8' features='eror;ejaan;ejk' state='active' correction='Beppu'>beppu</segment>.
+<segment id='6' features='eror;lainnya;lain' state='active' correction='Saya suka rumah teman saya karena kami bisa makan yakiniku di sana.'>Saya suka rumah teman karena saya 
+<segment id='10' features='eror;leksikal;kata;prons' state='active' correction='Kami' parent='6'>Kita</segment> makan <segment id='11' features='eror;ejaan;ejtb' state='active' correction='yakiniku.' parent='6'><segment id='12' features='eror;ejaan;ejk' state='active' correction='yakiniku' parent='11'>Yakiniku</segment></segment></segment> 
+<segment id='13' features='eror;ejaan;ejtb' state='active' correction='Kadang-kadang,'>Kadang kadang,</segment> <segment id='14' features='eror;leksikal;kata;prons' state='active' correction='kami'>kita</segment> pergi ke <segment id='15' features='eror;ejaan;ejk' state='active' correction='karaoke'>Karaoke</segment> di <segment id='16' features='eror;ejaan;ejk' state='active' correction='Beppu'>beppu</segment>.
+<segment id='18' features='eror;leksikal;kata;prons' state='active' correction='Kami'>Kita</segment> menonton film dan mendengarkan <segment id='17' features='eror;leksikal;kata;ktas' state='active' correction='musik'>music</segment>.
+<segment id='19' features='eror;leksikal;kata;prons' state='active' correction='Saya'>Aku</segment> bisa tidur di rumah teman.
+Kami <segment id='20' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='bermain'>main kan</segment> <segment id='21' features='eror;leksikal;kata;ktas' state='active' correction='gim video'>video game</segment> <segment id='22' features='eror;ejaan;ejk' state='active' correction='tengah'>Tengah</segment> <segment id='23' features='eror;ejaan;ejhrf' state='active' correction='malam'>malan</segment>.
+<segment id='24' features='eror;lainnya;lain' state='active'>Kami bisa pergi ke unversitas.</segment>    </body>
+</document>

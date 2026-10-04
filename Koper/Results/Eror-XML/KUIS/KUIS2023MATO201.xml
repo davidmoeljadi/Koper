@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023MATO201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hai Tuti,
+
+Aku juga ingin sekali <segment id='3' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>bertemu kamu</segment>.
+Aku sangat mengerti bagaimana perasaan ibumu. Jika aku ibumu, aku akan mengatakan hal yang sama.
+<segment id='1' features='eror;gramatikal;frasa-nomina;nomx' state='active'>Jika kamu boleh</segment>, bisakah kamu <segment id='2' features='eror;leksikal;kata;vrbs' state='active'>menghabiskan</segment> satu hari dengan aku minggu ini agar kita bisa mendiskusikannya?
+
+Salam sayang,
+Rano    </body>
+</document>

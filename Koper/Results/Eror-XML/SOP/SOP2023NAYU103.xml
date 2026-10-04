@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023NAYU103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='3' features='eror;leksikal;kata;ktvar' state='active'>Saya bangun jam 6.30 pagi. Saya makan <segment id='1' features='eror;ejaan;ejhrf' state='active' parent='3'>serapan</segment> jam <segment id='2' features='eror;ejaan;ejtb' state='active' parent='3'>7.30 Saya</segment> pergi ke kampus jam 8.15 pagi. Saya belajar di universitas dari jam 9 pagi sampai jam 5 sore. Saya makan malam jam 8 malam. Saya tidur jam 11 malam.</segment>    </body>
+</document>

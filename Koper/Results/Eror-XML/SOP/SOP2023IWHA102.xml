@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023IWHA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Namanya [NAMA] <segment id='1' features='eror;ejaan;ejsp' state='active'>[NAMA].Dia</segment> berasal dari Ehime. 
+Dia berkacamata <segment id='2' features='eror;ejaan;ejsp' state='active'>hitam.Dia</segment> punya kakak perempuan dan adik laki-laki. Dia tinggal di <segment id='3' features='eror;ejaan;ejk' state='active' correction='Tokyo'>tokyo</segment> <segment id='5' features='eror;ejaan;ejsp' state='active'>deng<segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active' parent='5'>an.Dia</segment></segment> mahasiswa Universitas <segment id='13' features='eror;ejaan;ejtb' state='active'>Waseda tetapi</segment> <segment id='14' features='eror;gramatikal;frasa-nomina;yg0' state='active'><segment id='6' features='eror;leksikal;kata;negs' state='active' correction='bukan' parent='14'>tidak</segment> paling</segment> pintar di <segment id='7' features='eror;ejaan;ejhrf' state='active' correction='kelas'>kalas</segment>. Dia bangun jam tujuh pagi dan makan pagi jam delapan hari ini. Dia pergi ke stasiun jam sembilan. Berapa lama dari rumah [NAMA] ke universitas?
+Dari rumah [NAMA] ke universitas kira-kira tiga belas <segment id='8' features='eror;ejaan;ejsp' state='active'>menit.Dia</segment> belajar bahasa <segment id='9' features='eror;ejaan;ejk' state='active' correction='Inggris'>inggris</segment> dan ekonomi.
+
+[NAMA] pulang ke rumah tepat jam enam <segment id='10' features='eror;ejaan;ejsp' state='active'>malam.Dia</segment> makan malam nasi <segment id='15' features='eror;ejaan;ejhrf' state='active'>goren</segment> dan susu sambil <segment id='11' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>belajar <segment id='12' features='eror;leksikal;kata;ktas' state='active' correction='tes' parent='11'>test</segment></segment> besok.
+Dia makan malam sesudah mandi.
+Dia tidur jam sepuluh lewat lima menit.    </body>
+</document>

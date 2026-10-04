@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023KONA304.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejtb' state='active'>Chiba 12</segment> <segment id='2' features='eror;ejaan;ejtb' state='active'>November, 2023</segment>
+Lampiran: 1 helai
+Hal: Absen kuliah bahasa Indonesia Ⅱ
+
+<segment id='3' features='eror;ejaan;ejhrf' state='active'>Vth.</segment> Bapak [NAMA]
+Kecamatan <segment id='4' features='eror;ejaan;ejtb' state='active'>Mihama Kota</segment> <segment id='5' features='eror;ejaan;ejtb' state='active'>Makuhari Provinsi</segment> Chiba
+
+Dengan hormat,
+Melalui surat ini, saya mohon absen kuliah bahasa Indonesia Ⅱ hari ini karena dari <segment id='6' features='eror;ejaan;ejtb' state='active'>kemarin, saya</segment> merasa tidak enak badan dan <segment id='7' features='eror;gramatikal;frasa-verba;vrbx' state='active'>ada</segment> pusing.
+Kalau ada yang harus dilakukan, tolong <segment id='8' features='eror;ejaan;ejsp' state='active'>beritahu</segment> <segment id='9' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>kepada</segment> saya.
+Sebelumnya, saya ucapkan terima kasih.
+
+Salam saya,
+[NAMA] [NAMA]
+Universitas Bahasa Asing Kanda    </body>
+</document>

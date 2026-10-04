@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023SANI201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tuti <segment id='1' features='eror;ejaan;ejtb' state='active'>Sayang.</segment>
+
+<segment id='3' features='eror;leksikal;kata;prons' state='active'>Saya</segment> juga sangat ingin bertemu dengan <segment id='23' features='eror;leksikal;kata;prons' state='active' comment='Mungkin sebaiknya pakai kata &quot;kamu&quot; dalam konteks dan hubungan seperti ini.'>Anda.</segment>
+<segment id='2' features='eror;ejaan;ejtb' state='active'>Tapi <segment id='4' features='eror;leksikal;kata;prons' state='active' parent='2'>saya</segment></segment> merasa cinta kita telah tumbuh lebih dalam lagi di saat kita saling merindukan.
+Nah, itu sangat sulit.
+<segment id='5' features='eror;leksikal;kata;prons' state='active'>Saya</segment> pikir <segment id='24' features='eror;leksikal;kata;prons' state='active' comment='&quot;kamu&quot;'>Anda</segment> harus memutuskan sendiri siapa yang ingin <segment id='25' features='eror;leksikal;kata;prons' state='active' comment='&quot;kamu&quot;'>Anda</segment> nikahi.
+Selain itu, kita saling mencintai, bukan?
+Aku ingin berada di sisimu sepanjang waktu.
+Jangan khawatir tentang apa yang dikatakan ibumu.
+Mari kita hidup dengan cara kita sendiri.
+
+<segment id='22' features='eror;ejaan;ejk' state='active'>salam</segment> <segment id='6' features='eror;ejaan;ejtb' state='active'>sayang</segment>
+Rano.    </body>
+</document>

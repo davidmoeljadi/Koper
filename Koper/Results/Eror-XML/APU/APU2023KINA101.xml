@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023KINA101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+1. <segment id='1' features='eror;ejaan;ejsp' state='active'>Namanya  <segment id='4' features='eror;ejaan;ejtb' state='active' parent='1'>[NAMA]</segment></segment> 
+2. <segment id='2' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari <segment id='3' features='eror;ejaan;ejtb' state='active' parent='2'>Saitama</segment>
+3. Dia lahir dan besar di <segment id='5' features='eror;ejaan;ejtb' state='active' parent='2'>Saitama</segment>
+4. Dia sekarang tinggal di Shiomichou.
+5. Dia mahasiswa APU <segment id='11' features='eror;ejaan;ejk' state='active' parent='2'>fakultas</segment> <segment id='12' features='eror;ejaan;ejtb' state='active' parent='2'>APS, <segment id='13' features='eror;ejaan;ejk' state='active' parent='12'>jurusan</segment></segment> <segment id='6' features='eror;ejaan;ejtb' state='active' parent='2'>IR</segment>
+6. Dia tidak <segment id='10' features='eror;ejaan;ejhrf' state='active' parent='2'>bekarja</segment> sampingan.</segment>
+7. Hobi dia main <segment id='7' features='eror;ejaan;ejtb' state='active'>bisbol</segment>
+<segment id='8' features='eror;ejaan;ejsp' state='active'>8.Dia</segment> tidak ikut <segment id='9' features='eror;leksikal;kata;ktas' state='active'>club</segment>.    </body>
+</document>

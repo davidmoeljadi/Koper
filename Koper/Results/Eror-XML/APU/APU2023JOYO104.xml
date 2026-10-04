@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023JOYO104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Keluarga Saya
+
+Nama saya [NAMA]. Saya mahasiswa APU. <segment id='3' features='eror;gramatikal;kalimat;kalpen' state='active'>Keluarga saya ada 4 orang. Ibu, ayah, adik <segment id='5' features='eror;ejaan;ejtb' state='active' correction='adik perempuan, dan saya.' parent='3'>perempuan dan</segment> saya.</segment> Saya anak kesatu. 
+<segment id='4' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='Umur adik perempuan saya'>Adik perempuan saya umur</segment> 19 tahun. Dia <segment id='2' features='eror;leksikal;kata;noms' state='active' correction='siswa'>mahasiswa</segment> kelas 3 SMA. Hobi dia <segment id='10' features='eror;ejaan;ejhrf' state='active' correction='mendengarkan'><segment id='11' features='eror;gramatikal;frasa-verba;vrbafx' state='active' parent='10'>mendangar</segment></segment> musik dan <segment id='12' features='eror;leksikal;kata;ktinf' state='active' correction='berbelanja'>belanja</segment>. 
+Nama ayah saya <segment id='6' features='eror;ejaan;ejtb' state='active'><segment id='7' features='eror;gramatikal;konjungsi;konj0' state='active' correction='[NAMA] dan nama ibu' parent='6'>[NAMA], nama</segment></segment> <segment id='9' features='eror;gramatikal;frasa-nomina;pron0' state='active' comment='Sebenarnya secara makna kalimat masih berterima, tetapi dapat diperbaiki dengan menambahkan pronomina ‘saya’ agar strukturnya lebih lengkap.' correction='nama ibu saya'>ibu [NAMA]</segment>. Mereka berasal dari Seoul. Sekarang mereka tinggal di Seoul. Ayah saya dokter. Dia bekerja di rumah sakit di Seoul. Umur dia 53 tahun. Hobi dia menonton film. Seminggu sekali dia pergi ke bioskop. Ibu saya suka menonton drama dan memasak. Umur dia 52 tahun. 
+Dua minggu sekali mereka pergi ke restoran India. Mereka suka <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='masakan/makanan'>manakan</segment> India. 
+Dua bulan <segment id='8' features='eror;ejaan;ejtb' state='active' comment='Koma setelah kata &apos;sekali&apos; tidak perlu agar konsisten dengan kalimat sebelumnya.'>sekali, saya</segment> pulang ke rumah di Korea.    </body>
+</document>

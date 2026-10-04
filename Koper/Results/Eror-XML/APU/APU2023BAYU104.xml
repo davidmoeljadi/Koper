@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023BAYU104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA] [NAMA]. 
+Saya mahasiswa tahun kesatu di universitas. 
+Nama universitas saya APU. 
+Sekarang saya tinggal di <segment id='1' features='eror;gramatikal;frasa-nomina;urtfn' state='active'>AP rumah</segment>. 
+Umur saya 19 tahun.
+Ada 6 orang di keluarga saya. Nenek, kakek, ayah, ibu, <segment id='2' features='eror;leksikal;kata;prons' state='active' correction='saya'>aku</segment>, dan kakak perempuan.
+Umur saya 19 tahun.
+<segment id='10' features='eror;ejaan;ejk' state='active'>kakak</segment> perempuan saya <segment id='11' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='berumur'>umur</segment> 21 tahun. Nama dia [NAMA]. Dia mahasiswa tahun ketiga.
+Nama kakek saya [NAMA], nama nenek saya [NAMA]. Mereka tinggal di Ashiya. 
+Nama ayah saya [NAMA] dan nama <segment id='12' features='eror;ejaan;ejk' state='active'>Ibu</segment> saya [NAMA]. Ayah saya pekerja kantor. Dia bekerja di <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Mitsubishi'>Mitubishi</segment>. Umur dia 51 tahun. Umur <segment id='4' features='eror;leksikal;kata;prons' state='active' correction='ibu'>dia</segment> <segment id='5' features='eror;gramatikal;frasa-adverbia;advx' state='active'>juga</segment> 53 tahun. Hobi ayah saya adalah bermain dan menonton golf. Hobi ibu<segment id='7' features='eror;leksikal;kata;prons' state='active' correction='saya'>ku</segment> adalah merajut dan menonton Netflix.
+Saya tidak tahu tentang hobi kakak perempuan saya.
+<segment id='6' features='eror;ejaan;ejtb' state='active' comment='Tidak perlu koma.'><segment id='8' features='eror;gramatikal;konjungsi;konj0' state='active' correction='dan' parent='6'>Ayah, ibu</segment></segment> saya tinggal di Tokyo. Kakak <segment id='13' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='saya'>perempuan tinggal</segment> di Newcastle, Inggris.
+<segment id='9' features='eror;ejaan;ejhrf' state='active' correction='6'>Enam</segment> bulan sekali saya pulang ke rumah ayah dan ibu saya. Kami juga pergi ke rumah kakek dan nenek setahun sekali.    </body>
+</document>

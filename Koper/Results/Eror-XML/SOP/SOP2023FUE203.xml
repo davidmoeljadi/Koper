@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023FUE203.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Pada liburan musim semi, saya dan teman-teman saya pergi ke Mishima, Shizuoka. Kami mengunjungi Mishima Skywalk di sana. Mishima Skywalk adalah jembatan gantung dengan pemandangan pegunungan yang indah. Hari <segment id='4' features='eror;leksikal;kata;pronrels' state='active'>yang</segment> kami kunjungi adalah hari yang indah dan kami bisa melihat Gunung Fuji. Kami juga <segment id='1' features='eror;leksikal;kata;vrbs' state='active' correction='mencoba'>mengalami</segment> <segment id='2' features='eror;leksikal;kata;ktas' state='active' correction='luncur gantung'>ziplining</segment> di sana. <segment id='5' features='eror;gramatikal;kalimat;kalsub' state='active'>Agak menakutkan</segment> karena ketinggian dan kecepatannya, <segment id='3' features='eror;leksikal;kata;ktinf' state='active' correction='tetapi'>tapi</segment> sangat menyenangkan.
+<segment id='7' features='eror;ejaan;ejtb' state='active'>Kemudian kami</segment> pergi ke pantai. Garis pantai yang tak berujung itu kosong, sehingga terasa tenang dan damai. 
+Di akhir perjalanan, kami pergi ke Sawayaka, sebuah restoran hamburger yang terkenal di Shizuoka. Hamburger besar <segment id='6' features='eror;gramatikal;frasa-nomina;nyaitu' state='active'>itu</segment> sangat lezat.    </body>
+</document>

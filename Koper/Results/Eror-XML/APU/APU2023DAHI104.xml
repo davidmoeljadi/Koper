@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023DAHI104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya Dua Bersaudara
+
+Nama saya [NAMA] [NAMA]. Saya berasal <segment id='8' features='eror;leksikal;kata;preps' state='active' correction='dari'>di</segment> Jepang.
+Saya mahasiswa APU <segment id='1' features='eror;ejaan;ejk' state='active' correction='Fakultas'>fakultas</segment> APS. Saya mahasiswa tahun kesatu.
+Hobi saya menonton film. Saya dua bersaudara.
+Ayah saya, ibu <segment id='2' features='eror;ejaan;ejtb' state='active' correction='saya, dan'>saya dan</segment> adik perempuan saya tinggal di Osaka.
+Ayah saya dan ibu saya bekerja di kantor.
+<segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Adik'>Anak</segment> perempuan saya siswa SMA kelas tiga. <segment id='4' features='eror;gramatikal;kalimat;kalobj' state='active'>Saya tidak <segment id='9' features='eror;ejaan;ejtb' state='active' correction='.'>punya</segment>
+Hobi</segment> ayah saya memasak dan <segment id='12' features='eror;leksikal;kata;ktinf' state='active' correction='berjalan-jalan'>jalan-jalan</segment>.
+Ibu saya suka <segment id='13' features='eror;leksikal;kata;ktinf' state='active' correction='berolahraga'>olahraga</segment> dan <segment id='14' features='eror;leksikal;kata;ktinf' state='active' correction='berbelanja'>belanja</segment>.
+Hobi adik <segment id='10' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='adik perempuan saya main'>perempuan main</segment> <segment id='5' features='eror;leksikal;kata;ktas' state='active' correction='gim'>games</segment>, <segment id='11' features='eror;ejaan;ejtb' state='active' correction='makan, dan tidur.'>makan dan</segment> tidur. Dia suka <segment id='6' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='gim FPS.'>FPS <segment id='7' features='eror;leksikal;kata' state='active' correction='gim' parent='6'>games.</segment></segment>
+Seminggu dua kali saya menonton film di rumah saya.
+Saya suka film horor, musikal, dan aksi.
+Saya pulang ke Osaka setahun empat kali.
+Saya tidak punya peliharaan.    </body>
+</document>

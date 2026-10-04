@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023KANA404.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Yth. Bapak [NAMA]
+
+Dengan hormat,
+ Melalui pos-el ini, saya memberitahukan alasan <segment id='4' features='eror;gramatikal;frasa-nomina;ygx' state='active'>yang</segment> saya tidak bisa masuk kuliah. Sejak minggu lalu, saya merasa kondisi badan tidak baik <segment id='5' features='eror;gramatikal;frasa-adverbia;advx' state='active'>sekali</segment> dibandingkan dengan biasanya sehingga saya pergi ke dokter. 
+ Menurut dokter, saya <segment id='6' features='eror;leksikal;kata;vrbs' state='active' correction='terkena'>masuk</segment> influenza <segment id='7' features='eror;gramatikal;frasa-nomina;nomx' state='active'>sekarang</segment> sehingga saya <segment id='8' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='tidak bisa pergi'>tidak pergi</segment> ke kuliah Bapak minggu depan. Oleh karena itu, <segment id='9' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='saya juga tidak bisa'>saya tidak</segment> bisa ikut ujian bahasa Indonesia minggu depan <segment id='10' features='eror;gramatikal;frasa-adverbia;advx' state='active'>juga</segment>. Saya mohon Bapak memberi kesempatan kepada saya untuk ikut ujian susulan <segment id='12' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>pada</segment> 2 minggu kemudian. Tolong <segment id='1' features='eror;ejaan;ejsp' state='active'>beritahu</segment> kapan atau hari apa <segment id='11' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='saya bisa ikut'>saya ikut</segment> ujian susulan.
+
+Hormat saya,
+[NAMA]    </body>
+</document>

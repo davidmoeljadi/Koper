@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KASO103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tari Barong
+
+Tari Barong tarian tradisional Bali.
+<segment id='15' features='eror;leksikal;kata;ktvar' state='active'><segment id='2' features='eror;gramatikal;frasa-nomina;nom0' state='active' parent='15'>Ini</segment> mewakili baik dan buruk di dalam <segment id='4' features='eror;leksikal;kata;noms' state='active' correction='kehidupan' parent='15'>jantung</segment>. 
+Ini <segment id='1' features='eror;gramatikal;frasa-nomina;nom0' state='active' parent='15'><segment id='5' features='eror;ejaan;ejhrf' state='active' correction='menggambarkan' parent='1'>wenggmbar</segment> antara</segment> <segment id='6' features='eror;ejaan;ejhrf' state='active' correction='binatang' parent='15'>binmtang</segment> suci <segment id='7' features='eror;ejaan;ejhrf' state='active' correction='Barong' parent='15'>Baron</segment> dan penyihir <segment id='8' features='eror;ejaan;ejhrf' state='active' correction='Rangda' parent='15'>Randa</segment> bersama gamelan.
+<segment id='9' features='eror;leksikal;kata;noms' state='active' correction='Dahulu' parent='15'>Pernah <segment id='18' features='eror;ejaan;ejsp' state='active' parent='15'>ada</segment>,Tari</segment> <segment id='11' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='digunakan sebagai' parent='15'><segment id='10' features='eror;ejaan;ejhrf' state='active' parent='11'>Barang</segment> upacara</segment> untuk mencegah bencana.
+<segment id='13' features='eror;ejaan;ejsp' state='active' parent='15'>Sekarang,<segment id='12' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='ini' parent='13'>Ini</segment></segment> mencerminkan <segment id='3' features='eror;ejaan;ejsp' state='active' parent='15'><segment id='14' features='eror;leksikal;kata;noms' state='active' correction='jiwa' parent='3'>jantung</segment>  penduduk</segment> Bali di <segment id='16' features='eror;ejaan;ejsp' state='active' correction='masa lalu' parent='15'>masalalu</segment>.
+Pertunjukan tari Barong memberikan pengalaman visual yang hidup.
+<segment id='17' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Tari Barong menggabungkan kostum berwarna cerah, boneka yang rumit, tarian yang penuh gairah, dan gamelan tradisional yang menggetarkan hati.'>Ini <segment id='20' features='eror;ejaan;ejtb' state='active' parent='17'>menggabungkan,kostum</segment> berwarna <segment id='21' features='eror;ejaan;ejtb' state='active' parent='17'>cerah boneka</segment> yang rumit.</segment>
+tarian yang penuh <segment id='22' features='eror;ejaan;ejsp' state='active' parent='17'>gairah,dan</segment> gamelan tradisional yang <segment id='23' features='eror;ejaan;ejhrf' state='active' parent='17'>menggeturkan</segment> <segment id='32' features='eror;ejaan;ejhrf' state='active' parent='17'>nati</segment>.</segment>
+<segment id='19' features='eror;ejaan;ejtb' state='active'>Bersama-sama elemen-elemen</segment> ini menarik penonton ke <segment id='25' features='eror;ejaan;ejhrf' state='active' correction='dalam'>dalan</segment> cerita yang mendalam.
+Di <segment id='24' features='eror;ejaan;ejtb' state='active'>Bali banyak</segment> <segment id='27' features='eror;ejaan;ejhrf' state='active' correction='masyarakat'>wasyarakut</segment> yang menganut agama <segment id='28' features='eror;ejaan;ejsp' state='active' comment='kekurangan spasi'>Hindu,padahal</segment> <segment id='29' features='eror;ejaan;ejhrf' state='active' correction='Indonesia'>Iudonesia</segment> merupakan <segment id='30' features='eror;ejaan;ejhrf' state='active' correction='negara'>negarg</segment> yang <segment id='31' features='eror;ejaan;ejhrf' state='active' correction='mayoritas'>nayoritas</segment> peduduknya beragama Islam.    </body>
+</document>

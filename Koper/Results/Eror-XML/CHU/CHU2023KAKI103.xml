@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KAKI103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+「ANDIEN」
+<segment id='31' features='eror;ejaan;ejhrf' state='active'>Namnya</segment> <segment id='3' features='eror;ejaan;ejk' state='active' correction='Andien'>ANDIEN</segment>. 
+<segment id='1' features='eror;leksikal;kata;ktvar' state='active'>Dia lahir di <segment id='4' features='eror;ejaan;ejk' state='active' correction='Jakarta' parent='1'>jakarta</segment> pada tahun 1985. 
+Dia adalah artis wanita.
+Dia menyanyi dari usia 3 tahun.
+<segment id='10' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='pernah' parent='1'>Dia berpartisipasi</segment> dalam kontes <segment id='11' features='eror;ejaan;ejhrf' state='active' correction='menyanyi' parent='1'>menyani</segment> di kelas 3 sekolah dasar.
+Dia belajar banyak dalam kontes <segment id='12' features='eror;ejaan;ejhrf' state='active' correction='menyanyi' parent='1'>menyani</segment>.
+Dia bersekolah di Elfa Music <segment id='15' features='eror;ejaan;ejsp' state='active' comment='Kekurangan spasi' correction='Studio (EMS)' parent='1'>Studio(EMS)</segment> di kelas 6 sekolah dasar.</segment>
+EMS adalah studio yang sangat terkenal.
+<segment id='2' features='eror;leksikal;kata;ktvar' state='active'><segment id='18' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='akhirnya' parent='2'>Dia bisa</segment> <segment id='16' features='eror;ejaan;ejhrf' state='active' correction='menyanyi' parent='2'>menyani</segment> lebih pandai daripada <segment id='17' features='eror;ejaan;ejhrf' state='active' correction='sebelumnya' parent='2'>seblumnya</segment>.
+Dia memulai <segment id='20' features='eror;ejaan;ejhrf' state='active' correction='debutnya' parent='2'>debuynya</segment> pada usia 14 tahun.
+<segment id='21' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='menjadi' parent='2'>Dia sangat</segment> populer di Indonesia.
+Panggungnya sangat menarik dan ramai.
+Dia <segment id='25' features='eror;leksikal;kata;vrbs' state='active' correction='dianugerahi' parent='2'>menghadiahkah</segment> penghargaan <segment id='27' features='eror;ejaan;ejhrf' state='active' correction='penyanyi' parent='2'>penyani</segment> terbaik di Anugerah Musik Indonesia pada tahun 2000.
+Dia merilis 7 <segment id='28' features='eror;leksikal;kata;gols' state='active' correction='buah' parent='2'>helai</segment> <segment id='22' features='eror;leksikal;kata;noms' state='active' correction='album' parent='2'>CD</segment> sejauh ini.</segment>
+”<segment id='29' features='eror;ejaan;ejk' state='active' correction='Let it Be My Way'>LET IT BE MY <segment id='24' features='eror;ejaan;ejsp' state='active' comment='Kelebihan spasi'>WAY</segment> ”</segment> dirilis pada tahun 2014 dan digunakan dalam film tersebut.
+Saya mau mendengarkan lagunya.    </body>
+</document>

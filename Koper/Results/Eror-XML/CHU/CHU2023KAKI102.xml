@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KAKI102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan saya ada <segment id='4' features='eror;ejaan;ejtb' state='active'>meja <segment id='1' features='eror;gramatikal;konjungsi;konjx' state='active' parent='4'>dan</segment> kursi <segment id='2' features='eror;gramatikal;konjungsi;konjx' state='active' parent='4'>dan</segment> tempat tidur <segment id='3' features='eror;gramatikal;konjungsi;konjx' state='active' parent='4'>dan</segment> <segment id='5' features='eror;ejaan;ejhrf' state='active' parent='4'><segment id='6' features='eror;ejaan;ejsp' state='active' parent='5'>rakbuk</segment></segment> dan</segment> HP.
+Kursi <segment id='7' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>ada dekat</segment> meja. 
+<segment id='12' features='eror;gramatikal;kalimat;kalpen' state='active'>Tempat tidur <segment id='8' features='eror;gramatikal;frasa-preposisi;prep0' state='active' parent='12'>ada sebelah</segment> kiri meja. 
+<segment id='9' features='eror;ejaan;ejhrf' state='active' parent='12'><segment id='10' features='eror;ejaan;ejsp' state='active' parent='9'>Rakbuk</segment></segment> <segment id='11' features='eror;gramatikal;frasa-preposisi;prep0' state='active' parent='12'>ada sebelah</segment> kiri meja.</segment>
+ <segment id='13' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='Di atas meja ada HP.'>Di atas HP ada meja.</segment>    </body>
+</document>

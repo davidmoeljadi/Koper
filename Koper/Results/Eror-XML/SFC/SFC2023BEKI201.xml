@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BEKI201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya <segment id='2' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='dengan'><segment id='1' features='eror;ejaan;ejhrf' state='active' correction='bertemu' parent='2'>bertamu</segment> teman</segment> saya di <segment id='3' features='eror;ejaan;ejk' state='active'>stasiun</segment> Yokohama jam sepuluh pagi.
+Kami pergi ke kafe dan minum kopi.
+
+Kami makan <segment id='4' features='eror;leksikal;kata;ktas' state='active'>pizza</segment> jam <segment id='5' features='eror;lainnya;lain' state='active'>tiga belas</segment>.
+
+Kami membeli tas dan sepatu jam <segment id='6' features='eror;lainnya;lain' state='active'>lima belas</segment>.
+
+Saya pulang ke rumah jam <segment id='8' features='eror;lainnya;lain' state='active'><segment id='7' features='eror;ejaan;ejhrf' state='active' parent='8'>tuju</segment> belas</segment>.    </body>
+</document>

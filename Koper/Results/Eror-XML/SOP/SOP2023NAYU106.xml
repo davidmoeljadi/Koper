@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023NAYU106.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejtb' state='active' comment='kesalahan tanda baca yaitu penggunaan tanda titik dua (:) dan tanda petik (&quot;...&quot;). Apabila direvisi menjadi,
+A: &quot;Halo, K, apa kabar?&quot;
+B: &quot;Baik. Apa kabar, Y?&quot;'>A.Halo, K, apa kabar?
+B.Baik. Apa kabar, Y?
+A.Saya juga baik. K, hari Minggu saya <segment id='2' features='eror;ejaan;ejsp' state='active' parent='1'>mau  pergi</segment> <segment id='3' features='eror;ejaan;ejsp' state='active' parent='1'>berbelanja  ke</segment> Shibuya. K mau pergi dengan saya?
+B.Jam berapa?
+A.Kira-kira jam 4 <segment id='5' features='eror;ejaan;ejtb' state='active' parent='1'>sore?</segment>
+B.Oke, kita bertemu di mana?
+A.Bagaimana kalau di depan Stasiun Shibuya?
+B.Boleh! Kita bertemu jam berapa di sana?
+A.Bagaimana kalau jam 5 kurang 10 menit?
+B.Itu <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='bagus' parent='1'>bagas</segment>! Sampai jumpa hari Sabtu, ya.</segment>    </body>
+</document>

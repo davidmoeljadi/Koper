@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DANA101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Ayah <segment id='2' features='eror;gramatikal;frasa-nomina;nomx' state='active'>perempuan</segment>ku namanya [NAMA].
+Dia lahir pada tanggal 10 <segment id='1' features='eror;leksikal;kata;ktas' state='active'>July</segment> 1964.
+Tahun ini umurnya 59 <segment id='3' features='eror;ejaan;ejsp' state='active'>tahun .</segment> 
+Dia mau kado komputer.    </body>
+</document>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023JOSE203.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Ini kamar ideal saya<segment id='14' features='eror;ejaan;ejsp' state='active'>.  Kamar</segment> ini tidak besar. 
+
+Ada banyak barang di kamar ini. Pertama, ada <segment id='1' features='eror;ejaan;ejhrf' state='active'>tenmpat</segment> tidur. Di sebelah kanan <segment id='2' features='eror;ejaan;ejhrf' state='active'>tenmpat</segment> tidur ada meja kecil. Di atas <segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active'><segment id='3' features='eror;ejaan;ejhrf' state='active' parent='4'>tenmpat</segment> ada</segment> boneka. Lampu ada di atas meja kecil. Saya sangat suka dekorasi <segment id='5' features='eror;gramatikal;frasa-nomina;pron0' state='active'>kamar.</segment>
+
+Di <segment id='7' features='eror;gramatikal;frasa-nomina;urtfn' state='active'><segment id='6' features='eror;ejaan;ejhrf' state='active' parent='7'>tenmpat</segment> tidur depan</segment> ada meja <segment id='8' features='eror;ejaan;ejsp' state='active'>kayu(wood)</segment> dan dua kursi. Selain itu, ada lemari. <segment id='13' features='eror;gramatikal;frasa-nomina;nya0' state='active'>Lemari</segment> berwarna merah putih. Bantal dan lampu ada di atas lemari. Saya <segment id='11' features='eror;gramatikal;frasa-verba;vrb0' state='active'>ingin TV</segment>  <segment id='9' features='eror;ejaan;ejsp' state='active'>untuk  kamar</segment> ideal saya <segment id='12' features='eror;ejaan;ejhrf' state='active'>kerna</segment> saya suka menonton <segment id='10' features='eror;ejaan;ejsp' state='active'>bisbol(baseball)</segment> dan Netflix.  
+
+Menurut saya, kamar ideal saya nyaman.    </body>
+</document>

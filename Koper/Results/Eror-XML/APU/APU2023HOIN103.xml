@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023HOIN103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Makanan favorit saya <segment id='1' features='eror;gramatikal;frasa-nomina;nomx' state='active'>makanan</segment> piza.
+Kemarin saya makan piza di rumah saya.
+<segment id='2' features='eror;leksikal;kata;preps' state='active' correction='Bagi'>Untuk</segment> <segment id='3' features='eror;ejaan;ejtb' state='active'>saya ukuran</segment> <segment id='4' features='eror;gramatikal;frasa-nomina;nya0' state='active'>piza</segment> terlalu <segment id='6' features='eror;ejaan;ejtb' state='active'>kecil <segment id='5' features='eror;leksikal;kata;ktinf' state='active' parent='6'>tapi</segment></segment> enak.
+Piza <segment id='9' features='eror;gramatikal;frasa-nomina;nyaitu' state='active'>itu</segment> agak <segment id='7' features='eror;ejaan;ejtb' state='active'>mahal. dan</segment> <segment id='8' features='eror;ejaan;ejtb' state='active'>sedikit</segment>    </body>
+</document>

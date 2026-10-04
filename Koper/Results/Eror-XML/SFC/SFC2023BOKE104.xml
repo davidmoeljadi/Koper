@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BOKE104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejhrf' state='active'>Apartmen</segment> Shonandai Heights lebih mahal daripada <segment id='2' features='eror;ejaan;ejhrf' state='active'>Apartmen</segment> Keio Garden. Harga sewa <segment id='3' features='eror;ejaan;ejhrf' state='active'>Apartmen</segment> Shonandai Heights tujuh puluh tujuh ribu yen sebulan.    </body>
+</document>

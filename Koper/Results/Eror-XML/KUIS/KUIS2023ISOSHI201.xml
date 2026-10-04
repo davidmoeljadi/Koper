@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023ISOSHI201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hai Tuti,
+
+Aku sedih karena aku tidak bisa bertemu dengan kamu selama 2 minggu.
+<segment id='1' features='eror;gramatikal;kalimat;kalsub' state='active'>Baru 2 minggu tidak bertemu,</segment> rasanya seperti sudah 200 tahun!
+Aku juga mau bertemu dengan kamu secepat mungkin…
+Seandainya aku punya sayap, aku akan terbang ke tempatmu.
+Sayang sekali, aku hanya manusia biasa.
+Jadi, kapan kamu ada waktu?
+
+Tuti, mungkin aku tahu yang sedang kamu pikirkan.
+Kamu mau menikah dengan aku, bukan?
+Kalau begitu, kamu harus mengatakan <segment id='3' features='eror;leksikal;kata;preps' state='active'>pada</segment> ibumu bahwa kamu tidak bisa menikah dengan anak temannya.
+<segment id='4' features='eror;leksikal;kata;konjs' state='active'>Berikutnya</segment>, <segment id='6' features='eror;ejaan;ejk' state='active'>Aku</segment> ingin kamu memperkenalkanku kepada ibumu.
+Aku titip salam buat ibumu ya.
+
+Salam sayang,
+Rano    </body>
+</document>

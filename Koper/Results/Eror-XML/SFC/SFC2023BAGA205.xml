@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BAGA205.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tempat makan kesukaan <segment id='1' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='adalah'>saya Yukimura</segment>.
+<segment id='4' features='eror;gramatikal;kalimat;kalpen' state='active'>Yukimura adalah restoran ramen.
+Terletak di dekat Stasiun Totsuka.</segment>
+Saya pergi ke Yukimura setiap dua minggu sekali.
+Ramen Yukimura adalah ramen kecap.
+Ramen Yukimura berharga 1000 yen.
+Selain ramen, mereka juga punya gyoza dan nasi.
+Saya suka ramen dan sudah makan banyak ramen.
+<segment id='5' features='eror;leksikal;kata;konjs' state='active' correction='Namun'>Tapi</segment>, <segment id='2' features='eror;leksikal;kata;prons' state='active' correction='saya'>aku</segment> paling suka ramen Yukimura.
+Saya sering pergi sendiri karena saya bisa berjalan kaki ke sana dari rumah.
+<segment id='3' features='eror;leksikal;kata;noms' state='active' correction='Porsi'>Jumlah</segment>nya sangat besar sehingga saya merasa mual saat meninggalkan <segment id='6' features='eror;leksikal;kata;noms' state='active' correction='restoran'>toko</segment>.    </body>
+</document>

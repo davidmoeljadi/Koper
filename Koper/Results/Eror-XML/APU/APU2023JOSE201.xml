@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023JOSE201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Wawancara dengan Mahasiswa Indonesia
+
+Hari Senin, tanggal 24 (dua puluh empat) April, saya <segment id='1' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>wawancara</segment> mahasiswa Indonesia. Nama dia &lt;NAMA&gt;, mahasiswa APM. Hobi dia <segment id='2' features='eror;ejaan;ejk' state='active'>Membaca</segment> dan tidur. Dia berasal dari Jakarta, Indonesia. Dia tidak bekerja sampingan. Saya bertanya tentang <segment id='3' features='eror;gramatikal;frasa-nomina;nomafx' state='active'>pengalam</segment> <segment id='14' features='eror;gramatikal;frasa-nomina;pronx' state='active'>dia</segment> dan cita-cita dia.
+
+&lt;NAMA&gt; sudah pernah pergi ke Bandung, Bekasi, <segment id='15' features='eror;ejaan;ejtb' state='active'>Bali dan</segment> Yogyakarta di Indonesia. Di Jepang, dia sudah pernah pergi ke Osaka dan Tokyo. Di Oita, dia sudah pernah pergi ke Yufuin dan Oita. Selain Jepang, dia sudah pernah pergi ke luar negeri seperti (like) Korea dan Cina. Dia ingin pergi ke Kyoto.
+
+Berikutnya adalah <segment id='4' features='eror;leksikal;ungkapan;ukpa' state='active'>pengalaman makan dia</segment> di Jepang. &lt;NAMA&gt; suka masakan Jepang. Dia sudah pernah makan sushi dan ramen. Dia belum pernah <segment id='5' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>coba</segment> natto dan sashimi. Dia tidak suka makanan mentah.
+
+<segment id='16' features='eror;gramatikal;frasa-nomina;yg0' state='active'>Terakhir</segment>, <segment id='6' features='eror;gramatikal;kalimat;kalsub' state='active'>bercerita tentang cita-cita dia</segment>. Dia ingin <segment id='7' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>bekerja perusahaan</segment> di Jepang karena dia ingin pengalaman bekerja di Jepang. Dia ingin <segment id='8' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>menikah umur</segment> dua puluh tujuh tahun.
+
+Saya senang <segment id='9' features='eror;ejaan;ejhrf' state='active'>dapt</segment> <segment id='10' features='eror;ejaan;ejhrf' state='active'>bericara</segment> dengan mahasiswa Indonesia dan tahu <segment id='11' features='eror;gramatikal;frasa-nomina;nomafx' state='active'>pengalam</segment> <segment id='12' features='eror;gramatikal;frasa-nomina;pronx' state='active'>dia</segment> dan cita-cita dia. Saya sangat senang.    </body>
+</document>

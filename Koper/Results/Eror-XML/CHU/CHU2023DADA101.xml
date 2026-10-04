@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023DADA101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Saya tinggal sendirian di Tokyo. Saya dari Fukushima. Saya punya adik laki-laki. Dia tinggal di Fukushima dengan orang tua kami. Nama ayah saya <segment id='2' features='eror;ejaan;ejtb' state='active' comment='Sebelum kata &quot;dan&quot; tidak diperlukan tada koma [,].' correction='Nama ayah saya [NAMA] dan nama ibu saya [NAMA].'>[NAMA], dan</segment> nama ibu saya [NAMA]. Orang tua saya petani. Nama adik laki-laki saya [NAMA]. Dia murid <segment id='3' features='eror;ejaan;ejsp' state='active' correction='....SMA. Saya juga..'>SMA.Saya</segment> juga punya kakek dan nenek. Mereka <segment id='1' features='eror;ejaan;ejsp' state='active' correction='tinggal di'>tinggaldi</segment> Kanagawa.                  </body>
+</document>

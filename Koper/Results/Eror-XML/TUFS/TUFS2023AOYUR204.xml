@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023AOYUR204.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di Jepang, orang-orang merayakan ulang tahun <segment id='11' features='eror;ejaan;ejsp' state='active'>keduapuluh</segment> dengan lebih <segment id='2' features='eror;leksikal;kata;adjs' state='active'>besar</segment> daripada ulang tahun <segment id='12' features='eror;ejaan;ejsp' state='active'>lainnya  karena</segment> orang Jepang berpikir <segment id='1' features='eror;gramatikal;frasa-verba;vrb0' state='active'>20 tahun <segment id='3' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='1'>sebagai</segment> <segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active' parent='1'>orang dewasa</segment></segment>.
+Sebenarnya undang-undang sudah berubah dan <segment id='13' features='eror;gramatikal;frasa-nomina;nom0' state='active'>menurut itu</segment>, 18 tahun adalah usia dewasa sekarang. <segment id='5' features='eror;ejaan;ejtb' state='active'><segment id='6' features='eror;leksikal;kata;konjs' state='active' parent='5'>Tetapi</segment> orang-orang</segment> masih menganggap ulang tahun <segment id='7' features='eror;ejaan;ejtb' state='active'>kedua-puluh</segment> adalah sesuatu yang spesial.
+Pemuda-pemudi berusia 20 tahun berkumpul di kota asal mereka untuk merayakan kedewasaan mereka. Perempuan biasanya memakai pakaian tradisional Jepang yang disebut kimono.
+Kota <segment id='8' features='eror;leksikal;kata;prons' state='active'>asalnya</segment> mengadakan upacara kedewasaan. Di upacara <segment id='9' features='eror;ejaan;ejtb' state='active'>itu mereka</segment> diharapkan memiliki tanggung jawab sebagai orang dewasa. Sebelum dan sesudah upacara <segment id='10' features='eror;ejaan;ejtb' state='active'>itu mereka</segment> saling berpelukan dengan <segment id='14' features='eror;ejaan;ejsp' state='active'>senang  karena</segment> <segment id='15' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>reuni</segment> dengan teman-teman lama.     </body>
+</document>

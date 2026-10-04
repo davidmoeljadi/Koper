@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023KAYU102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Kafe Favorit Saya
+
+Nama kafe favorit saya adalah <segment id='1' features='eror;ejaan;ejk' state='active' correction='The Local'>the local</segment>.
+Kafe ini ada di dekat <segment id='2' features='eror;ejaan;ejk' state='active' correction='Stasiun'><segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Stasiun' parent='2'>stasium</segment></segment> Hakata, kira-kira 5 menit dari <segment id='4' features='eror;ejaan;ejk' state='active' correction='Stasiun'><segment id='5' features='eror;ejaan;ejhrf' state='active' correction='Stasiun' parent='4'>stasium</segment></segment> Hakata.
+<segment id='16' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya suka kafe <segment id='6' features='eror;ejaan;ejtb' state='active' parent='16'>ini, karena</segment> ada <segment id='7' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='menu enak' parent='16'>enak menu</segment> di kafe ini.
+Makanan dan minuman.</segment>
+Saya sangat suka menu <segment id='8' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='kue buah'>buah kue</segment> di kafe ini. <segment id='17' features='eror;gramatikal;kalimat;kalsub' state='active'><segment id='9' features='eror;ejaan;ejtb' state='active' parent='17'>Enak, dan</segment> manis.</segment>
+Ada juga <segment id='10' features='eror;gramatikal;konjungsi;konj0' state='active' correction='dan'>roti <segment id='11' features='eror;leksikal;kata;ktas' state='active' correction='kafelate'>kafe</segment> latte</segment>.
+<segment id='12' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='Harganya'>Harga</segment> <segment id='13' features='eror;gramatikal;frasa-verba;vrbx' state='active'>adalah</segment> tidak terlalu mahal.
+Kafe ini sedikit jauh dari <segment id='14' features='eror;ejaan;ejk' state='active' correction='Stasiun'>stasiun</segment> Hakata, <segment id='18' features='eror;leksikal;kata;ktinf' state='active'>tapi</segment> <segment id='15' features='eror;leksikal;kata;ktas' state='active' correction='kafe'>café</segment> ini bagus untuk makan siang.
+Kalau kamu pergi ke Fukuoka, silakan coba pergi ke kafe ini!    </body>
+</document>

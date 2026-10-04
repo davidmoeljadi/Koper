@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023AKAMO201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hai Tui,
+
+<segment id='6' features='eror;leksikal;kata;ktinf' state='active'>Saya</segment> selalu memikirkan <segment id='7' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment>. 
+<segment id='8' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment> selalu baik, <segment id='9' features='eror;ejaan;ejtb' state='active'>cantik dan</segment> <segment id='1' features='eror;leksikal;ungkapan;ukpa' state='active'>dicinta dari saya</segment>. 
+<segment id='10' features='eror;leksikal;kata;ktinf' state='active'>Saya</segment> tidak bisa hidup tanpa <segment id='11' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment>.  
+<segment id='2' features='eror;gramatikal;kalimat;kalsub' state='active'>Mohon</segment> agar kamu mau menjadi istri <segment id='12' features='eror;leksikal;kata;ktinf' state='active'>saya</segment>.
+<segment id='3' features='eror;leksikal;kata;ktinf' state='active'>Saya</segment> sangat cinta sama kamu dari dalam lubuk hati <segment id='13' features='eror;leksikal;kata;ktinf' state='active'>saya</segment>.
+Jika ibumu tidak <segment id='4' features='eror;leksikal;kata;vrbs' state='active'>menerima</segment> pernikahan <segment id='14' features='eror;leksikal;kata;ktinf' state='active'><segment id='15' features='eror;leksikal;kata;prons' state='active' parent='14'>saya dan Anda</segment></segment>, <segment id='16' features='eror;leksikal;kata;ktinf' state='active'>saya</segment> tidak menyerah. 
+<segment id='17' features='eror;leksikal;kata;ktinf' state='active'>Saya</segment> akan menjadi orang yang tepat <segment id='5' features='eror;leksikal;kata;preps' state='active'>untuk</segment> suami <segment id='18' features='eror;leksikal;kata;ktinf' state='active'>Anda</segment>. 
+Tolong izinkan <segment id='19' features='eror;leksikal;kata;ktinf' state='active'>saya</segment> untuk bertemu ibumu.
+
+Salam sayang,
+Rano    </body>
+</document>

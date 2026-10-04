@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023NAMO103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+SEKITAR RUMAH/APARTEMEN SAYA
+
+Saya tinggal di apartemen di Makuhari. 
+<segment id='1' features='eror;gramatikal;frasa-nomina;nom0' state='active' comment='kekurangan nomina [stasiun]' correction='Dari stasiun ke'>Dari ke</segment> apartemen saya memakan waktu kira-kira sepuluh menit dengan berjalan kaki.
+Apartemen tempat saya tinggal baru dan nyaman.
+Sekitar apartemen saya ramai karena <segment id='2' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='banyak anak-anak bermain'>bermain <segment id='12' features='eror;gramatikal;frasa-adjektiva;adj0' state='active' parent='2'>anak-anak</segment></segment>.
+Di depan <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='apartemen'>apartmen</segment> ada <segment id='14' features='eror;ejaan;ejtb' state='active'><segment id='4' features='eror;ejaan;ejhrf' state='active' correction='jalan' parent='14'>jalah</segment> <segment id='13' features='eror;gramatikal;konjungsi;konjx' state='active' parent='14'>dan</segment></segment> <segment id='5' features='eror;ejaan;ejtb' state='active'>taman dan</segment> apartemen.
+Di kiri, kanan, dan belakang apartemen saya ada banyak rumah dan apartemen.
+Pada <segment id='6' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='pagi hari'>pagi,</segment> saya melihat murid-murid SMA dan karyawan perusahaan <segment id='10' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='berangkat ke sekolah'>berangkat sekolah</segment> dan kantor.
+Mereka berjalan <segment id='11' features='eror;ejaan;ejhrf' state='active' correction='dengan'>dengang</segment> teman sambil berbincang-bincang.    </body>
+</document>

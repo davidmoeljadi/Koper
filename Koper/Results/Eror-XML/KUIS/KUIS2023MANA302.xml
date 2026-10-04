@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023MANA302.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Letak geografis adalah letak suatu negara di permukaan <segment id='1' features='eror;ejaan;ejsp' state='active'>bumi.　Secara</segment> geografis, Indonesia terletak di antara dua benua: <segment id='8' features='eror;ejaan;ejk' state='active'>benua</segment> Asia dan Australia, serta dua <segment id='2' features='eror;leksikal;kata;ktinf' state='active' correction='samudra'>samudera</segment>, Samudra Pasifik dan Hindia.
+Keunggulan posisi geografis Indonesia sangat <segment id='3' features='eror;ejaan;ejtb' state='active' comment='hapus koma'>strategis, karena</segment> merupakan jalur transportasi perdagangan dunia dari Asia Timur ke negara lain. Indonesia juga <segment id='4' features='eror;leksikal;kata;vrbs' state='active' correction='menjadi'>melewati</segment> jalur perdagangan dari Asia ke Australia dan Selandia Baru. <segment id='5' features='eror;leksikal;kata;noms' state='active' correction='Hal'>Dan</segment> itu mempengaruhi Indonesia secara sosial, <segment id='9' features='eror;ejaan;ejtb' state='active'>ekonomi dan</segment> budaya. Interaksi sosial melalui perdagangan tersebut <segment id='6' features='eror;ejaan;ejsp' state='active'>kemudian  menjadi</segment> jalan bagi masuknya berbagai agama ke Indonesia, seperti Islam, Hindu, Buddha, <segment id='7' features='eror;ejaan;ejsp' state='active'>Kristen,  dan</segment> lain-lain.    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023AYUK102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya <segment id='1' features='eror;gramatikal;frasa-verba;vrbx' state='active'>tinngal</segment>  tinggal di Machida. Saya <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='tinggal'>tinngal</segment> dengan keluarga di rumah. Setiap hari saya bangun jam setengah sembilan dan sarapan jam sembilan. Saya tidak mandi pagi. Saya <segment id='3' features='eror;gramatikal;frasa-verba;vrbx' state='active'>pargi</segment> pergi ke kampus naik <segment id='5' features='eror;leksikal;kata;ktinf' state='active' correction='bus'>bis</segment> dari Shonandai dan kereta Odakyu. <segment id='6' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Saya pergi ke kampus jam setengah sepuluh dan tiba di kampus SFC sekitar jam sebelas.'>Saya <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='pergi' parent='6'>pargi</segment> ke kampus jam setengah sepuluh. Dari Shonandai ke kampus SFC kira-kira jam sebelas.</segment> Setiap hari, saya pulang ke rumah <segment id='8' features='eror;lainnya;lain' state='active'>jam tujuh belas</segment>. Saya <segment id='7' features='eror;ejaan;ejtb' state='active'>makan lalu</segment> tidur jam satu.    </body>
+</document>

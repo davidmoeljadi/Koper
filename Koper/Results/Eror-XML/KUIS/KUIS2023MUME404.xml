@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023MUME404.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejk' state='active' correction='Hal'>hal</segment>: <segment id='17' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>tentang</segment> absen kuliah hari ini
+
+<segment id='18' features='eror;leksikal;kata;noms' state='active' correction='Bapak/Ibu'>Dosen</segment> [NAMA]
+
+Selamat pagi.
+Nama saya [NAMA] [NAMA] yang <segment id='4' features='eror;leksikal;kata;vrbs' state='active' correction='mengikuti'>menjalani</segment> <segment id='5' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='kuliah bahasa Indonesia Anda'>kuliah Anda bahasa Indonesia</segment> jam kedua hari Senin.
+
+Semalam suhu badan saya <segment id='8' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='hingga'>naik 39°C</segment> dan <segment id='9' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='belum turun panasnya'>belum panasnya turun</segment>. 
+<segment id='11' features='eror;ejaan;ejtb' state='active' comment='Kekurangan tanda koma'><segment id='10' features='eror;leksikal;kata;konjs' state='active' comment='Konjungsi yang paling tepat untuk awal kalimat adalah &quot;oleh karena itu&quot;' correction='Oleh karena itu' parent='11'>Jadi</segment> saya</segment> <segment id='12' features='eror;leksikal;kata;vrbs' state='active' correction='minta izin'>mau</segment> absen kuliah hari ini karena saya akan pergi ke rumah sakit.
+
+Saya juga tidak bisa <segment id='13' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='mengikuti'>ikut</segment> ujian hari ini.
+Apakah saya bisa <segment id='14' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='mengikuti'>ikut</segment> ujian susulan?
+
+Salam hangat,
+
+[NAMA] [NAMA]    </body>
+</document>

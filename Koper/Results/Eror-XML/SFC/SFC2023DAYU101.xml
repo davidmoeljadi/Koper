@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DAYU101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Adik perempuanku namanya <segment id='1' features='eror;ejaan;ejsp' state='active'>[NAMA].Dia</segment> lahir pada <segment id='2' features='eror;gramatikal;frasa-verba;vrbx' state='active'>tinggal</segment> tanggal sembilan Mei dua ribu tujuh.Tahun ini umurnya lima <segment id='3' features='eror;ejaan;ejsp' state='active'>belas.Dia</segment> mau kado buku.     </body>
+</document>

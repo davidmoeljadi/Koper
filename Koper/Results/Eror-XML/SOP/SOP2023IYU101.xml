@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023IYU101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya pergi ke Seoul, Korea dari tanggal 7 September sampai 10 September. Dari Tokyo ke Seoul naik pesawat kira-kira 2 setengah jam. Saya pergi dengan ibu dan kakak <segment id='1' features='eror;gramatikal;frasa-nomina;pron0' state='active'>laki-laki</segment>. Di Seoul, kami naik kereta untuk jalan-jalan. Kami makan <segment id='3' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='banyak makanan'>makanan banyak</segment> <segment id='4' features='eror;gramatikal;konjungsi;konjx' state='active'>dan</segment> <segment id='8' features='eror;gramatikal;frasa-nomina;yg0' state='active'><segment id='2' features='eror;gramatikal;frasa-nomina;pronx' state='active' parent='8'>mereka</segment> sangat</segment> enak. Saya dan ibu pergi ke toko <segment id='5' features='eror;ejaan;ejk' state='active' correction='Nike'>NIKE</segment> dan <segment id='6' features='eror;leksikal;kata;vrbs' state='active' correction='membeli'>membuat</segment> baju <segment id='7' features='eror;gramatikal;frasa-preposisi;prepx' state='active' comment='hapus'>oleh</segment> sendirian. Saya membeli permen untuk <segment id='9' features='eror;leksikal;kata;noms' state='active' correction='oleh-oleh'>suvenir</segment> teman saya.     </body>
+</document>

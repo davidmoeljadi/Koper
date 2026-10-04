@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023NAYU102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Namanya Toshiaki Kasuga. <segment id='1' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari Saitama. Dia punya kakak laki-laki, <segment id='4' features='eror;ejaan;ejtb' state='active' correction='ayah, dan ibu.' parent='1'>ayah dan ibu</segment>. Dia tinggal di Tokyo.</segment> <segment id='5' features='eror;ejaan;ejhrf' state='active' correction='Hobinya'>Hobiya</segment> latihan otot. Dia suka keju.
+
+<segment id='2' features='eror;leksikal;kata;ktvar' state='active'>Dia <segment id='8' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='bangun jam setengah' parent='2'>bangun setengah</segment> delapan. Dia makan pagi dengan Wakabayashi.</segment> Mereka makan mi goreng. <segment id='3' features='eror;leksikal;kata;ktvar' state='active'>Dia pergi ke Shiodome. Dia <segment id='9' features='eror;ejaan;ejhrf' state='active' parent='3'>bekarja</segment> <segment id='6' features='eror;ejaan;ejsp' state='active' parent='3'>di 　stasiun</segment> televisi. Dia pulang dari <segment id='7' features='eror;ejaan;ejhrf' state='active' correction='stasiun' parent='3'>staciun</segment> televisi ke rumah jam dua belas malam. Dia tidur jam satu pagi.</segment>    </body>
+</document>

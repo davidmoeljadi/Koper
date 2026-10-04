@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023KUHA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat <segment id='1' features='eror;ejaan;ejtb' state='active'>siang <segment id='2' features='eror;ejaan;ejhrf' state='active' parent='1'>temang-temang</segment></segment>.
+Apa kabar?
+Kali ini, saya akan memperkenalkan keluarga saya.
+Keluarga saya terdiri atas ibu, kakak <segment id='3' features='eror;ejaan;ejtb' state='active'>perempuan dan</segment> nenek.
+Nama ibu saya &lt;NAMA&gt;. 
+Dia berasal dari <segment id='4' features='eror;ejaan;ejk' state='active'>CHIBA</segment>.
+Dia <segment id='5' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>bekerja karyawan</segment>. 
+Hobi dia menonton <segment id='6' features='eror;gramatikal;frasa-nomina;nomafx' state='active'>berolahraga</segment>.
+Dia suka <segment id='7' features='eror;leksikal;kata;ktas' state='active'>baseball</segment>.
+Dia menonton <segment id='9' features='eror;gramatikal;frasa-nomina;nom0' state='active'>banyak <segment id='8' features='eror;leksikal;kata;ktas' state='active' parent='9'>baseball</segment></segment> di TV.
+Dia mendukung <segment id='10' features='eror;ejaan;ejk' state='active'>LOS ANGELES ANGELS</segment>.
+Ibu saya selalu <segment id='11' features='eror;ejaan;ejhrf' state='active'>menyeangkan</segment>.
+Dia setiap hari ｍinum kopi.
+Nama kakak perempuan saya &lt;NAMA&gt;.
+Dia berasal dari <segment id='12' features='eror;ejaan;ejk' state='active'>CHIBA</segment>.
+Dia ibu rumah tangga.
+Hobi dia membuat kue.
+Dia pandai membuat <segment id='13' features='eror;leksikal;kata;ktas' state='active'>cookie</segment>.
+Nama nenek saya &lt;NAMA&gt;.
+Dia berasal <segment id='14' features='eror;ejaan;ejhrf' state='active'>diri</segment> <segment id='15' features='eror;ejaan;ejk' state='active'>AKITA</segment>.
+Dia suka berkebun.
+Dia menanam banyak bunga di rumah.    </body>
+</document>

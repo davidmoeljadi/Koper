@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023MASO103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya bangun <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='tepat'>tempat</segment> jam 8 setiap <segment id='4' features='eror;ejaan;ejtb' state='active'>pagi lalu</segment> makan pagi. Saya minum dua cangkir kopi <segment id='2' features='eror;leksikal;kata;preps' state='active' correction='saat'>dengan</segment> sarapan. Saya pergi ke kampus naik kereta. Dari rumah ke kampus kira-kira 1 jam. Saya belajar seminggu 4 kali dari jam 11 kurang 10 menit sampai jam <segment id='6' features='eror;lainnya;lain' state='active'>17</segment> lewat 10 menit. Saya kerja paruh waktu di <segment id='3' features='eror;leksikal;kata;ktas' state='active' correction='restoran'>restaurant</segment> kira-kira 6 jam seminggu 3 kali. Saya tidur jam <segment id='5' features='eror;lainnya;lain' state='active'>24</segment>.    </body>
+</document>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023INYU304.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Yth. Bapak [NAMA] [NAMA] 
+Dengan hormat, 
+<segment id='2' features='eror;gramatikal;kalimat;kalbel' state='active' comment='Kedua kalimat  tersebut sebaiknya dijadikan satu kalimat karena masih dalam topik yang sa,a.' correction='Melalui pos-el ini, saya [NAMA] [NAMA] ingin memberitahukan bahwa hari ini tidak dapat mengikuti perkuliahan dan ujian bahasa Indonesia karena saya demam dan menggigil.'>Melalui pos-el ini, saya [NAMA] [NAMA], dan saya <segment id='5' features='eror;ejaan;ejsp' state='active' parent='2'>memberitahukan  bahwa</segment> saya absen kuliah bahasa Indonesia hari ini dan mengikuti ujian. Karena saya merasa demam dan menggigil kemarin.</segment> Saya pergi ke rumah sakit pagi hari, dan saya baru tahu bahwa saya terkena influenza. <segment id='3' features='eror;ejaan;ejhrf' state='active' comment='Kesalahan terletak pada huruf &quot;D&quot; yang seharusnya menggunakan huruf &quot;J&quot;.' correction='Jadi'>Dadi</segment>, saya tidak akan bisa pergi ke universitas selama seminggu. Bisakah saya mengikuti ujian minggu depan<segment id='4' features='eror;ejaan;ejtb' state='active' comment='Gunakan tanda tanya satu kali karena bentuk surat ini adalah surat formal.' correction='?'>??</segment>
+Hormat saya,
+[NAMA] [NAMA] ([NOMOR])
+[POS-EL]    </body>
+</document>

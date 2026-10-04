@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KASA101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nana saya <segment id='1' features='eror;ejaan;ejsp' state='active'>[NAMA].Saya</segment> tinggal di Tokyo. Saya dari Tokyo. Saya punya kakak perempuan. Dia tinggal di Aichi dengan orang tua kami. <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='Nama'>Nana</segment> ayah saya <segment id='3' features='eror;ejaan;ejsp' state='active'><segment id='4' features='eror;ejaan;ejtb' state='active' comment='Tidak perlu koma.' parent='3'>[NAMA],dan</segment></segment> nama ibu saya <segment id='5' features='eror;ejaan;ejsp' state='active'>[NAMA].Ayah</segment> saya karyawan.
+Ibu saya ibu rumah <segment id='6' features='eror;ejaan;ejsp' state='active'>tangga.Nama</segment> kakak perempuan saya <segment id='8' features='eror;ejaan;ejsp' state='active'>[NAMA].Dia</segment> mahasiswa <segment id='9' features='eror;ejaan;ejsp' state='active'><segment id='11' features='eror;gramatikal;frasa-nomina;nomx' state='active' parent='9'>Universitas</segment>.Saya</segment> juga punya kakek dan nenek. Mereka tinggal di <segment id='7' features='eror;ejaan;ejsp' state='active'>Wakayama.Kakek</segment> saya orang Jepang dan nenek saya orang Jepang.    </body>
+</document>

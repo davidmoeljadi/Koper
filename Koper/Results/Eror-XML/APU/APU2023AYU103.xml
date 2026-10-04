@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023AYU103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Film Favorit Saya
+
+Film favorit <segment id='1' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='film'>saya Ghibli</segment>.
+Ghibli <segment id='2' features='eror;leksikal;kata;vrbs' state='active' correction='memproduksi'>ada</segment> banyak film. <segment id='3' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='Film'>Favorit</segment> nomor satu saya &quot;Kiki&apos;s Delivery <segment id='4' features='eror;ejaan;ejhrf' state='active'>Servise</segment>&quot;.
+Film ini sangat bagus. <segment id='5' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='di'>Kucing film</segment> ini lucu.    </body>
+</document>

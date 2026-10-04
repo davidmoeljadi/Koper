@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023FOOO103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Makanan favorit saya soba.
+Soba makanan dari Jepang.
+Nama restoran soba favorit saya Burgo Chaya di <segment id='1' features='eror;ejaan;ejhrf' state='active'><segment id='2' features='eror;ejaan;ejk' state='active' parent='1'>stacion</segment></segment> Beppu.
+Makanan di restoran Jepang agak <segment id='3' features='eror;ejaan;ejtb' state='active'>mahal tapi</segment> sedikit enak.
+Makanan soba sedikit enak.
+Harga soba <segment id='4' features='eror;ejaan;ejhrf' state='active'>favorta</segment> saya 890 yen.
+<segment id='5' features='eror;ejaan;ejsp' state='active'>Teri makasih</segment>!    </body>
+</document>

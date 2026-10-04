@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023MIKI102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Namanya Reol. Dia adalah seorang penyanyi. Saya mendengarkan musiknya di Youtube dan Spotify. Dia <segment id='5' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='menyanyikan'>menyanyi</segment> banyak lagu. Saya paling suka Jyuttyuuhakku dari semua lagunya. Dia berbadan pendek. Dia berasal dari Nagano dan tinggal di Tokyo. Dia lahir tanggal 9 November 1993. Dia tidak punya saudara kandung. Dia suka sekali Meitantei Konan dan paling suka Ai Haibara. Dia juga suka Tokyo <segment id='1' features='eror;ejaan;ejtb' state='active' correction='Jihen dan saya'>Jihen, dan</segment> saya juga suka. Dia kadang-kadang <segment id='4' features='eror;ejaan;ejsp' state='active' correction='berfoto. Banyak'>berfoto.  <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Banyak' parent='4'>Benyak</segment></segment> foto di <segment id='2' features='eror;ejaan;ejsp' state='active' correction='Instagramnya yang'>Instagramnya  yang</segment> sangat indah.    </body>
+</document>

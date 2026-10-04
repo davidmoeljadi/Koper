@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023AYAK101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Saya dari Tokyo. Saya tinggal di Shinagawa dengan orang tua. Saya anak tunggal. Nama ayah saya <segment id='1' features='eror;ejaan;ejtb' state='active'>[NAMA], dan</segment> nama ibu saya [NAMA]. <segment id='2' features='eror;gramatikal;kalimat;kalpen' state='active'>Ayah saya pegawai. Ibu saya pegawai.</segment> Saya juga punya kakek dan nenek. Mereka tinggal di Hachioji.    </body>
+</document>

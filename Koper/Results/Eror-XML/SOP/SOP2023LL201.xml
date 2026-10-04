@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023LL201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Berjalan-jalan ke <segment id='19' features='eror;leksikal;kata;ktas' state='active' correction='Tailan'>Thailand</segment>
+
+Saya pergi ke <segment id='20' features='eror;leksikal;kata;ktas' state='active' correction='Tailan'>Thailand</segment> dengan kawan-kawan.
+Di tempat itu saya pergi ke banyak <segment id='8' features='eror;ejaan;ejtb' state='active'>kuil, Wat</segment> Pho, Wat Phra <segment id='1' features='eror;ejaan;ejtb' state='active' correction='Kaew, dan'>Kaew dan</segment> Wat Arun. <segment id='9' features='eror;leksikal;kata;prons' state='active' correction='kami'>Kita</segment> <segment id='10' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='patung'>melihat <segment id='2' features='eror;ejaan;ejk' state='active' correction='Buddha' parent='10'>buddha</segment></segment> besar <segment id='11' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='patung'>dan <segment id='4' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='Buddha berbaring.'>berbaring</segment> <segment id='7' features='eror;ejaan;ejk' state='active' correction='Buddha' parent='4'>buddha</segment></segment>. <segment id='12' features='eror;gramatikal;frasa-nomina;nom0' state='active'>Itu</segment> sangat <segment id='13' features='eror;leksikal;kata;adjs' state='active'>intens</segment> dan menyenangkan. Setelah itu, <segment id='14' features='eror;leksikal;kata;prons' state='active'>kita</segment> naik gajah menyeberangi sungai. <segment id='3' features='eror;ejaan;ejk' state='active' correction='Gajah'>gajah</segment> <segment id='15' features='eror;gramatikal;frasa-nomina;nyaitu' state='active'>itu</segment> sangat <segment id='16' features='eror;leksikal;kata;adjs' state='active'>comel</segment>. Hal terbaik tentang <segment id='21' features='eror;leksikal;kata;ktas' state='active' correction='Tailan'>Thailand</segment> adalah makanannya. Makanan <segment id='5' features='eror;gramatikal;frasa-nomina;pron0' state='active'>favorit adalah</segment> pad thai. Itu sangat <segment id='17' features='eror;ejaan;ejtb' state='active'>pedas <segment id='18' features='eror;leksikal;kata;ktinf' state='active' parent='17'>tapi</segment></segment> enak sekali. <segment id='6' features='eror;gramatikal;frasa-adverbia;advx' state='active'>Lainnya,</segment>     </body>
+</document>

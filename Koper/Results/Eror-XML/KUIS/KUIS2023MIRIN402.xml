@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023MIRIN402.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Letak Geografis Indonesia
+
+Letak geografis adalah letak suatu negara di permukaan bumi. Secara geografis, Indonesia terletak <segment id='1' features='eror;leksikal;ungkapan;ukpa' state='active' comment='Maksud kalimat ini mungkin adalah bahwa &apos;Indonesia terletak di antara benua Asia dan Australia, serta diapit oleh dua samudra.&apos;' correction='di antara dua benua dan dua samudra'>di sebelah utara Indonesia dan <segment id='4' features='eror;ejaan;ejk' state='active' parent='1'>Benua</segment> dan dua samudra</segment>. Wilayah Indonesia juga berbatasan dengan sejumlah <segment id='2' features='eror;leksikal;kata;noms' state='active' correction='negara'>wilayah</segment>. Letak geografis Indonesia sangat strategis karena menjadi jalur lalu lintas perdagangan dunia antara negara-negara dari Asia Timur dengan negara-negara di Eropa, Afrika, Timur Tengah, dan India. Bangsa Indonesia telah lama menjalin interaksi sosial dengan bangsa lain karena menjadi jalur lalu lintas pelayaran. <segment id='6' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='Salah satu manfaat letak geografis yang kaya akan sumber daya alam bagi Indonesia'>Salah satu manfaat letak geografis yang kaya akan sumber daya <segment id='3' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='adalah' parent='6'>alam <segment id='5' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='bisa menjual' parent='3'>menjual</segment></segment> berbagai komoditas atau hasil bumi bagi Indonesia.</segment>    </body>
+</document>

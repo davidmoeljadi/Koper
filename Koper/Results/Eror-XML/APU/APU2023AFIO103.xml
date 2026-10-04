@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023AFIO103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;leksikal;kata;noms' state='active' correction='Tokoh'>Orang</segment> Favorit Aku
+
+<segment id='2' features='eror;leksikal;kata;noms' state='active' correction='Tokoh'>Orang</segment> favorit <segment id='3' features='eror;leksikal;kata;prons' state='active' correction='aku'>saya</segment> Ryleigh. Tahun lalu aku bertemu dia di YouMe Town.
+Dia <segment id='4' features='eror;ejaan;ejtb' state='active'>pendek tapi</segment> imut dan cantik. Dia tidak terlalu <segment id='5' features='eror;ejaan;ejtb' state='active'>ramah tapi</segment> aku suka dia. 
+Dia <segment id='6' features='eror;gramatikal;frasa-adjektiva;urtfaj' state='active' correction='jago sekali memasak'>jago memasak sekali</segment>. <segment id='7' features='eror;gramatikal;frasa-nomina;nomafx' state='active' correction='Masakan'>Memasak</segment> dia sangat <segment id='8' features='eror;ejaan;ejsp' state='active'>enak.Dia</segment> agak <segment id='9' features='eror;ejaan;ejtb' state='active'>berantakan tapi</segment> tidak apa-apa. Aku cinta dia.    </body>
+</document>

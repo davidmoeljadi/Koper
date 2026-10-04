@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BEKI206.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya suka <segment id='1' features='eror;ejaan;ejk' state='active'>kota</segment> Kyoto.
+Di Kyoto kita bisa <segment id='2' features='eror;ejaan;ejsp' state='active'>merasakan  perubahan</segment> <segment id='3' features='eror;gramatikal;frasa-verba;vrbx' state='active'>terasa</segment> musim dengan mudah. <segment id='4' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='Pada'>Musim</segment> semi, bunga sakura indah. Musim panas panas. <segment id='5' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='Pada'>Musim</segment> <segment id='6' features='eror;ejaan;ejtb' state='active'>gugur kita</segment> bisa menikmati daun merah. Pohon-pohon kering yang bisa dilihat di musim dingin memiliki pesona tersendiri.    </body>
+</document>

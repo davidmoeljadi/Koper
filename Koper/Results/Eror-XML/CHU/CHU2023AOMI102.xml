@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023AOMI102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan ayah ada tempat <segment id='1' features='eror;ejaan;ejhrf' state='active'>tldur</segment>. Tempat <segment id='2' features='eror;ejaan;ejhrf' state='active'>tldur</segment> di dekat jendela. Di ruangan ayah ada meja dan <segment id='3' features='eror;ejaan;ejhrf' state='active'>kursl</segment>. <segment id='4' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='Buku dan komputer ada di atas meja.'>Meja ada di atas  
+buku dan komputer.</segment> Kamus ada di dalam rak buku.    </body>
+</document>

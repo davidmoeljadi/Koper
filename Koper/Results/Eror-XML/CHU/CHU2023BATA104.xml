@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023BATA104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Namanya  [NAMA] [NAMA]. <segment id='1' features='eror;leksikal;kata;ktvar' state='active'>Dia  bangun jam 7 pagi.  Dia makan <segment id='5' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='dengan' parent='1'>pagi <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='susyi' parent='5'>susi</segment></segment> dan <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='piza' parent='1'>pizza</segment>. Dia membaca koran. Dia pergi ke kantor naik kereta. Dia bekerja di kantor 8 jam. Jam 6 sore dia pulang ke rumah. Dia makan malam. Dia  <segment id='6' features='eror;gramatikal;frasa-verba;vrbx' state='active' parent='1'>adalah</segment> suka belajar bahasa <segment id='7' features='eror;ejaan;ejk' state='active' parent='1'>indonesia</segment>. Dia <segment id='8' features='eror;ejaan;ejhrf' state='active' correction='belajar' parent='1'>beajar</segment> bahasa <segment id='10' features='eror;ejaan;ejk' state='active' parent='1'>indonesia</segment> 2 jam. Dia tidur jam 10 <segment id='2' features='eror;leksikal;kata;noms' state='active' parent='1'>sore</segment>.</segment>    </body>
+</document>

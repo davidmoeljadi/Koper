@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023MYO101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya pergi ke Okinawa dengan teman pada liburan musim <segment id='1' features='eror;ejaan;ejsp' state='active' correction='panas. Kami'>panas.<segment id='3' features='eror;leksikal;kata;ktvar' state='active'>Kami</segment> naik pesawat <segment id='2' features='eror;ejaan;ejtb' state='active' correction='dari Tokyo' parent='3'>dari. Tokyo</segment> ke Okinawa dua <segment id='4' features='eror;ejaan;ejsp' state='active' correction='jam. Kami' parent='3'>jam.Kami</segment> pergi tiga <segment id='5' features='eror;ejaan;ejsp' state='active' correction='hari. Kami' parent='3'>hari.Kami</segment> tiba di bandara Naha jam sepuluh.</segment>
+　Saya melihat <segment id='6' features='eror;gramatikal;frasa-nomina;yg0' state='active' correction='laut yang indah'>laut <segment id='7' features='eror;ejaan;ejsp' state='active' correction='indah. Kami'>indah</segment>.Kami</segment> bisa berenang di <segment id='9' features='eror;ejaan;ejsp' state='active' correction='sana. Kami'>sana.Kami</segment> <segment id='8' features='eror;gramatikal;frasa-nomina;nomx' state='active'>hari</segment> pergi ke Kastil Shuri. Kastil itu indah.
+　Lalu, <segment id='12' features='eror;gramatikal;kalimat;kalsub' state='active' correction='kami pergi ke Jalan Kokusai'>pergi ke Jalan Kokusai</segment>. Di sana, kami makan soba okinawa, <segment id='13' features='eror;ejaan;ejsp' state='active' correction='es krim, hamburger'>es krim,  <segment id='14' features='eror;ejaan;ejtb' state='active' correction='hamburger, dan'><segment id='10' features='eror;ejaan;ejhrf' state='active' parent='14'>humbeger</segment></segment> dan</segment> onigiri babi telur. <segment id='15' features='eror;ejaan;ejhrf' state='active' correction='Bagi'>Bali</segment> <segment id='11' features='eror;ejaan;ejtb' state='active'>saya soba</segment> okinawa paling enak. Saya membeli banyak oleh-oleh di sana.
+　Sore <segment id='16' features='eror;gramatikal;frasa-nomina;nya0' state='active'>hari</segment> kami pulang ke Tokyo jam tujuh. Liburan kami menyenangkan sekali. Saya mau pergi jalan-jalan lagi.    </body>
+</document>

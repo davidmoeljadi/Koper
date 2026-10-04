@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KIMI105.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya sarapan <segment id='1' features='eror;leksikal;kata;konjs' state='active' correction='setelah'>ketika</segment> saya bangun <segment id='2' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='jam setengah 6 di pagi hari'>di pagi hari jam setengah <segment id='3' features='eror;ejaan;ejtb' state='active'>6</segment>
+<segment id='6' features='eror;leksikal;kata;ktvar' state='active'><segment id='10' features='eror;gramatikal;kalimat;kalpen' state='active' parent='6'><segment id='9' features='eror;ejaan;ejtb' state='active' parent='10'>Lalu</segment> saya</segment> jalan-jalan jam <segment id='4' features='eror;ejaan;ejtb' state='active' parent='10'>7
+Lalu</segment> mandi jam setengah <segment id='5' features='eror;ejaan;ejtb' state='active'><segment id='11' features='eror;lainnya;lain' state='active' correction='8' parent='5'>7</segment></segment></segment>
+Saya</segment> pergi ke kampus <segment id='7' features='eror;ejaan;ejhrf' state='active'>paba</segment> <segment id='8' features='eror;ejaan;ejhrf' state='active'>pukal</segment> delapan.    </body>
+</document>

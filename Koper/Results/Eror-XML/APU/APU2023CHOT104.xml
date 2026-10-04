@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023CHOT104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Saya berasal dari Jepang.
+Saya mahasiswa APU <segment id='8' features='eror;ejaan;ejk' state='active' correction='Fakultas'>fakultas</segment> APS. Saya mahasiswa tahun kedua.
+Nama universitas saya Ritsumeikan Asia <segment id='7' features='eror;leksikal;kata;noms' state='active' correction='Pacific'>Ritsumeikan</segment> University (APU). Sekarang saya
+tinggal di Shiomicho. Umur saya 20 tahun.
+Hobi saya <segment id='10' features='eror;gramatikal;frasa-verba;vrbx' state='active'>main</segment> <segment id='11' features='eror;leksikal;kata;ktinf' state='active' correction='berolahraga'>olahraga</segment> dan <segment id='12' features='eror;leksikal;kata;ktinf' state='active' correction='bermain'>main</segment> <segment id='1' features='eror;leksikal;kata;ktas' state='active' correction='gim'>game.</segment>
+<segment id='13' features='eror;gramatikal;kalimat;kalpen' state='active'>Keluarga saya ada 5 orang.
+Ayah, ibu, kakak <segment id='9' features='eror;ejaan;ejhrf' state='active' correction='perempuan' parent='13'>parempuan,</segment> kakak <segment id='2' features='eror;ejaan;ejtb' state='active' correction='kakak laki-laki, dan saya.' parent='13'>laki-laki dan</segment> saya.</segment>
+Saya 3 <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='bersaudara.'>berasaudara.</segment> Ayah dan ibu saya tinggal di Saitama.
+
+Kakak perempuan saya <segment id='6' features='eror;ejaan;ejhrf' state='active' correction='bekerja'>bekarja</segment> <segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='di toko/perusahaan'>di pembuat</segment> sepatu.
+Kakak laki-laki saya bekerja <segment id='5' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='bidang/sektor'>di bisnis.</segment>
+Saya tidak punya adik.
+Ayah saya insinyur.
+Ibu saya bekerja di rumah sakit.
+Ayah suka membaca buku.
+Ibu suka memasak.    </body>
+</document>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023AOMI105.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;leksikal;kata;ktvar' state='active'>Saya bangun jam 7. Saya tidur jam 2.
+Saya tidur 5 jam setiap hari. 
+Saya sarapan setiap pagi. <segment id='2' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='Sarapannya' parent='1'><segment id='3' features='eror;gramatikal;frasa-nomina;nyaitu' state='active' correction='Sarapannya' parent='2'>itu</segment></segment> enak. 
+<segment id='4' features='eror;gramatikal;kalimat;kalpen' state='active' parent='1'>Saya pergi ke kampus. Saya belajar.</segment></segment>    </body>
+</document>

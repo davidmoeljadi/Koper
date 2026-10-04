@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BAYU302.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Kubah <segment id='1' features='eror;ejaan;ejk' state='active' comment='Bagian dari nama diri' correction='Bom Atom'>bom atom</segment> di <segment id='12' features='eror;ejaan;ejk' state='active'>kota</segment> Hiroshima adalah tempat bersejarah <segment id='11' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='terkenal di Jepang'>terkenal Jepang</segment>. <segment id='2' features='eror;leksikal;kata;ktvar' state='active'>Bangunan <segment id='7' features='eror;ejaan;ejsp' state='active' parent='2'>ini  terletak</segment> di area pusat jatuhnya bom atom. Bangunan ini berfungsi sebagai Aula Promosi Industri <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Hiroshima' parent='2'>Hirosima</segment> sejak tahun 1915 sebelum peristiwa jatuhnya bom atom.
+Bangunan ini terkena bom atom Amerika pada tanggal 6 Agustus 1945.</segment> Paling sedikit <segment id='4' features='eror;ejaan;ejtb' state='active' correction='140.000'>140,000</segment> orang <segment id='5' features='eror;leksikal;kata;vrbs' state='active' correction='tewas'>mati</segment>. Kemudian, pada tahun 1966, Kubah Bom Atom didaftarkan <segment id='9' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='sebagai Situs Warisan'>sebagai Warisan</segment> Dunia UNESCO.    </body>
+</document>

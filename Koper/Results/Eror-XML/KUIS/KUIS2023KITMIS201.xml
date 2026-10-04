@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023KITMIS201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hai Tuti
+
+Aku juga <segment id='1' features='eror;gramatikal;frasa-verba;urtfv' state='active'>ingin bertemu dengan kamu sekali</segment>.
+Aku juga sangat sedih karena kita tidak bisa bertemu selama 2 minggu.
+Lalu, <segment id='10' features='eror;gramatikal;frasa-verba;vrbaux0' state='active'>aku <segment id='2' features='eror;leksikal;kata;ktinf' state='active' parent='10'>jawab</segment></segment> tentang <segment id='3' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>masalah dari kamu</segment>.
+Aku <segment id='4' features='eror;gramatikal;frasa-verba;urtfv' state='active'>mau menikah dengan kamu sekali</segment>, <segment id='5' features='eror;leksikal;ungkapan;ukpa' state='active'>jadi <segment id='14' features='eror;leksikal;kata;negs' state='active' parent='5'>tidak</segment> menikah dengan anak teman<segment id='15' features='eror;leksikal;kata;noms' state='active' parent='5'>nya</segment>.</segment>
+<segment id='7' features='eror;gramatikal;konjungsi;konjx' state='active'>Karena</segment> <segment id='16' features='eror;leksikal;kata;ktinf' state='active'>saya</segment> <segment id='6' features='eror;gramatikal;frasa-verba;urtfv' state='active'>suka kamu sekali</segment> dan aku mau hidup bersama.
+Apakah kamu tahu tentang anak teman<segment id='17' features='eror;leksikal;kata;noms' state='active'>nya</segment>?
+<segment id='8' features='eror;leksikal;ungkapan;ukpa' state='active'>Kita mengenal banyak tentang saling.</segment> 
+Aku <segment id='9' features='eror;leksikal;kata;negs' state='active'>belum tidak</segment> tahu kapan kita bisa menikah, tetapi pasti <segment id='18' features='eror;gramatikal;frasa-verba;vrbaux0' state='active'>kita menikah</segment>.
+Aku akan berbincang dengan ibumu, jadi tidak apa-apa.
+Kita bertemu <segment id='12' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>dengan <segment id='13' features='eror;gramatikal;frasa-adverbia;advafx' state='active' parent='12'>secepat</segment></segment>.
+
+Salam sayang,
+Rano    </body>
+</document>

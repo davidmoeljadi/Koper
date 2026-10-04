@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023NAYU109.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Apakah Anda tahu gamelan?
+Gamelan <segment id='15' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='adalah alat musik'>adalah musik</segment> tradisional <segment id='5' features='eror;leksikal;kata;preps' state='active' correction='dari'>di</segment> Indonesia.
+Gamelan dimainkan dengan menggunakan alat musik perkusi dari logam, <segment id='3' features='eror;ejaan;ejtb' state='active' correction='kayu, atau'>kayu atau</segment> bambu.
+Saya ingin memperkenalkan dua jenis gamelan.
+Yang pertama adalah gamelan <segment id='10' features='eror;ejaan;ejk' state='active'>Jawa</segment>.
+Gamelan <segment id='12' features='eror;ejaan;ejk' state='active'>Jawa</segment> adalah musik istana. Gamelan <segment id='13' features='eror;ejaan;ejk' state='active'>Jawa</segment> sangat elegan dan <segment id='2' features='eror;leksikal;kata;adjs' state='active'>canggih</segment>.
+Drum <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='kendang'>kundan</segment> <segment id='1' features='eror;gramatikal;frasa-adverbia;advx' state='active'>juga</segment> <segment id='18' features='eror;leksikal;kata;vrbs' state='active' correction='berfungsi'>bertindak</segment> sebagai <segment id='19' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='konduktor musik'>konduktor</segment>.
+Yang kedua adalah gamelan <segment id='16' features='eror;ejaan;ejk' state='active'>Bali</segment>.
+Gamelan <segment id='17' features='eror;ejaan;ejk' state='active'>Bali</segment> <segment id='14' features='eror;leksikal;kata;vrbs' state='active' correction='merupakan'>adalah</segment> musik yang intens.
+Gamelan <segment id='20' features='eror;ejaan;ejk' state='active'>Bali</segment> dimainkan oleh masyarakat.
+Gamelan <segment id='21' features='eror;ejaan;ejk' state='active'>Bali</segment> diperkenalkan <segment id='6' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='ke masyarakat Bali'>ke Bali</segment> <segment id='7' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>pada</segment> oleh para bangsawan dari <segment id='8' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='Jawa pada abad'>Jawa abad</segment> ke-15.
+Gamelan dimainkan sebagai persembahan kepada para dewa <segment id='9' features='eror;leksikal;kata;noms' state='active' correction='saat'>waktu</segment> festival.
+Gamelan <segment id='22' features='eror;ejaan;ejk' state='active'>Jawa</segment> memang sederhana, <segment id='11' features='eror;leksikal;kata;konjs' state='active' correction='sedangkan'>tetapi</segment> gamelan <segment id='23' features='eror;ejaan;ejk' state='active'>Bali</segment> sangat indah.
+Gamelan sangat menenangkan. Silakan dengarkan!    </body>
+</document>

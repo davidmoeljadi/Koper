@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DAEN103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='2' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya tinggal di Yokohama. <segment id='1' features='eror;ejaan;ejk' state='active' parent='2'>saya</segment> tinggal <segment id='3' features='eror;ejaan;ejsp' state='active'>sendirian.</segment>  <segment id='4' features='eror;ejaan;ejk' state='active' parent='3'>orang</segment></segment> tua<segment id='5' features='eror;leksikal;kata;prons' state='active' correction='saya'>ku</segment> <segment id='6' features='eror;ejaan;ejhrf' state='active'>tinggl</segment> di Hokkaido.
+<segment id='9' features='eror;gramatikal;kalimat;kalpen' state='active'>Nama ayah<segment id='7' features='eror;leksikal;kata;prons' state='active' correction='saya' parent='9'>ku</segment> [NAMA]. Dan ibu<segment id='8' features='eror;leksikal;kata;prons' state='active' correction='saya' parent='9'>ku</segment> [NAMA].</segment>
+
+<segment id='10' features='eror;ejaan;ejk' state='active'>saya</segment> punya kakak perempuan. Dia tinggal di Tokyo. <segment id='11' features='eror;ejaan;ejk' state='active'>namanya</segment> [NAMA]. 
+Saya punya 5 kucing <segment id='12' features='eror;ejaan;ejhrf' state='active'>do</segment> <segment id='13' features='eror;ejaan;ejtb' state='active'>rumah</segment>    </body>
+</document>

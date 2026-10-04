@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DAKA103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hobi [NAMA] adalah menari. Dia paling suka K-pop. Dia berlatih dua kali sebulan. Kami berlatih dari jam 3 sore sampai jam 5 sore dan telah melakukannya selama sekitar lima tahun. <segment id='2' features='eror;leksikal;kata;prons' state='active' correction='Dia'>Saya</segment> suka memakai kostum yang lucu. Hobi [NAMA] yang lain adalah mendengarkan musik. Dia <segment id='3' features='eror;leksikal;kata;advs' state='active' correction='biasanya'>terutama</segment> mendengarkan hip-hop. Saya sering mendengarkannya di malam hari sebelum tidur. [NAMA] punya artis <segment id='4' features='eror;ejaan;ejtb' state='active'>favorit: dia</segment> suka <segment id='1' features='eror;ejaan;ejk' state='active' correction='Awich'>AWICH</segment>.    </body>
+</document>

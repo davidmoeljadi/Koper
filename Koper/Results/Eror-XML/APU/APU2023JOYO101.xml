@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023JOYO101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama dia [NAMA] [NAMA].
+<segment id='1' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari Jepang. 
+Dia lahir dan besar di Osaka. 
+Dia tinggal di Kyomachi.
+Dia mahasiswa <segment id='5' features='eror;ejaan;ejk' state='active' parent='1'>fakultas</segment> <segment id='6' features='eror;ejaan;ejtb' state='active' parent='1'>APM, <segment id='7' features='eror;ejaan;ejk' state='active' parent='1'>jurusan</segment> <segment id='8' features='eror;leksikal;kata;ktas' state='active' parent='7'>marketing</segment></segment>.
+Dia bekerja sampingan di bar.</segment> 
+Hobi dia <segment id='2' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>mendengar</segment> musik. 
+Dia ikut <segment id='3' features='eror;ejaan;ejk' state='active'>klub</segment> SSS, <segment id='4' features='eror;ejaan;ejk' state='active'>live musik</segment>, TSS.
+Kami belajar bahasa Indonesia.    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023DADA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di <segment id='1' features='eror;ejaan;ejhrf' state='active'>ruanngan</segment> saya ada meja, <segment id='2' features='eror;gramatikal;konjungsi;konj0' state='active'>kursi, <segment id='3' features='eror;ejaan;ejsp' state='active'>TV</segment>.<segment id='8' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='3'>Di</segment></segment> <segment id='9' features='eror;gramatikal;frasa-nomina;nomx' state='active'>atas</segment> meja ada di antara TV dan <segment id='4' features='eror;ejaan;ejsp' state='active'>pintu.<segment id='5' features='eror;leksikal;kata;ktas' state='active' parent='4'>Pencil</segment></segment> dan bolpoin ada di dalam laci <segment id='6' features='eror;ejaan;ejsp' state='active'>meja.Kursi</segment> ada di dekat <segment id='7' features='eror;ejaan;ejhrf' state='active'>jendara</segment>.    </body>
+</document>

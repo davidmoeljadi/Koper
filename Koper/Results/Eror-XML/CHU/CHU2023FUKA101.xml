@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023FUKA101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya punya adik <segment id='2' features='eror;ejaan;ejtb' state='active'>laki-laki <segment id='1' features='eror;gramatikal;konjungsi;konjx' state='active' parent='2'>dan</segment> ayah dan</segment> ibu.
+Nama adik laki-laki saya [NAMA],<segment id='3' features='eror;gramatikal;konjungsi;konjx' state='active'>dan</segment> <segment id='4' features='eror;ejaan;ejk' state='active'>Nama</segment> ayah saya <segment id='5' features='eror;ejaan;ejsp' state='active'>[NAMA],dan</segment> nama <segment id='6' features='eror;gramatikal;frasa-nomina;pron0' state='active'>ibu [NAMA]</segment>.
+Mereka tinggal di Jepang.
+Adik laki-laki saya murid SMA.
+Ayah saya karyawan.
+Ibu <segment id='7' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='ibu'>saya rumah</segment> tangga.    </body>
+</document>

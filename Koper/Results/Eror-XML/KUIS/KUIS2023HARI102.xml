@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023HARI102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Kali ini saya akan memperkenalkan keluarga saya.
+<segment id='1' features='eror;ejaan;ejhrf' state='active'>Kuluarga</segment> saya terdiri atas <segment id='2' features='eror;ejaan;ejtb' state='active'>ayah <segment id='3' features='eror;ejaan;ejsp' state='active'><segment id='14' features='eror;ejaan;ejtb' state='active' parent='3'>ibu</segment>  dan</segment></segment> adik laki-laki. Nama ayah saya &lt;NAMA&gt;. Dia <segment id='15' features='eror;ejaan;ejhrf' state='active'>berasa</segment> dari <segment id='4' features='eror;ejaan;ejsp' state='active'>Chiba.Ayah</segment> saya <segment id='5' features='eror;ejaan;ejhrf' state='active'>bekeria</segment> di Tokyo.
+Dia sering berlari. Ayah saya menyenangkan.
+
+Nama ibu saya <segment id='6' features='eror;ejaan;ejsp' state='active'>&lt;NAMA&gt;.Dia</segment> <segment id='13' features='eror;ejaan;ejhrf' state='active'>berasa</segment> dari Chiba.
+Ibu saya <segment id='7' features='eror;ejaan;ejhrf' state='active'>bekeria</segment> di Chiba.
+Dia melakukan pekerjaan <segment id='8' features='eror;ejaan;ejsp' state='active'>kantor.Ibu</segment> saya selalu <segment id='9' features='eror;ejaan;ejsp' state='active'>ceria.Hobi</segment> dia menonton film.
+Nama kakak laki-laki saya &lt;NAMA&gt;.
+Dia adalah siswa sekolah. <segment id='10' features='eror;gramatikal;kalimat;kalsub' state='active'>Bermain sepakbola.</segment>
+Dia adalah siswa baru di sekolah <segment id='11' features='eror;ejaan;ejhrf' state='active'>menenhah</segment>.
+Keluarga saya ada <segment id='12' features='eror;ejaan;ejtb' state='active'>ayah <segment id='16' features='eror;ejaan;ejtb' state='active'>ibu</segment> dan</segment> adik laki-laki.    </body>
+</document>

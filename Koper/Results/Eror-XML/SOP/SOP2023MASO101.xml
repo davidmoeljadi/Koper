@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023MASO101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya pergi ke Montana, Amerika dari tanggal 1 Agustus sampai tanggal 26 September. Saya bekerja di hotel di Taman <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='Nasional'>Naisonal</segment>. Saya bekerja sebagai pekerja dapur, memasak sarapan dan makan siang. Di akhir minggu, saya pergi <segment id='3' features='eror;leksikal;kata;ktas' state='active' correction='haiking'>hiking</segment> untuk melihat gunung dan danau yang indah. Pada <segment id='1' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='hari'>malam</segment>, saya sering pergi ke atas bukit dan melihat bintang jatuh bersama teman saya.    </body>
+</document>

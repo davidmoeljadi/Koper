@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023BAYU102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='Restoran Udon'>Udon restoran</segment> Favorit Saya.
+
+Nama <segment id='2' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='restoran udon'><segment id='19' features='eror;ejaan;ejk' state='active' correction='udon' parent='2'>Udon</segment> restoran</segment> <segment id='4' features='eror;ejaan;ejsp' state='active'><segment id='3' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='favorit saya' parent='4'>favorit</segment>  adalah</segment> Haru no Iro.
+<segment id='8' features='eror;leksikal;kata;noms' state='active' comment='Saya mengganti menjadi restoran karena setelah kalimat ini penulis membahas restoran dan judul tulisan ini membahas restoran udon favorit penulis.' correction='Restoran'>Kafe</segment> ini ada di dekat <segment id='18' features='eror;gramatikal;frasa-nomina;urtfn' state='active'>Beppu <segment id='20' features='eror;ejaan;ejk' state='active' parent='18'>stasiun</segment></segment>, kira-kira 7 <segment id='5' features='eror;ejaan;ejhrf' state='active' correction='menit'>minut</segment> dari <segment id='6' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='stasiun Beppu'>Beppu <segment id='21' features='eror;ejaan;ejk' state='active' parent='6'>stasiun</segment></segment>.
+Saya suka restoran ini karena <segment id='7' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='niku udonnya'>niku udon</segment> enak sekali.
+Saya <segment id='9' features='eror;ejaan;ejhrf' state='active' correction='sangat'>sangit</segment> suka menu niku udon di restoran ini.
+Restoran ini sedikit jauh dari <segment id='10' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='halte bus'><segment id='11' features='eror;leksikal;kata;ktinf' state='active' correction='bus' parent='10'>bis</segment> <segment id='13' features='eror;gramatikal;konjungsi;konj0' state='active' correction='tetapi'><segment id='12' features='eror;leksikal;kata;noms' state='active' correction='halte' parent='13'>statiun</segment></segment>, <segment id='22' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='restoran' parent='13'>ini</segment></segment> adalah tempat <segment id='14' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='bagus untuk makan'>bagus makan</segment> <segment id='16' features='eror;gramatikal;konjungsi;konj0' state='active' correction='siang sebelum pergi'>siang pergi</segment> ke Yume <segment id='15' features='eror;ejaan;ejhrf' state='active'>Taun</segment>.
+Silakan pergi ke <segment id='17' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='restoran udon'>udon restoran</segment> ini!    </body>
+</document>

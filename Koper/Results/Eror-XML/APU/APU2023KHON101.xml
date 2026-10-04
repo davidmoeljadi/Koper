@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023KHON101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejsp' state='active'>1.Namanya</segment> [NAMA] [NAMA] [NAMA] [NAMA].
+<segment id='2' features='eror;ejaan;ejsp' state='active'>2.Dia</segment> mahasiswa <segment id='8' features='eror;ejaan;ejsp' state='active'>APU,<segment id='10' features='eror;ejaan;ejk' state='active' parent='8'>fakultas</segment></segment> <segment id='9' features='eror;ejaan;ejsp' state='active'>APS,jurusan</segment> <segment id='12' features='eror;ejaan;ejtb' state='active'>CSM</segment>
+<segment id='3' features='eror;ejaan;ejsp' state='active'>3.Dia</segment> lahir di <segment id='13' features='eror;ejaan;ejtb' state='active'><segment id='11' features='eror;ejaan;ejk' state='active' parent='13'>karanganyar</segment></segment>
+<segment id='4' features='eror;ejaan;ejsp' state='active'>4.Dia</segment> tidak bekerja <segment id='15' features='eror;ejaan;ejtb' state='active'><segment id='14' features='eror;ejaan;ejhrf' state='active' parent='15'>sampigan</segment></segment>
+<segment id='5' features='eror;ejaan;ejsp' state='active'>5.Sekarang</segment> <segment id='7' features='eror;ejaan;ejk' state='active'>Dia</segment> tinggal di Yamuguchin <segment id='16' features='eror;ejaan;ejtb' state='active'>Corp</segment>
+<segment id='6' features='eror;ejaan;ejsp' state='active'>6.Dia</segment> <segment id='17' features='eror;ejaan;ejk' state='active'>Ikut</segment> klub Chinese dan Indonesian <segment id='18' features='eror;ejaan;ejtb' state='active'>week</segment>    </body>
+</document>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2023AHI204.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Waktu saya kecil, saya menulis surat ke Santa Claus. <segment id='11' features='eror;leksikal;kata;ktvar' state='active'>Saya menulis hadiah yang saya mau di surat itu. <segment id='1' features='eror;leksikal;ungkapan;ukpa' state='active' parent='11'>Saya sering mau baju untuk boneka dari bulu.</segment> Waktu <segment id='7' features='eror;gramatikal;frasa-nomina;pronx' state='active' parent='11'>saya</segment> <segment id='6' features='eror;leksikal;kata;noms' state='active' correction='masih' parent='11'>siswa</segment> SD, <segment id='2' features='eror;leksikal;ungkapan;ukps' state='active' parent='11'>saya <segment id='12' features='eror;ejaan;ejhrf' state='active' correction='mendapat' parent='2'>mendepat</segment> banyak baju untuk boneka dari bulu dan kotak pensil yang anjing mirip boneka saya dilukis.</segment> Saya senang sekali. Sekarang saya tidak menulis <segment id='4' features='eror;ejaan;ejtb' state='active' correction='surat, tetapi' parent='11'>surat tetapi</segment> <segment id='5' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='saya tetap mendapat' parent='11'>saya <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='mendapat' parent='5'>mendepat</segment></segment> hadiah natal.
+
+Di rumah saya, kami memasang hiasan natal dan ibu saya memasak makanan natal. Saya suka memasang hiasan <segment id='9' features='eror;leksikal;kata;preps' state='active' correction='pada' parent='11'>seperti</segment> pohon natal. <segment id='10' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='Saya ikut siapkan' parent='11'>Saya <segment id='8' features='eror;gramatikal;frasa-verba;vrbafx' state='active' parent='10'>siapkan</segment></segment> natal sejak saya kecil. Saya membeli kue dan <segment id='13' features='eror;ejaan;ejk' state='active' comment='nama makanan' correction='stollen' parent='11'>Stollen</segment> natal.</segment>    </body>
+</document>

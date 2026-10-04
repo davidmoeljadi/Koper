@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023KINA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Restoran Favorit Saya
+
+Nama restoran favorit saya adalah Ribon.
+Restoran ini jauh dari rumah saya, kira-kira 15 menit dari rumah saya.
+<segment id='12' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya suka restoran <segment id='1' features='eror;ejaan;ejtb' state='active' correction='ini karena' parent='12'>ini, karena</segment> ada banyak menu di restoran ini.
+<segment id='2' features='eror;ejaan;ejhrf' state='active' correction='Makanan' parent='12'>Makaanan</segment>, minuman, dan makanan <segment id='3' features='eror;ejaan;ejsp' state='active' correction='penutup (dessert)' parent='12'>penutup(dessert)</segment>.</segment>
+Saya sangat suka menu <segment id='5' features='eror;ejaan;ejk' state='active'>Ayam Nanban</segment> di restoran ini. <segment id='6' features='eror;ejaan;ejtb' state='active'>Enak, dan</segment> harganya biasa.
+Ada juga es krim. Rasanya enak sekali dan manis.
+Restoran ini jauh dari <segment id='8' features='eror;ejaan;ejk' state='active' comment='Kata &quot;stasiun&quot; dalam kalimat tersebut merupakan bagian dari nama diri, yakni &quot;Stasiun Beppu&quot; sehingga penulisan kata &quot;stasiun&quot; harus dikapital.' correction='Stasiun'>stasiun</segment> Beppu, <segment id='7' features='eror;leksikal;kata;ktinf' state='active'>tapi</segment> restoran ini bagus <segment id='10' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='sebagai tempat bertemu'><segment id='13' features='eror;leksikal;kata;preps' state='active' correction='sebagai' parent='10'>untuk</segment> bertemu</segment> dan <segment id='9' features='eror;leksikal;kata;vrbs' state='active' correction='berbincang'>bicara</segment> <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='dengan'>denagn</segment> teman. Silakan pergi ke restoran ini!    </body>
+</document>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023BASU104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='3' features='eror;leksikal;kata;ktvar' state='active'>Apartemen Shonandai Heights gedung baru <segment id='4' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='memiliki' parent='3'>dan enam</segment> lantai. Apartemen Keio Garden gedung baru <segment id='5' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='memiliki' parent='3'>dan dua</segment> <segment id='1' features='eror;ejaan;ejhrf' state='active' parent='3'>bulas</segment> lantai.</segment> Apartemen Shonandai Heights sebaru Apartemen Keio Garden. Apartemen Shonandai Heights lebih rendah daripada Apartemen Keio Garden.
+  
+Harga sewa Apartemen Shonandai Heights ￥77,000. Harga sewa Apartemen Keio Garden <segment id='6' features='eror;ejaan;ejk' state='active'>Kira-kira</segment> ￥65,000. Apartemen Shonandai Heights lebih mahal daripada Apartemen Keio Garden.
+
+<segment id='2' features='eror;leksikal;ungkapan;ukpa' state='active'>Apartemen Shonandai Heights belanja di toko serba ada dan di supermarket. Apartemen Keio Garden belanja di toko serba ada saja</segment>. Apartemen Shonandai Heights lebih banyak opsi daripada Apartemen Keio Garden.    </body>
+</document>

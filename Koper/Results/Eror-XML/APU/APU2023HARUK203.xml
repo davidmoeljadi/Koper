@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023HARUK203.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya ingin tinggal di kamar seperti <segment id='1' features='eror;leksikal;kata;preps' state='active'>di</segment> foto ini.
+
+Di dalam kamar ini ada banyak barang, gorden, jendela, tempat tidur, bantal, rak buku besar, sofa, meja kecil, lukisan, tanaman hias, dan lain-lain.
+
+Di tengah kamar ini ada sofa kecil berwarna cokelat. Di depan sofa ada meja <segment id='3' features='eror;ejaan;ejhrf' state='active'>kucil</segment>. Di atas meja ada cangkir. Tempat tidur ada di <segment id='4' features='eror;ejaan;ejhrf' state='active'>seberah</segment> kiri sofa. Di atas sofa ada <segment id='5' features='eror;ejaan;ejhrf' state='active'>bantar</segment>. Di <segment id='6' features='eror;ejaan;ejhrf' state='active'>seberah</segment> kiri tempat tidur ada <segment id='7' features='eror;gramatikal;frasa-nomina;urtfn' state='active'>tanaman hias dua</segment>. Rak buku besar di sebelah kanan sofa. Di dalam rak buku ada banyak buku dan tanaman hias. Di depan tempat tidur ada meja besar <segment id='8' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>warna</segment> cokelat.
+
+Saya suka membaca buku, jadi ruangan ini terlihat sangat menarik <segment id='11' features='eror;leksikal;kata;preps' state='active'>untuk</segment> saya. Selain itu, sinar matahari juga bagus. Saya berjemur di bawah sinar matahari setiap pagi. 
+
+<segment id='12' features='eror;leksikal;kata;konjs' state='active'><segment id='13' features='eror;leksikal;kata;ktinf' state='active' parent='12'>Kalau</segment></segment> itu kamar saya, <segment id='2' features='eror;gramatikal;frasa-verba;vrbaux0' state='active'>saya mengubah</segment> warna meja, sofa, dan rak buku menjadi hijau. <segment id='9' features='eror;leksikal;kata;konjs' state='active'>Juga</segment>, <segment id='10' features='eror;gramatikal;frasa-verba;vrbaux0' state='active'>saya menambahkan</segment> TV dan guling. Saya ingin menonton pertandingan bola basket.
+    </body>
+</document>
