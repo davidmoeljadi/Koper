@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2024AIAY101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Makanan favorit saya adalah apel. Saya paling suka apel. Warnanya merah dan manis. Saya memakannya pada <segment id='1' features='eror;gramatikal;konjungsi;konj0' state='active' correction='ketika'>hari-hari saya</segment> sangat lelah. Saya lebih suka apel daripada es krim.    </body>
+</document>

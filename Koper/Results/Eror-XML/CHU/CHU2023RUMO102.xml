@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023RUMO102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan saya ada <segment id='3' features='eror;ejaan;ejtb' state='active'>meja <segment id='1' features='eror;gramatikal;konjungsi;konjx' state='active' parent='3'>dan</segment> tempat tidur <segment id='2' features='eror;gramatikal;konjungsi;konjx' state='active' parent='3'>dan</segment> rak buku dan</segment> laci.
+Meja ada di samping rak buku.
+Di atas meja ada komputer dan kamus. 
+Tempat tidur ada di depan meja.
+Di dalam rak buku ada komik.
+Di dalam <segment id='4' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='ada'>laci pakaian</segment>.    </body>
+</document>

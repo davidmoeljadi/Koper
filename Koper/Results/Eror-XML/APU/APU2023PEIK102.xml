@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023PEIK102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tempat Favorit Saya 
+
+Tempat favorit saya adalah Green Commons, APU.
+Green Commons ada di dekat rumah saya, AP <segment id='3' features='eror;ejaan;ejk' state='active' comment='AP House 5 merupakan nama tempat sehingga perlu dikapital' correction='House'>house</segment> 5, kira-kira 5 menit dari rumah saya.
+Saya <segment id='1' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='suka tempat ini'>suka <segment id='2' features='eror;ejaan;ejtb' state='active' correction='ini karena'>ini</segment>, karena</segment> <segment id='5' features='eror;gramatikal;frasa-nomina;pronx' state='active'>dia</segment> luas dan bersih.
+<segment id='4' features='eror;leksikal;kata;prons' state='active' correction='Di sini'>Itu</segment> ada banyak kursi dan kafe <segment id='6' features='eror;ejaan;ejtb' state='active' comment='Nama tempat tidak perlu menggunakan tanda petik' correction='Olive'>“Olive”</segment>.
+Saya suka <segment id='14' features='eror;ejaan;ejhrf' state='active'>menjerjakan</segment> PR <segment id='7' features='eror;leksikal;kata;prons' state='active' correction='di sini'>itu</segment>.
+<segment id='15' features='eror;gramatikal;kalimat;kalpen' state='active'>Di <segment id='9' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='kafenya' parent='15'>kafe</segment> <segment id='8' features='eror;gramatikal;frasa-nomina;detx' state='active' parent='15'>ini</segment>, ada <segment id='10' features='eror;ejaan;ejhrf' state='active' correction='banyak' parent='15'>benyak</segment> menu.
+Makanan, minuman, dan <segment id='11' features='eror;leksikal;kata;ktas' state='active' correction='pencuci mulut' parent='15'>dessert</segment>.</segment>
+Saya suka menu <segment id='13' features='eror;leksikal;kata;ktas' state='active' correction='roti lapis'>sandwich</segment>, <segment id='12' features='eror;gramatikal;frasa-nomina;pronx' state='active'>dia</segment> enak dan harganya tidak begitu mahal.
+Silakan pergi ke Green Commons!    </body>
+</document>

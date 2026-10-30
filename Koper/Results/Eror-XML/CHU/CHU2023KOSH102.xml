@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KOSH102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan saya ada <segment id='1' features='eror;lainnya;lain' state='active' correction='dua (ekor) kucing'>kucing dan kucing</segment>. Di atas saya ada kucing. <segment id='3' features='eror;gramatikal;frasa-nomina;nya0' state='active'>Kucing</segment> melihat ke <segment id='2' features='eror;ejaan;ejhrf' state='active'>liar</segment> jendela. Di luar ada ibu. Di samping ibu ada kucing.    </body>
+</document>

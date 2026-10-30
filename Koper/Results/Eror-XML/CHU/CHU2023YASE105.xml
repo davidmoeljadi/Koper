@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023YASE105.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='10' features='eror;leksikal;kata;ktvar' state='active'>Saya <segment id='1' features='eror;ejaan;ejhrf' state='active' parent='10'>begun</segment> jam <segment id='2' features='eror;ejaan;ejsp' state='active' parent='10'>enam.Saya</segment> pergi ke <segment id='3' features='eror;ejaan;ejhrf' state='active' parent='10'>universistas</segment>. <segment id='11' features='eror;lainnya;lain' state='active' comment='urutan kalimatnya tidak tepat' parent='10'>Saya tidur jam <segment id='4' features='eror;ejaan;ejsp' state='active' parent='10'>dua.</segment>Saya</segment> <segment id='5' features='eror;ejaan;ejhrf' state='active' parent='10'>mankan</segment> siang jam  <segment id='6' features='eror;ejaan;ejhrf' state='active' parent='10'>sentengah</segment> dua belas. Saya mandi <segment id='7' features='eror;ejaan;ejsp' state='active' parent='10'><segment id='8' features='eror;ejaan;ejhrf' state='active' parent='7'>ja</segment><segment id='9' features='eror;ejaan;ejsp' state='active' parent='10'>sembilan</segment>.Saya</segment> tidur jam dua belas.</segment>    </body>
+</document>

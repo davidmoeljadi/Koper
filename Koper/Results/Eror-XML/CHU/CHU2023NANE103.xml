@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023NANE103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Apakah Anda <segment id='4' features='eror;ejaan;ejhrf' state='active'>tau</segment> <segment id='1' features='eror;ejaan;ejtb' state='active'>Borobudur.</segment> <segment id='2' features='eror;leksikal;ungkapan;ukps' state='active'>Saya memeriksanyakan Borobudur.</segment>
+Borobudur yang ada di atas <segment id='5' features='eror;ejaan;ejk' state='active'>pulau</segment> <segment id='6' features='eror;ejaan;ejsp' state='active'>Jawa,Indonesia</segment> sangat indah.
+Candi ini merupakan candi <segment id='7' features='eror;ejaan;ejhrf' state='active'>Budha</segment> dan terbuat dari batu. Candi ini merupakan Situs Warisan Dunia dan objek wisata 
+terkenal di Asia Tenggara. Borobudur tampak seperti kastil dan sangat kokoh.
+Banyak sekali <segment id='8' features='eror;gramatikal;frasa-nomina;nomj' state='active'>gambar-gambar</segment> yang dipahat di Borobudur dan kisah-kisahnya sangat menarik. Di sekitar Borobudur terdapat banyak restoran lezat yang menyajikan masakan Indonesia. Ada juga pusat perbelanjaan dan pasar, <segment id='9' features='eror;gramatikal;frasa-verba;vrbaux0' state='active'>jadi belanja</segment>
+super nyaman. Saya pikir Anda harus membeli oleh-oleh di sini. <segment id='3' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='pun/saja'>Siapa orang</segment> yang
+pergi ke Indonesia <segment id='10' features='eror;gramatikal;frasa-adverbia;advx' state='active'>pasti</segment> harus mengunjungi
+<segment id='11' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>ke</segment> Borobudur.    </body>
+</document>

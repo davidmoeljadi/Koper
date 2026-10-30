@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023AOYUR203.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat <segment id='1' features='eror;ejaan;ejtb' state='active'>siang <segment id='2' features='eror;ejaan;ejtb' state='active'>teman-teman</segment>, hari</segment> ini saya akan berbicara tentang lacrosse.
+Saya memilih tema itu karena saya berada di klub lacrosse.
+Apakah teman-teman tahu tentang olahraga ini dengan baik?
+Saya berpikir <segment id='3' features='eror;leksikal;kata;prons' state='active'>kamu</segment> semua tidak tahu.
+Baiklah, kalau begitu saya akan mulai menjelaskannya.
+Pertama-tama, saya akan menjelaskan aturan dasar lacrosse.
+Aturan lacrosse <segment id='4' features='eror;ejaan;ejk' state='active'>Wanita</segment> dan lacrosse pria berbeda sekali.
+Lacrosse wanita itu dimainkan oleh 10 orang, <segment id='5' features='eror;leksikal;kata;konjs' state='active' correction='sementara'>sambil</segment> lacrosse pria dimainkan oleh 12 orang.
+Pemain bermain dengan tongkat ini.
+Mereka menahan bola di jaring ini dan membawa bola itu.
+Kiper <segment id='6' features='eror;gramatikal;frasa-verba;vrbauxx' state='active'>akan</segment> memiliki tongkat yang lebih besar daripada pemain lain.
+Tim yang memasukkan lebih banyak bola ke gawang adalah pemenangnya.
+Ada empat <segment id='7' features='eror;ejaan;ejtb' state='active'>posisi; penyerang</segment>, pembela, pemain <segment id='8' features='eror;ejaan;ejtb' state='active'>tengah dan</segment> <segment id='9' features='eror;gramatikal;konjungsi;konj0' state='active' correction='atau'><segment id='10' features='eror;leksikal;kata;noms' state='active' correction='penjaga gawang' parent='9'>penggawang</segment> kiper</segment>.
+Itu seperti sepak bola.
+Penyerang adalah pemain yang memasukkan bola ke dalam gawang.
+Pembela adalah pemain yang mencegah tim lain mendapatkan poin.
+Pemain tengah adalah pemain yang melakukan serangan dan pertahanan pada waktu yang sama.
+Penjaga gawang adalah pemain yang berdiri di depan jaring gawang dan mencegah tembakan penyerang.
+Selain <segment id='11' features='eror;ejaan;ejtb' state='active'>itu ada</segment> banyak <segment id='12' features='eror;ejaan;ejhrf' state='active'>kesamaanya</segment> dengan sepak bola. Bola <segment id='13' features='eror;gramatikal;frasa-nomina;nyaitu' state='active'>ini</segment> keras seperti bola <segment id='15' features='eror;ejaan;ejtb' state='active'><segment id='14' features='eror;ejaan;ejhrf' state='active' parent='15'>bisball</segment> jadi</segment> jika dipukul dengan ini, sakit sekali.
+Lacrosse adalah salah satu olahraga yang memiliki banyak kontak <segment id='16' features='eror;ejaan;ejsp' state='active'>antar pemain</segment>. Karena <segment id='17' features='eror;ejaan;ejtb' state='active'>itu banyak</segment> <segment id='18' features='eror;leksikal;kata;noms' state='active' correction='kecelakaan'>luka</segment> terjadi selama bermain. Saya awalnya seorang pemain, tetapi kaki saya cedera dan berhenti bermain.
+Saya <segment id='19' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>berada klub</segment> sebagai manajer pendukung sekarang.
+Peran saya adalah membuat menu latihan dan merawat pemain yang cedera.
+Tim saya tidak kuat, <segment id='20' features='eror;leksikal;kata;ktinf' state='active'>tapi</segment> saya ingin mendukung pemain agar bisa memenangkan pertandingan.
+Sekian pidato saya hari ini. Terima kasih atas perhatiannya.    </body>
+</document>

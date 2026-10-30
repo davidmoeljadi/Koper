@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023WAIM102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Bar <segment id='1' features='eror;ejaan;ejk' state='active'>favorit saya</segment>
+
+Nama <segment id='2' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='bar favorit'>favorit bar</segment> saya Cotton Wood. <segment id='3' features='eror;leksikal;kata;ktvar' state='active' comment='Banyak diawali kata &quot;saya&quot; dan penggunaan kata &quot;toko ini&quot; secara berulang. Selain itu, pemilihan kata &quot;toko&quot; juga salah, seharusnya &quot;bar&quot;.'>Saya bekerja sampingan di <segment id='13' features='eror;leksikal;kata;noms' state='active' correction='bar' parent='3'>toko</segment> ini. Saya suka <segment id='14' features='eror;leksikal;kata;noms' state='active' correction='bar' parent='3'>toko</segment> ini, <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='keren' parent='3'>karena</segment> dan <segment id='5' features='eror;ejaan;ejhrf' state='active' correction='modis' parent='3'>mobis</segment>. Saya mengambil gambar minuman dan <segment id='17' features='eror;leksikal;kata;noms' state='active' parent='3'>dami</segment>. Saya <segment id='6' features='eror;ejaan;ejhrf' state='active' correction='sangat' parent='3'>sengat</segment> suka menu <segment id='8' features='eror;ejaan;ejk' state='active' parent='3'>Lassi Stroberi</segment>. Ini adalah minuman yang paling besar dan imut di <segment id='15' features='eror;leksikal;kata;noms' state='active' correction='bar' parent='3'>toko</segment> ini. Manajer <segment id='16' features='eror;leksikal;kata;noms' state='active' correction='bar' parent='3'>toko</segment> ini sangat ramah. Bar ini dekat <segment id='9' features='eror;gramatikal;frasa-adjektiva;adjx' state='active' parent='3'>jauh</segment> dari <segment id='10' features='eror;ejaan;ejhrf' state='active' correction='Stasiun' parent='3'><segment id='11' features='eror;ejaan;ejk' state='active' parent='10'>satasiun</segment></segment> Beppu, jadi silakan pergi ke <segment id='12' features='eror;leksikal;kata;noms' state='active' correction='bar' parent='3'>toko</segment> ini!</segment>    </body>
+</document>

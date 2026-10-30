@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KOYU101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Saya tinggal di Tokyo. Saya dari Tokyo. Saya punya kakak perempuan dan adik laki-laki. <segment id='2' features='eror;leksikal;kata;prons' state='active' correction='Mereka'>Dia</segment> tinggal di Tokyo dengan <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='orang'>oranag</segment> tua kami. Nama ayah saya <segment id='4' features='eror;ejaan;ejtb' state='active' comment='Tidak perlu koma.'>[NAMA], dan</segment> nama ibu saya [NAMA]. Mereka pegawai. Nama kakak perempuan saya [NAMA]. Dia pegawai. Nama adik laki-laki saya [NAMA]. Dia murid SMP. Saya juga punya kakek dan nenek. Mereka <segment id='5' features='eror;ejaan;ejhrf' state='active' correction='tinggal'>tinngal</segment> di Tokyo. <segment id='1' features='eror;ejaan;ejk' state='active'>kakek</segment> dan nenek saya orang Jepang.    </body>
+</document>

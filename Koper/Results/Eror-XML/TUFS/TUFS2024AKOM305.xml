@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2024AKOM305.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hal: Permintaan Penggantian Pesanan <segment id='1' features='eror;gramatikal;frasa-nomina;pronx' state='active'>Bapak</segment>
+
+Yth. <segment id='2' features='eror;gramatikal;frasa-nomina;pronx' state='active' comment='Dalam penulisan surat resmi, [Yth.] tidak perlu diikuti oleh keterangan subjek pronomina jika sudah memuat jabatan.' correction='Yth. Direktur PT Sudirman'>Bapak</segment> Direktur PT Sudirman
+
+Dengan hormat,
+
+<segment id='4' features='eror;leksikal;ungkapan;ukpa' state='active' correction='terima kasih atas pesanan 100 nasi gorengnya, Bapak.'><segment id='3' features='eror;ejaan;ejk' state='active' comment='Kalimat masih satu kesatuan dengan [Dengan hormat] sehingga tidak perlu dikapital' correction='terima' parent='4'>Terima</segment> kasih Bapak atas pesanan 100 nasi goreng.</segment> Akan tetapi, dengan sangat menyesal, <segment id='5' features='eror;leksikal;kata;prons' state='active' correction='kami'>kita</segment> mohon Bapak untuk mengganti <segment id='7' features='eror;ejaan;ejtb' state='active' comment='Penulisan konjungsi [karena] tidak didahului tanda koma.' correction='pesanan karena'><segment id='6' features='eror;lainnya;lain' state='active' comment='Nomina tidak perlu diberi imbuhan kepemilikan [nya]' correction='pesanan' parent='7'>pesanannya</segment>, karena</segment> stoknya sudah habis. <segment id='8' features='eror;leksikal;kata;prons' state='active' correction='Kami'>Kita</segment> bisa menyiapkan 100 mie goreng. Apakah ini tidak masalah <segment id='9' features='eror;lainnya;lain' state='active' comment='Tidak perlu menggunakan penegas [ya]' correction='Apakah ini tidak masalah, Pak?'>ya</segment>, Pak?
+
+Hormat kami,
+
+[NAMA] [NAMA]
+Direktur PT Burjo Indonesia    </body>
+</document>

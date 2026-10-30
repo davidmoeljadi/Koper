@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023RUBO101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya <segment id='1' features='eror;ejaan;ejsp' state='active'>[NAMA].  Saya</segment> tinggal di Saitama dengan keluarga <segment id='2' features='eror;leksikal;kata;prons' state='active'>kita</segment>. Saya punya kakak laki-laki. Nama ayah saya <segment id='3' features='eror;ejaan;ejsp' state='active'>[NAMA] ,</segment> <segment id='4' features='eror;gramatikal;konjungsi;konjx' state='active'>dan</segment> nama ibu saya <segment id='5' features='eror;ejaan;ejsp' state='active'>[NAMA] ,</segment> dan nama kakak laki-laki saya [NAMA]. Ayah saya pegawai. Ibu saya ibu rumah tangga. Kakak <segment id='6' features='eror;gramatikal;frasa-nomina;pron0' state='active'>laki-laki <segment id='7' features='eror;leksikal;kata;noms' state='active' parent='6'>murid</segment></segment> pascasarjana.    </body>
+</document>

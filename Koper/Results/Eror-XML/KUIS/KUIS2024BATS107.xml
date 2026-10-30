@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2024BATS107.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya ada di Chiba, tapi dari tanggal <segment id='2' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='2 sampai 4 September'>2 September sampai <segment id='3' features='eror;ejaan;ejtb' state='active'>4</segment>, saya</segment> ada di Yokohama dan dari tanggal 5 sampai <segment id='4' features='eror;ejaan;ejtb' state='active'><segment id='5' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='September' parent='4'>7,</segment> saya</segment> ada di Osaka.
+Di Yokohama, saya makan banyak <segment id='1' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='masakan'>memasak</segment> enak. Saya makan ramen. Saya ke Yokohama dengan pacar saya.
+Di Osaka, saya <segment id='21' features='eror;leksikal;kata;ktinf' state='active' correction='bertemu'>ketemu</segment> dengan nenek saya. Sebenarnya ayah <segment id='6' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='berasal'>saya dari</segment> <segment id='7' features='eror;ejaan;ejtb' state='active' correction=','>Osaka jadi</segment> saya juga bisa <segment id='8' features='eror;leksikal;ungkapan;ukps' state='active'>kans ben</segment>.
+
+Awal Agustus saya terjangkit COVID-19 <segment id='22' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='pemulihan'>dan memakan</segment> waktu kira-kira 3 minggu <segment id='23' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>untuk</segment> <segment id='24' features='eror;gramatikal;frasa-verba;vrbx' state='active'>pulih</segment>. Setelah pulih, saya banyak bekerja karena saya mau uang (wkwk).
+
+Saya pergi <segment id='25' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>ke</segment> karaoke <segment id='9' features='eror;ejaan;ejsp' state='active'>kira- kira</segment> 10 kali dengan teman saya. <segment id='10' features='eror;gramatikal;kalimat;kalpan' state='active'>Saya suka <segment id='11' features='eror;ejaan;ejtb' state='active' correction='.' parent='10'>menyanyi, <segment id='13' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='Menyanyi' parent='10'><segment id='12' features='eror;gramatikal;konjungsi;konjx' state='active' parent='13'>jadi</segment></segment> itu</segment> menyenangkan, tapi <segment id='14' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='harus' parent='10'>saya <segment id='15' features='eror;leksikal;kata;vrbs' state='active' correction='mengeluarkan' parent='14'><segment id='16' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='mengeluarkan' parent='15'>membayar</segment></segment></segment> banyak uan</segment>g.
+
+Saya benar-benar tidak suka hari panas dan <segment id='17' features='eror;ejaan;ejtb' state='active' correction=','>nyamuk <segment id='18' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='saya'>tapi</segment> suka</segment> <segment id='19' features='eror;ejaan;ejk' state='active' correction='libur musim panas'>Libur Musim Panas</segment> karena saya bisa <segment id='20' features='eror;gramatikal;frasa-nomina;nya0' state='active'>menikmati</segment>.    </body>
+</document>

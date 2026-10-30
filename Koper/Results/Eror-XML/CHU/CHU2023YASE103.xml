@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023YASE103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Soto Ayam
+Apakah Anda pernah makan makanan Indonesia?
+Saya belum pernah makan makanan Indonesia.
+Di antara <segment id='1' features='eror;leksikal;kata;noms' state='active' correction='berbagai makanan Indonesia'>mereka</segment>, saya ingin mencoba hidangan tradisional soto <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='ayam'>ayamayi</segment>.
+Soto <segment id='2' features='eror;ejaan;ejk' state='active'>Ayam</segment> adalah sup ayam berbumbu, sejenis soto.
+<segment id='5' features='eror;gramatikal;kalimat;kalsub' state='active' correction='Hidangan ini dikenal sebagai masakan Indonesia'>Dikenal sebagai masakan Indonesia</segment>, tetapi juga dapat ditemukan di Singapura dan Malaysia.
+<segment id='6' features='eror;gramatikal;kalimat;kalpan' state='active' correction='Bumbu yang digunakan terutama bawang putih dan rempah-rempah lainnya. Kuahnya biasanya berwarna kuning karena tambahan kunyit.'>Rempah-rempah terutama bawang putih dan rempah-rempah lainnya, biasanya menguning dengan tambahan kunyit.</segment>
+Banyak orang yang <segment id='7' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='memakannya'><segment id='4' features='eror;gramatikal;frasa-nomina;nya0' state='active' parent='7'>makan</segment></segment> dengan nasi putih <segment id='9' features='eror;gramatikal;konjungsi;konjx' state='active'>dan</segment> <segment id='10' features='eror;gramatikal;frasa-nomina;pronx' state='active'>ini</segment> saja.    </body>
+</document>

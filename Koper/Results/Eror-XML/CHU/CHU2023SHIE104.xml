@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023SHIE104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Namanya [NAMA] [NAMA]. Dia berasal dari <segment id='10' features='eror;ejaan;ejhrf' state='active'>Srilanka</segment>. Dia punya adik perempuan. Namanya [NAMA]. Dia tinggal di Cina. Umurnya 24 tahun. Rumah mereka sangat ramai. Dia mahasiswa di Universitas Chuo. Dia <segment id='3' features='eror;ejaan;ejhrf' state='active' comment='seharusnya kata &quot;belajal&quot; dutulis &quot;belajar&quot;.' correction='belajar'>belajal</segment> <segment id='4' features='eror;ejaan;ejhrf' state='active' comment='seharusnya kata &quot;sejalah&quot; ditulis &quot;sejarah&quot;.' correction='sejarah'>sejalah</segment> dan bahasa Jepang. <segment id='1' features='eror;ejaan;ejhrf' state='active'>Sejalah</segment> paling <segment id='2' features='eror;gramatikal;frasa-adjektiva;adjafx' state='active'>senang</segment>. Bahasa Jepang lebih sulit daripada bahasa <segment id='5' features='eror;ejaan;ejhrf' state='active'>Srilanka</segment>. 
+
+<segment id='6' features='eror;leksikal;kata;ktvar' state='active'>Dia bangun jam 7 pagi. Dia mandi jam 7 lewat seperempat. Dia makan pagi bakso. Dia pergi ke universitas. Dia naik pesawat ke sana. Dari rumah dia ke universitas kiraｰkira delapan jam. Dia <segment id='9' features='eror;ejaan;ejhrf' state='active' comment='kata &quot;belajal&quot; seharusnya ditulis &quot;belajar&quot;. Gunakan huruf L bukan R.' correction='dia belajar di universitas dari hari Rabu sampai hari Sabtu.' parent='6'>belajal</segment> di universitas dari hari Rabu sampai hari Sabtu.</segment>    </body>
+</document>

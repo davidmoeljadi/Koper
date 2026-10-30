@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023TATO101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. <segment id='4' features='eror;leksikal;kata;ktvar' state='active'>Saya tinggal di <segment id='1' features='eror;ejaan;ejsp' state='active' parent='4'>Chiba.Saya</segment> dari Chiba. Saya anak tunggal. Saya punya orang tua.</segment> Nama <segment id='2' features='eror;gramatikal;frasa-nomina;pron0' state='active'>ayah <segment id='3' features='eror;ejaan;ejtb' state='active'>[NAMA]</segment>, dan</segment> nama ibu saya [NAMA]. Ayah saya pegawai. Ibu saya ibu rumah tangga.
+Saya juga punya kakek dan nenek. Mereka tinggal di Fukuoka.    </body>
+</document>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023XEAN102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Restoran <segment id='11' features='eror;ejaan;ejk' state='active' comment='Saya rasa ini merupakan judul. Oleh karena itu, saya beri huruf kapital.' correction='Favorit'>favorit</segment> <segment id='12' features='eror;ejaan;ejk' state='active' comment='Saya rasa ini merupakan judul. Oleh karena itu, saya beri huruf kapital.' correction='Saya'>saya</segment>
+
+Nama restoran favorit saya adalah Syouyo. 
+Restoran ini ada di dekat <segment id='1' features='eror;ejaan;ejk' state='active' correction='Kitahama'>kitahama</segment>. 
+<segment id='3' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya suka restoran <segment id='2' features='eror;ejaan;ejtb' state='active' comment='hapus koma' parent='3'>ini, karena</segment> ada <segment id='14' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='3'>banyak menu di restoran ini. 
+Makanan dan minuman Cina</segment>.</segment> 
+Saya sangat suka <segment id='8' features='eror;ejaan;ejk' state='active' correction='tofu'>Tofu</segment> di restoran ini. <segment id='6' features='eror;leksikal;kata;adjs' state='active' correction='rasanya enak'><segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='Rasanya' parent='6'>Bagus</segment></segment> sekali dan tidak begitu mahal. 
+<segment id='5' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='juga'>Ada nasi</segment> goreng. <segment id='9' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='Rasanya'>Enak</segment>, <segment id='10' features='eror;gramatikal;konjungsi;konjx' state='active' comment='hapus'>dan</segment> tidak terlalu pedas dan asin. 
+Silakan pergi ke restoran ini.    </body>
+</document>

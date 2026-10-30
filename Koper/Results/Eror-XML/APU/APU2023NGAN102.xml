@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023NGAN102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tempat Favorit <segment id='1' features='eror;ejaan;ejk' state='active' comment='Dalam judul, gunakan huruf kapital di setiap awal kata.' correction='Saya'>saya</segment>
+
+Tempat favorit saya adalah rumah saya.
+<segment id='2' features='eror;gramatikal;frasa-nomina;nya0' state='active'>Tempat</segment> ada di Kyoto. 
+Saya suka rumah saya karena baunya enak dan ada TV.
+Saya suka menonton TV dan ada TV <segment id='3' features='eror;ejaan;ejhrf' state='active' comment='Terdapat kesalahan penulisan, yaitu &quot;besal&quot; yang seharusnya ditulis &quot;besar&quot;.' correction='besar'>besal</segment> di rumah saya. TV cukup mahal, jadi saya tidak membeli TV di Beppu. 
+Di rumah saya ada sofa besar. Saya suka tidur di sofa itu.
+<segment id='4' features='eror;gramatikal;kalimat;kalpan' state='active' comment='Kalimat ini sebaiknya dipisah agar lebih mudah dipahami.' correction='Rumah saya dekat dengan stasiun. Ada tiga stasiun di dekat rumah saya. Jadi, saya merasa nyaman.'>Rumah saya dekat dengan stasiun, dan ada tiga stasiun di dekatnya, <segment id='5' features='eror;gramatikal;kalimat;kalsub' state='active' parent='4'><segment id='6' features='eror;gramatikal;frasa-verba;vrb0' state='active' parent='5'>jadi nyaman</segment></segment>.</segment>    </body>
+</document>

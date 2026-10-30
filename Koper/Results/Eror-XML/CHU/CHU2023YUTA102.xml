@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023YUTA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;leksikal;kata;ktvar' state='active'>Komputer ada di depan jendela.
+Meja ada di bawah jam dinding.
+Buku ada di samping rak buku.</segment>
+<segment id='2' features='eror;leksikal;kata;ktvar' state='active'>Di atas lantai ada kursi.
+<segment id='3' features='eror;leksikal;ungkapan;ukpa' state='active' correction='Tempat tidur jauh dari meja.' parent='2'>Di jauh meja ada tempat tidur.</segment></segment>    </body>
+</document>

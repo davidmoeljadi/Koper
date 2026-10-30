@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2024AKAD101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di atas meja ada komputer.
+Di sebelah meja ada gitar dan piano.
+Di <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='dalam'>delam</segment> rumah saya ada <segment id='2' features='eror;leksikal;ungkapan;ukps' state='active' comment='(Mohon maaf, saya tidak mengerti apa yang dimaksud penulis. Apakah mungkin maksudnya adalah dua buah atau tiga buah gitar?)'>di dua buah tiga buah gitar</segment>.
+Di sebelah meja <segment id='3' features='eror;ejaan;ejsp' state='active' comment='Kelebihan spasi' correction='ada majalah'>ada  majalah</segment>.
+Di atas meja ada empat batang pena.
+Di atas meja ada <segment id='5' features='eror;ejaan;ejsp' state='active' comment='Kelebihan spasi' correction='iPad.'><segment id='4' features='eror;ejaan;ejk' state='active' comment='Penulisan nama diri ditulis sebagaimana adanya.
+Sumber: https://www.apple.com/id/ipad/' correction='iPad' parent='5'>ipad</segment> .</segment>
+Di dalam kamar saya ada <segment id='6' features='eror;ejaan;ejk' state='active' comment='HP adalah singkatan, maka gunakan huruf kapital' correction='HP'><segment id='7' features='eror;ejaan;ejtb' state='active' comment='Kekurangan tanda titik [.]' correction='HP.' parent='6'>hp</segment></segment>    </body>
+</document>

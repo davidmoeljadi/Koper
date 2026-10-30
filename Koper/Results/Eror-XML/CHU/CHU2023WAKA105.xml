@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023WAKA105.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya bangun jam tujuh dari hari Senin <segment id='1' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>ke</segment> sampai hari Jumat.
+Saya pergi ke kampus universitas dengan <segment id='2' features='eror;ejaan;ejhrf' state='active'>kerata</segment>.
+<segment id='3' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya makan siang setelah belajar.
+Lalu pergi ke <segment id='4' features='eror;ejaan;ejhrf' state='active' parent='3'><segment id='5' features='eror;ejaan;ejsp' state='active' parent='4'>peker jaraan</segment></segment> paruh waktu.</segment>
+Saya tidur jam setengah dua pagi.    </body>
+</document>

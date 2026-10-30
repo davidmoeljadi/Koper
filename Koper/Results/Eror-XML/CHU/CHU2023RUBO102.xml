@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023RUBO102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan saya ada meja, kursi, rak buku, <segment id='1' features='eror;ejaan;ejtb' state='active'>lemari dan</segment> tempat tidur. Di atas meja ada komputer. Di kiri meja ada rak buku. Buku ada di rak buku. Lemari ada di dekat pintu. Pakaian ada di dalam lemari. <segment id='2' features='eror;leksikal;kata;noms' state='active'>Kereta</segment> ada di depan lemari. Majalah dan catatan ada di atas <segment id='4' features='eror;leksikal;kata;noms' state='active'>kereta</segment>. Tempat tidur ada di dekat <segment id='3' features='eror;ejaan;ejsp' state='active'>jendela.  Karpet</segment> ada di atas lantai.    </body>
+</document>

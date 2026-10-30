@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023OKUKO302.txt</textfile>
+    <lang>indonesian</lang>
+  </header>
+    <body>
+Pertama, sulit untuk mencari orang Indonesia. Selain itu, saya tidak bisa mengajukan banyak pertanyaan. <segment id='1' features='eror;ejaan;ejtb' state='active'><segment id='5' features='eror;leksikal;kata;konjs' state='active' parent='1'>Tapi</segment> semua</segment> orang sangat baik, jadi itu <segment id='6' features='eror;leksikal;kata;adjs' state='active'>bagus</segment>.    </body>
+</document>

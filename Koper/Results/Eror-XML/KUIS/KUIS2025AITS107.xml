@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2025AITS107.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Liburan musim panas saya dari <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='tanggal'>tanngal</segment> <segment id='2' features='eror;ejaan;ejsp' state='active' correction='25 bulan'>25bulan</segment> <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Juli'><segment id='4' features='eror;ejaan;ejk' state='active' correction='Juli' parent='3'>juri</segment></segment> sampai tanggal 14 bulan <segment id='5' features='eror;ejaan;ejk' state='active' correction='September'>september</segment>.
+<segment id='14' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Saya pergi ke kota Atami selama 1 hari untuk merayakan hari ulang tahun dan kota Shirako selama 3 hari untuk bermain bola voli.'><segment id='6' features='eror;ejaan;ejk' state='active' correction='Saya' parent='14'>saya</segment> pergi ke kota <segment id='7' features='eror;ejaan;ejk' state='active' correction='Atami' parent='14'>atami</segment> dan kota <segment id='8' features='eror;ejaan;ejk' state='active' correction='Shirako' parent='14'>shirako</segment>.
+<segment id='11' features='eror;leksikal;kata;ktvar' state='active' comment='Penggunaan kat a[kota] secara berulang di awal kalimat.' parent='14'><segment id='9' features='eror;ejaan;ejk' state='active' correction='Kota' parent='11'>kota</segment> Atami untuk <segment id='15' features='eror;gramatikal;frasa-verba;vrbpas' state='active' correction='merayakan' parent='11'>dirayakan</segment> hari ulang tahun saya
+.kota <segment id='10' features='eror;ejaan;ejk' state='active' correction='Shirako' parent='11'>shirako</segment> untuk beramain bola voli.
+kota Atami 1 hari
+kota shirako 3 hari</segment></segment>
+<segment id='12' features='eror;leksikal;kata;ktvar' state='active' comment='Penggunaan pronomina [saya] secara berulang di awal kalimat.'><segment id='16' features='eror;gramatikal;kalimat;kalpen' state='active' comment='Kesalahan dalam empat kalimat ini bertumpuk: 1) kapitalisasi huruf pertama kalimat [saya]; 2) urutan kalimat. Kolom koreksi berisi satu kalimat baru yang dibentuk berdasarkan perubahan tatanan gagasan empat kalimat agar berurutan dalam menjelaskan kota Atami dan kota Shirako.' correction='Saya pergi ke kota Atami dengan teman menggunakan mobil, sedangkan ke kota Shirako dengan teman tim voli naik kereta listrik dan bus.' parent='12'>saya pergi ke kota Atami dengan teman saya
+saya pergi ke kota shirako dengan teman bola voli.
+saya pergi ke Atami dengan mobil.
+saya pergi ke <segment id='17' features='eror;ejaan;ejsp' state='active' parent='16'>Shirako  dengan</segment> kereta <segment id='18' features='eror;leksikal;ungkapan;ukpa' state='active' correction='kereta listrik' parent='16'>istrit</segment> dan bus.</segment></segment>
+<segment id='13' features='eror;leksikal;kata;ktvar' state='active' comment='Penggunaan preposisi [di] secara berulang di awal kalimat.'>Di Atami ada laut yang indah dan makanan yang enak
+Di Shirako ada laut dan kucing
+<segment id='19' features='eror;leksikal;ungkapan;ukps' state='active' comment='Tidak diketahui makna [musku]' parent='13'>Di Atami saya musku ke laut <segment id='20' features='eror;ejaan;ejsp' state='active' parent='19'>danmakan</segment> ikan</segment>
+Di <segment id='21' features='eror;ejaan;ejk' state='active' correction='Shirako' parent='13'>shirako</segment> saya main kembang api dan <segment id='22' features='eror;ejaan;ejhrf' state='active' correction='main' parent='13'>man</segment> bola voli</segment>
+<segment id='23' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Saya merasa bahagia karena teman saya merayakan hari ulang tahun saya.'>saya merasa bahagia
+<segment id='25' features='eror;leksikal;kata;konjs' state='active' comment='Penggunaan konjungsi [karena] tidak dapat diletakkan di awal kalimat.' parent='23'><segment id='26' features='eror;ejaan;ejhrf' state='active' correction='karena' parent='25'>kerena</segment></segment> teman saya <segment id='24' features='eror;leksikal;kata;vrbs' state='active' correction='merayakan' parent='23'>dilakukan</segment> hari ulang tahun saya</segment>
+<segment id='27' features='eror;ejaan;ejhrf' state='active' correction='Masuk'><segment id='28' features='eror;leksikal;kata;vrbs' state='active' correction='berenang' parent='27'>Musuk</segment></segment> <segment id='29' features='eror;leksikal;kata;preps' state='active' correction='di'>ke</segment> <segment id='30' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='laut adalah'><segment id='31' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='adalah hal yang paling menyenangkan' parent='30'>laut yang</segment></segment> paling menyenangkan bagi saya    </body>
+</document>

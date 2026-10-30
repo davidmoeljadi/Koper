@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023MESE103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Apakah Anda <segment id='1' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='tentang'>tahu pulau</segment> ini? Ini adalah pulau yang disebut Bali. Bali adalah pulau yang terkenal di seluruh dunia. Laut di Bali sangat indah dan populer di Jepang. Bali juga memiliki kekayaan alam dengan banyak hutan. <segment id='2' features='eror;gramatikal;kalimat;kalsub' state='active' correction='Perjalanan ke Bali dapat dicapai dalam waktu sekitar 8 jam dari Jepang'>Dapat dicapai <segment id='3' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='waktu' parent='2'>dalam sekitar</segment> 8 jam dari Jepang.</segment> Di Bali, Anda dapat berkomunikasi tidak hanya dengan bahasa <segment id='4' features='eror;ejaan;ejtb' state='active' comment='Kekurangan koma' correction='Indonesia, tetapi'>Indonesia tetapi</segment> juga dengan bahasa Bali. Di Bali, <segment id='5' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='juga'>Anda dapat</segment> menikmati olahraga air seperti menyelam. Saya ingin pergi ke Bali dan <segment id='7' features='eror;leksikal;kata;vrbs' state='active' correction='mencoba'>melakukan</segment> <segment id='6' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='menyelam'>penyelaman</segment>.
+Daya tarik Bali juga terletak pada <segment id='9' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='kulinernya'>kuliner</segment>. Di Bali, Anda dapat <segment id='10' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='berbagai'>mencoba hidangan</segment> seperti sate lilit dan bebek betutu. <segment id='11' features='eror;gramatikal;frasa-nomina;pron0' state='active'>Mari semua</segment> <segment id='8' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>mencoba</segment> pergi ke Bali!    </body>
+</document>

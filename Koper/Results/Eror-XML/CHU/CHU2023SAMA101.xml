@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023SAMA101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Saya tinggal sendirian di Tokyo. Saya dari Tochigi. Saya punya adik laki-laki. Nama dia [NAMA]. Dia murid SMA. Dia tinggal di <segment id='1' features='eror;ejaan;ejhrf' state='active'>Tichigi</segment> dengan orang tua saya.
+Nama <segment id='2' features='eror;gramatikal;frasa-nomina;pron0' state='active'>ibu [NAMA]</segment>. Ibu saya ibu rumah tangga. Nama <segment id='3' features='eror;gramatikal;frasa-nomina;pron0' state='active'>ayah [NAMA]</segment>. <segment id='4' features='eror;leksikal;kata;noms' state='active' correction='Ayah'>[NAMA]</segment> saya pegawai.    </body>
+</document>

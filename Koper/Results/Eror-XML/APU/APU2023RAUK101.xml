@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023RAUK101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Namanya [NAMA].
+Dia berasal <segment id='1' features='eror;leksikal;kata;preps' state='active'>di</segment> Jepang.
+Dia lahir dan besar di Kyoto.
+Dia mahasiswa <segment id='2' features='eror;ejaan;ejk' state='active'>fakultas</segment> ST.
+Sekarang dia tinggal di AP <segment id='4' features='eror;ejaan;ejsp' state='active'><segment id='3' features='eror;ejaan;ejk' state='active' parent='4'>house</segment>2</segment>.
+Hobi dia membaca <segment id='5' features='eror;ejaan;ejhrf' state='active'>dab</segment> <segment id='6' features='eror;ejaan;ejhrf' state='active'>menomton</segment> film.    </body>
+</document>

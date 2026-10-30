@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023RARI102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Restoran <segment id='1' features='eror;ejaan;ejk' state='active'>favorit saya</segment>
+
+Nama <segment id='2' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='restoran favorit'>favorit restoran</segment> saya Ocean <segment id='15' features='eror;ejaan;ejk' state='active'>house</segment>. 
+Restoran ini ada di <segment id='3' features='eror;ejaan;ejk' state='active' correction='Itoshima'>itoshima</segment>, Fukuoka, <segment id='4' features='eror;ejaan;ejtb' state='active' correction='kira-kira'>kira kira</segment> 10 menit dari <segment id='5' features='eror;ejaan;ejhrf' state='active' correction='stasiun'><segment id='16' features='eror;ejaan;ejk' state='active' parent='5'>stasium</segment></segment> <segment id='6' features='eror;ejaan;ejk' state='active' correction='Imajuku'>imajuku</segment>.
+Saya suka <segment id='7' features='eror;leksikal;kata;ktas' state='active' correction='restoran'>restaurant</segment> <segment id='8' features='eror;ejaan;ejtb' state='active' correction='ini karena'><segment id='17' features='eror;ejaan;ejsp' state='active' parent='8'>ini,<segment id='18' features='eror;ejaan;ejhrf' state='active' parent='17'>kerena</segment></segment></segment> ada banyak menu <segment id='9' features='eror;leksikal;kata;ktvar' state='active'>di restoran ini</segment>. 
+<segment id='10' features='eror;leksikal;ungkapan;ukps' state='active'>Tiram, mempertaruhkan, ikan, dan minuman.</segment> 
+Saya sangat suka tiram. <segment id='11' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Tiram di restoran ini sangat lembut dan kualitasnya bagus.'>Tiram di restoran ini sangat lembut. <segment id='20' features='eror;gramatikal;frasa-nomina;nya0' state='active' parent='11'>Tiram</segment> <segment id='19' features='eror;ejaan;ejhrf' state='active' parent='11'>angat</segment> bagus.</segment>
+<segment id='12' features='eror;ejaan;ejk' state='active' correction='Ada'>ada</segment> begitu banyak <segment id='21' features='eror;gramatikal;frasa-nomina;nom0' state='active'>pasangan di</segment> restoran <segment id='13' features='eror;leksikal;kata;dets' state='active' correction='ini'>itu</segment>. <segment id='14' features='eror;ejaan;ejhrf' state='active'><segment id='22' features='eror;leksikal;kata;konjs' state='active' parent='14'>Kerena</segment></segment>, <segment id='23' features='eror;leksikal;ungkapan;ukpa' state='active'>saya merekomendasikanmu kami.</segment>    </body>
+</document>

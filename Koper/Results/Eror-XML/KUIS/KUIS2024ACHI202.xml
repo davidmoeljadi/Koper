@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2024ACHI202.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='3' features='eror;ejaan;ejtb' state='active' comment='Kekurangan tanda baca koma [,] dan titik [.]' correction='Hai, Tuti.'>Hai Tuti</segment>
+
+<segment id='7' features='eror;leksikal;kata;prons' state='active' comment='Agar selaras dengan kalimat lain, penggunaan pronomina yang tepat adalah &quot;aku&quot;' correction='Aku'>Saya</segment> baru tahu tentang hal itu.
+Mungkin <segment id='1' features='eror;ejaan;ejk' state='active' comment='Penggunaan huruf kapital tidak perlu' correction='ibumu'>Ibumu</segment> menghawatirkan pernikahan kamu.
+Aku membuatmu dan keluargamu menunggu sangat lama <segment id='4' features='eror;gramatikal;frasa-adverbia;advx' state='active' comment='Adverbia &quot;lagi&quot; dapat dihilangkan'>lagi</segment>.
+<segment id='2' features='eror;leksikal;kata;prons' state='active' comment='Agar selaras dengan kalimat yang lain, penggunaan pronomina yang tepat adalah &quot;aku&quot;' correction='Aku'>Saya</segment> mempunyai banyak kenangan indah bersama Tuti, termasuk kencan pertama <segment id='6' features='eror;gramatikal;frasa-nomina;pronx' state='active'>saya</segment> dan pertarungan pertama <segment id='10' features='eror;leksikal;kata;prons' state='active' correction='kita'>kami</segment>.
+Aku menghargai semua kenangan itu.
+<segment id='12' features='eror;leksikal;kata;konjs' state='active' correction='Akan tetapi,'>Tetapi</segment> tidak apa-apa.
+<segment id='8' features='eror;leksikal;kata;prons' state='active' comment='Agar selaras dengan kalimat yang lain, penggunaan pronomina yang tepat adalah &quot;aku&quot;' correction='Aku'>Saya</segment> pikir akan ada banyak hal menyenangkan dan banyak <segment id='5' features='eror;gramatikal;frasa-adverbia;adv0' state='active' comment='Kekurangan adverbia &quot;harus&quot;' correction='hal harus diatasi'>hal diatasi</segment>.
+Namun, aku ingin menikmati sisa hidupku bersama Tuti.
+Bertemu denganmu adalah hal yang paling membahagiakan <segment id='9' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>di</segment> dalam hidup aku.
+Aku ingin kamu tetap di sisiku selamanya.
+Aku pasti akan membuatmu bahagia.
+Aku mencintaimu.
+Silakan menikah <segment id='11' features='eror;leksikal;kata;prons' state='active' correction='denganku'>dengan saya</segment>.
+
+Salam sayang,
+Rona    </body>
+</document>

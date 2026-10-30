@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023MESE101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejk' state='active'>nama</segment> saya <segment id='2' features='eror;ejaan;ejtb' state='active'>[NAMA]</segment>
+Saya tinggal di rumah orang tua saya di Kanagawa.
+Saya mempunyai satu saudara perempuan. Kakak perempuan saya tinggal di rumah bersama saya.
+Nama adik<segment id='3' features='eror;leksikal;kata;prons' state='active'>ku</segment> adalah [NAMA].
+Setelah lulus dari universitas, saudara perempuan saya bekerja sebagai karyawan perusahaan.    </body>
+</document>

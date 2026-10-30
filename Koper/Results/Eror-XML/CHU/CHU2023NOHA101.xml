@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023NOHA101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya <segment id='1' features='eror;ejaan;ejsp' state='active'>[NAMA] .Saya</segment> tinggal di Hachioji. Saya dari Tokyo. Saya punya adik perempuan. Dia tinggal di Tokyo dengan orang tua kami. Nama ayah saya <segment id='3' features='eror;ejaan;ejsp' state='active'>[NAMA] ,dan</segment> nama ibu saya <segment id='9' features='eror;ejaan;ejsp' state='active'>[NAMA].Ayah</segment> saya <segment id='10' features='eror;ejaan;ejsp' state='active'>karyawan.Ibu</segment> <segment id='2' features='eror;gramatikal;frasa-nomina;urtfn' state='active'>juga saya</segment> <segment id='4' features='eror;ejaan;ejsp' state='active'>karyawan .Nama</segment> adik perempuan saya <segment id='5' features='eror;ejaan;ejsp' state='active'>[NAMA].Dia</segment> <segment id='11' features='eror;leksikal;kata;noms' state='active'>mahasiswa</segment> <segment id='8' features='eror;ejaan;ejsp' state='active'>SMP.Saya</segment> juga punya kakek dan nenek. Mereka tinggal di <segment id='6' features='eror;ejaan;ejsp' state='active'>Tokyo.Kakek</segment> saya orang Jepang dan nenek <segment id='7' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='juga'>saya orang</segment> Jepang.    </body>
+</document>

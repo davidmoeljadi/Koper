@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023ZAIT101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama dia [NAMA].
+Dia berasal dari Hyogo.
+Sekarang dia tinggal di Kamegawa.
+Dia mahasiswa <segment id='1' features='eror;ejaan;ejhrf' state='active'><segment id='2' features='eror;ejaan;ejk' state='active' parent='1'>falultas</segment></segment> APS.
+Dia bekerja sampingan sebagai staf acara.
+<segment id='3' features='eror;gramatikal;frasa-nomina;nya0' state='active'>Hobi</segment> <segment id='4' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>mendengar</segment> <segment id='5' features='eror;ejaan;ejtb' state='active'>musik</segment>
+Dia tidak ikut klub di APU.    </body>
+</document>

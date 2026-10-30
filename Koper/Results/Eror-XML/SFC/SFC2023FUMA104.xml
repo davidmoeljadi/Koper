@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023FUMA104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Rumah saya ada di depan <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='stasiun'>stasium</segment>.
+Dari rumah saya ke <segment id='11' features='eror;gramatikal;frasa-verba;vrb0' state='active'><segment id='2' features='eror;ejaan;ejhrf' state='active' correction='stasiun' parent='11'>stasium</segment> tiga</segment> menit.
+<segment id='15' features='eror;leksikal;kata;preps' state='active' correction='Di'>Dari</segment> lantai empat, <segment id='12' features='eror;leksikal;kata;noms' state='active' correction='ruang tamu'>ruang duduk</segment>nya menghadap ke ngarai.
+<segment id='14' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='Rumah saya ada di antara dua restoran.'>Di <segment id='13' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='dua' parent='14'>antara <segment id='3' features='eror;leksikal;kata;ktas' state='active' correction='restoran' parent='13'>restaurant</segment></segment> ada <segment id='10' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='14'>di</segment> rumah saya.</segment>
+<segment id='4' features='eror;ejaan;ejsp' state='active' correction='Di dalam'>Di  dalam</segment> kamar<segment id='16' features='eror;leksikal;kata;prons' state='active'>ku</segment> ada majalah dan lain-lain.
+Pensil dan buku ada di atas meja.
+<segment id='9' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='Bola ada di sebelah tempat tidur'>Tempat tidur ada di sebelah <segment id='5' features='eror;ejaan;ejtb' state='active' correction='bola dan'>bola</segment>,<segment id='6' features='eror;ejaan;ejsp' state='active' correction='dan kaus'>dan</segment>  <segment id='7' features='eror;ejaan;ejk' state='active' correction='kaus' parent='6'>Kaus</segment></segment> ada di samping kiri tempat tidur. Kucing ada di dalam <segment id='8' features='eror;leksikal;kata;ktas' state='active' correction='boks.'>box</segment>.    </body>
+</document>

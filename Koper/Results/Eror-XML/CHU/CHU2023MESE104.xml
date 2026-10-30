@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023MESE104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Namannya [NAMA] [NAMA].
+<segment id='2' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari Saitama.
+Dia bangun tepat jam 6 tadi pagi.
+Dia makan <segment id='1' features='eror;leksikal;kata;noms' state='active' comment='Kata yang tepat di sini adalah &quot;nasi&quot;. Beras adalah padi yang terkelupas dari kulitnya (harus ditanak untuk menjasdi nasi).' correction='nasi' parent='2'>beras</segment> dan ikan salmon.
+Dia minum soda.
+Dia pergi ke Universitas <segment id='3' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='dengan' parent='2'>Chuo mobil.</segment>
+Dia <segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='belajar bahasa Jerman' parent='2'>belajar Jerman</segment> dari jam <segment id='5' features='eror;ejaan;ejsp' state='active' comment='kurang spasi antara kata &quot;jam 11&quot; dan &quot; pagi&quot;.' correction='jam 11 pagi' parent='2'>11pagi</segment> sampai jam setengah <segment id='6' features='eror;lainnya;lain' state='active' parent='2'>13</segment>.
+Dia makan siang di kelas dengan teman.
+Dia dan kucingnya <segment id='8' features='eror;gramatikal;frasa-nomina;pronx' state='active' comment='hilangkan pronomina &quot;dia&quot; karena mengandung pemborosan kata. Akhiran (-nya) pada kata &quot;kucingnya&quot; sudah bermakna bahwa kucing tersebut adalah milik tokoh yang sedang diceritakan.' correction='Dia dan kucingnya berjalan-jalan...' parent='2'>dia</segment> berjalan-jalan di taman dari jam <segment id='9' features='eror;lainnya;lain' state='active' parent='2'>15</segment> <segment id='11' features='eror;leksikal;kata;noms' state='active' parent='2'>pagi</segment> sampai jam <segment id='10' features='eror;lainnya;lain' state='active' correction='jam 5 sore.' parent='2'>17</segment>.
+Dia tidur jam <segment id='12' features='eror;lainnya;lain' state='active' parent='2'>20</segment> malam.</segment>    </body>
+</document>

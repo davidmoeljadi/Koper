@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2024AIRE101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA] [NAMA]. Ulang <segment id='1' features='eror;leksikal;kata;prons' state='active' correction='tahun saya'>tahunku</segment> tanggal 10 Agustus. <segment id='4' features='eror;leksikal;kata;ktvar' state='active'>Saya <segment id='2' features='eror;gramatikal;frasa-nomina;nomx' state='active' parent='4'>murid</segment> mahasiswa. Saya bangun jam 8 tepat. Saya pulang dari Universitas Chuo ke rumah jam <segment id='3' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='setengah 5' parent='4'>5 setengah</segment> sore. Saya tidur jam 2 pagi setiap hari. Saya suka belajar bahasa Indonesia!</segment>    </body>
+</document>

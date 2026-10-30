@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023TABU101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA] [NAMA]. <segment id='2' features='eror;leksikal;kata;ktvar' state='active'>Saya tinggal sendirian di Tokyo. Saya dari Okinawa. Saya punya kakak perempuan.</segment> Dia <segment id='3' features='eror;ejaan;ejsp' state='active'>tinggal  sendirian</segment> di Osaka. Nama ayah saya <segment id='1' features='eror;ejaan;ejtb' state='active'>[NAMA], dan</segment> nama ibu saya [NAMA]. Ibu saya ibu rumah tangga dan ayah saya guru. Nama kakak perempuan saya [NAMA]. Dia guru di Osaka. Saya tidak punya kakek dan nenek. Mereka telah meninggal dunia.    </body>
+</document>

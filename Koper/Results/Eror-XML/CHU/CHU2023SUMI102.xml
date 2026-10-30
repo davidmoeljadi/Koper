@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023SUMI102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan saya ada <segment id='2' features='eror;ejaan;ejtb' state='active'>kursi <segment id='1' features='eror;gramatikal;konjungsi;konjx' state='active' parent='2'>dan</segment> meja dan</segment> <segment id='4' features='eror;ejaan;ejsp' state='active'><segment id='3' features='eror;ejaan;ejhrf' state='active' parent='4'>jendala</segment>.Kursi</segment> ada di dekat <segment id='5' features='eror;ejaan;ejsp' state='active'>meja.Komputer</segment> ada di atas <segment id='6' features='eror;ejaan;ejsp' state='active'>meja.Pena</segment> ada di dalam laci <segment id='7' features='eror;ejaan;ejsp' state='active'>meja.Saya</segment> belajar menggunakan <segment id='8' features='eror;ejaan;ejsp' state='active'>meja.Jam</segment> dinding ada di atas <segment id='10' features='eror;ejaan;ejsp' state='active'><segment id='9' features='eror;ejaan;ejhrf' state='active' parent='10'>jendala</segment>.Saya</segment> melihat waktu <segment id='11' features='eror;ejaan;ejhrf' state='active'>mengguakan</segment> jam dinding.    </body>
+</document>

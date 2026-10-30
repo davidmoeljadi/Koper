@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023NGEV103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='12' features='eror;ejaan;ejk' state='active' correction='Paruh Waktu Favorit Saya'><segment id='2' features='eror;ejaan;ejhrf' state='active' correction='Paruh' parent='12'><segment id='19' features='eror;gramatikal;frasa-nomina;nom0' state='active' parent='2'>Panih</segment></segment> waktu favorit saya</segment>
+
+Sekarang saya bekerja sampingan <segment id='1' features='eror;leksikal;kata;adjs' state='active'>rupa-rupa</segment> di kampus dan di <segment id='15' features='eror;ejaan;ejtb' state='active' correction='.'>restoran
+<segment id='16' features='eror;gramatikal;frasa-nomina;nom0' state='active' parent='15'>Paruh</segment></segment> waktu favorit kesatu <segment id='3' features='eror;gramatikal;frasa-nomina;nom0' state='active'>saya paruh</segment> waktu di restoran <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='karena'>kerena</segment> <segment id='6' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='manajer restoran'>restoran <segment id='5' features='eror;leksikal;kata;ktas' state='active' correction='manajer' parent='6'>manager</segment></segment> <segment id='7' features='eror;ejaan;ejhrf' state='active' correction='sangat'>sengat</segment> baik hati. 
+<segment id='9' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='teman kerja'><segment id='8' features='eror;gramatikal;frasa-nomina;nomafx' state='active' correction='kerja' parent='9'>Bekerja</segment> teman</segment> saya orang <segment id='10' features='eror;ejaan;ejhrf' state='active'>Vietman</segment> <segment id='11' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='ia'><segment id='20' features='eror;gramatikal;konjungsi;konjx' state='active' parent='11'>dan</segment></segment> juga ramah <segment id='17' features='eror;ejaan;ejtb' state='active' correction='.'>sekali 
+<segment id='21' features='eror;gramatikal;frasa-nomina;nom0' state='active' parent='17'>Paruh</segment></segment> waktu saya di restoran tidak terlalu banyak. Saya bekerja sampingan hari Sabtu dan Minggu. Saya bekerja dari pagi sampai <segment id='13' features='eror;ejaan;ejtb' state='active' correction='siang,'>siang <segment id='14' features='eror;leksikal;kata;ktinf' state='active' correction='tetapi' parent='13'>tapi</segment></segment> saya suka <segment id='22' features='eror;ejaan;ejhrf' state='active'>kerena</segment> <segment id='23' features='eror;gramatikal;frasa-verba;vrbaux0' state='active'>saya makan</segment> siang di restoran. Makanan di <segment id='24' features='eror;gramatikal;frasa-nomina;nya0' state='active'>restoran</segment> <segment id='18' features='eror;ejaan;ejhrf' state='active' correction='sangat'>sengat</segment> enak.    </body>
+</document>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023NGAN101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejhrf' state='active'>Mana</segment> dia [NAMA].
+<segment id='2' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari Jepang.
+Dia <segment id='6' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='lahir dan besar' parent='2'>besar dan lahir</segment> di Kanagawa.
+Dia tinggal di Ishigaki.
+Dia mahasiswa <segment id='7' features='eror;ejaan;ejtb' state='active' parent='2'>APU, <segment id='9' features='eror;ejaan;ejk' state='active' parent='7'>fakultas</segment></segment> <segment id='8' features='eror;ejaan;ejtb' state='active' parent='2'>APS, <segment id='10' features='eror;ejaan;ejk' state='active' parent='8'>jurusan</segment></segment> <segment id='11' features='eror;leksikal;kata;ktas' state='active' parent='2'>Hospitality and Tourism</segment>.</segment>
+Ya, dia bekerja <segment id='3' features='eror;ejaan;ejhrf' state='active'>sanpinggan</segment> di hotel.
+Hobi dia <segment id='4' features='eror;ejaan;ejhrf' state='active'>tudur</segment> and jalan-jalan.
+Ya, dia ikut <segment id='5' features='eror;ejaan;ejk' state='active'>klub</segment> OSA.    </body>
+</document>

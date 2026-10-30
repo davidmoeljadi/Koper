@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023NANE102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di ruangan saya ada <segment id='1' features='eror;ejaan;ejsp' state='active'>meja,kursi</segment>, rak <segment id='2' features='eror;gramatikal;konjungsi;konj0' state='active'>buku, 
+tempat</segment> tidur. Meja ada di dekat pintu. 
+Di atas meja ada komputer.    </body>
+</document>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023NOKO101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat siang<segment id='1' features='eror;ejaan;ejtb' state='active'>.</segment> <segment id='2' features='eror;ejaan;ejk' state='active'>Teman-teman</segment>. Apa kabar?
+Nama saya &lt;NAMA&gt;. Panggil saya &lt;NAMA&gt;. <segment id='3' features='eror;ejaan;ejhrf' state='active'>aya</segment> orang <segment id='4' features='eror;ejaan;ejk' state='active'>jepang</segment>. Saya dari Kota Narita <segment id='5' features='eror;ejaan;ejhrf' state='active'>Provinci</segment> Chiba.
+Saya mahasiswa <segment id='6' features='eror;ejaan;ejhrf' state='active'>tinkat</segment> satu.
+<segment id='19' features='eror;gramatikal;frasa-nomina;nom0' state='active'>Saya <segment id='7' features='eror;ejaan;ejhrf' state='active' parent='19'>plogram</segment></segment> Bahasa <segment id='20' features='eror;ejaan;ejtb' state='active'>Indonesia Jurusan</segment> Bahasa <segment id='21' features='eror;ejaan;ejtb' state='active'>Asia Universitas</segment> Bahasa <segment id='8' features='eror;ejaan;ejhrf' state='active'>Siang</segment> Kanda.
+Saya <segment id='9' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>berajar</segment> <segment id='11' features='eror;ejaan;ejk' state='active'>Bahasa</segment> Indonesia.
+
+Hobi saya <segment id='10' features='eror;ejaan;ejhrf' state='active'>menomtom</segment> film dan <segment id='12' features='eror;ejaan;ejhrf' state='active'>bremain</segment> drum.
+Saya suka <segment id='13' features='eror;ejaan;ejtb' state='active'>roti nasi goreng</segment> dan <segment id='14' features='eror;ejaan;ejhrf' state='active'>mie</segment> goreng.
+<segment id='15' features='eror;ejaan;ejhrf' state='active'>Senam</segment> <segment id='16' features='eror;ejaan;ejhrf' state='active'>berutem</segment> <segment id='17' features='eror;ejaan;ejhrf' state='active'>dumgan</segment> Anda.
+<segment id='18' features='eror;ejaan;ejhrf' state='active'><segment id='22' features='eror;ejaan;ejsp' state='active' parent='18'>Terimakasi</segment></segment>.    </body>
+</document>

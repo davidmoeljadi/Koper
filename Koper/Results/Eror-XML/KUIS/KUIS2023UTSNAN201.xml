@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023UTSNAN201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='5' features='eror;gramatikal;kalimat;kalsub' state='active'>Baik.</segment> <segment id='7' features='eror;gramatikal;kalimat;kalsub' state='active'>Apa kabar?</segment> 
+Aku juga ingin sekali bertemu.
+<segment id='6' features='eror;leksikal;kata;prons' state='active' correction='aku'>Saya</segment> merasa seperti sudah 1000 tahun.
+Kapan kita bisa bertemu?
+Minggu <segment id='1' features='eror;ejaan;ejsp' state='active'>ini  aku</segment> sibuk sekali.
+Tapi aku tidak ada rencana siang minggu depan, jadi kita bisa bertemu.
+<segment id='8' features='eror;gramatikal;konjungsi;konj0' state='active' correction='kalau'>Bagaimana hari</segment> Senin?
+<segment id='2' features='eror;leksikal;kata;prons' state='active' comment='‘Skya’ merupakan kesalahan penulisan dari kata ‘saya’. Namun, untuk menjaga konsistensi penggunaan pronomina, kata tersebut diganti menjadi ‘aku’.' correction='Aku'><segment id='9' features='eror;ejaan;ejhrf' state='active' parent='2'>Skya</segment></segment> tidak punya rencana sepanjang hari.
+Mari kita bicara tentang kapan kita menikah ketika kita bertemu.
+<segment id='4' features='eror;ejaan;ejtb' state='active' correction='Kemudian,'><segment id='3' features='eror;ejaan;ejk' state='active' correction='Kemudian' parent='4'>kemudian</segment> <segment id='10' features='eror;gramatikal;kalimat;kalsub' state='active'>pergi</segment> berbicara dengan ibumu.</segment>    </body>
+</document>

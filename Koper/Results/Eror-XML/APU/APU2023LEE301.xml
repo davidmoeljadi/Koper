@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023LEE301.txt</textfile>
+    <lang>indonesian</lang>
+  </header>
+    <body>
+Nama saya &lt;NAMA&gt;. Saya <segment id='1' features='eror;ejaan;ejhrf' state='active'>dalah</segment> seorang mahasiswa tahun kedua di sebuah universitas di Beppu, Jepang. Saya akan bercerita tentang keluarga saya. 
+
+Saya <segment id='12' features='eror;gramatikal;frasa-preposisi;prep0' state='active'><segment id='10' features='eror;leksikal;kata;ktinf' state='active' parent='12'><segment id='11' features='eror;leksikal;kata;vrbs' state='active' parent='10'>aslinya</segment></segment> Singapura</segment>. Di Singapura, saya tinggal di Clementi yang terletak di barat Singapura. Anggota keluarga saya ada 6 orang, yaitu saya sendiri, orang tua saya, kakak perempuan saya, <segment id='2' features='eror;gramatikal;frasa-nomina;urtfn' state='active'>lelaki kakak <segment id='13' features='eror;ejaan;ejtb' state='active'>saya</segment> dan</segment> istri kakak saya. Di rumah, kami juga memelihara 1 ekor anjing dan 1 ekor kucing. 
+
+Kakak perempuan saya ialah anak sulung, berusia 27 tahun. Dia bekerja sebagai pekerja sosial. Kakak lelaki saya ialah anak kedua, berusia 26 tahun. Istri kakak saya berusia 24 tahun. <segment id='3' features='eror;gramatikal;frasa-nomina;nya0' state='active'>Dua-dua</segment> bekerja sebagai dokter. 
+
+Di <segment id='4' features='eror;ejaan;ejk' state='active'>Keluarga</segment> kami, ada 1 ekor anjing dan 1 ekor kucing. Mereka <segment id='5' features='eror;ejaan;ejk' state='active'>Bernama</segment> Gou Gou dan Momin. Anjing saya berumur 10 tahun <segment id='6' features='eror;ejaan;ejsp' state='active'>ini .</segment> Kucing saya tahun ini berumur 3. Mereka berdua suka tidur di kamar saya. Sehabis <segment id='14' features='eror;gramatikal;frasa-verba;urtfv' state='active'>sekolah saya</segment>, saya selalu pergi ke bawah <segment id='15' features='eror;ejaan;ejtb' state='active'>berjalan jalan</segment> dengan <segment id='7' features='eror;ejaan;ejk' state='active'>Anjing</segment> saya setiap hari. 
+
+Rumah kami tidak terlalu <segment id='16' features='eror;ejaan;ejtb' state='active'>besar tapi</segment> tidak kecil. Ada 4 kamar tidur, 1 ruang tamu, 1 <segment id='8' features='eror;leksikal;kata;noms' state='active' correction='ruang'>rumah</segment> makan, 1 <segment id='17' features='eror;ejaan;ejtb' state='active'>dapur dan</segment> 2 kamar mandi. <segment id='9' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>Rumah</segment> kami tidak ada halaman. Rumah saya berada di <segment id='18' features='eror;gramatikal;frasa-nomina;urtfn' state='active'>lantai dua puluh dua <segment id='19' features='eror;ejaan;ejk' state='active' parent='18'>Gedung</segment></segment>.    </body>
+</document>

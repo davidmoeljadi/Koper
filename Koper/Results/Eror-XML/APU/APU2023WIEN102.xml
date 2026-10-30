@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023WIEN102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Kafe Favorit <segment id='3' features='eror;ejaan;ejk' state='active'>saya</segment>
+
+Nama kafe favorit saya adalah Starbucks.
+Kafe ini ada di dekat rumah saya, kira-kira 5 menit dengan sepeda.
+Saya suka kafe <segment id='1' features='eror;ejaan;ejtb' state='active'>ini, karena</segment> ramai <segment id='2' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>di</segment> <segment id='4' features='eror;gramatikal;frasa-nomina;nomx' state='active'>kafe</segment> <segment id='5' features='eror;gramatikal;frasa-nomina;detx' state='active'>ini</segment>.
+Saya juga suka kopi mereka.
+Mereka merilis minuman baru setiap dua bulan.
+Minumannya <segment id='6' features='eror;ejaan;ejtb' state='active'>enak, dan</segment> kue matchanya juga enak.
+Saya sering pergi dengan teman-teman. Kadang-kadang saya bertemu dengan teman saya.
+Silakan pergi ke kafe ini.    </body>
+</document>

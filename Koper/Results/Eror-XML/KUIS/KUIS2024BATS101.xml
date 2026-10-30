@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2024BATS101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Memperkenalkan <segment id='1' features='eror;ejaan;ejk' state='active' comment='Merupakan bagian dari judul sehingga perlu dikapital' correction='Diri Saya'>diri saya</segment>
+
+<segment id='2' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Sekamat siang, perkenalkan nama saya [NAMA]'>Selamat siang.Perkenalkan.Nama saya <segment id='3' features='eror;ejaan;ejsp' state='active'>[NAMA].</segment>Nama</segment> Indonesia saya <segment id='4' features='eror;ejaan;ejsp' state='active'>[NAMA].<segment id='5' features='eror;ejaan;ejk' state='active' correction='Tolong' parent='4'>TOlong</segment></segment> panggil <segment id='6' features='eror;ejaan;ejsp' state='active'>[NAMA].Saya</segment> orang Jepang <segment id='7' features='eror;gramatikal;konjungsi;konj0' state='active' comment='Tanpa konjungsi [dan]' correction='Saya orang Jepang dari kota Chiba.'>dan</segment> dari kota Chiba <segment id='8' features='eror;gramatikal;frasa-nomina;nomx' state='active' correction='Saya orang Jepang dari kota Chiba.'>provinsi Chiba</segment>.Saya mahasiswa tingkat 1 jurusan bahasa <segment id='9' features='eror;ejaan;ejtb' state='active' correction='Indonesia, Universitas'>Indonesia Universitas</segment> Bahasa Asing <segment id='10' features='eror;ejaan;ejsp' state='active'>Kanda.Saya</segment> belajar bahasa Indonesia dan bahasa Inggris di <segment id='11' features='eror;ejaan;ejsp' state='active'>universitas.Hobi</segment> saya <segment id='12' features='eror;ejaan;ejsp' state='active'>menari.Saya</segment> suka makan banyak <segment id='13' features='eror;ejaan;ejsp' state='active'>makanan.Saya</segment> tinggal di kota <segment id='14' features='eror;ejaan;ejsp' state='active'>Chiba.Senan</segment>g bertamu dengan Anda.Terima kasih.    </body>
+</document>

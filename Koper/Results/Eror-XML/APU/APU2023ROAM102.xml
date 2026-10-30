@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023ROAM102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tempat Favorit Saya
+
+<segment id='14' features='eror;gramatikal;kalimat;kalpen' state='active' comment='Dua kalimat dapat disatukan karena memiliki inti kalimat yang sama, yaitu nama tempat favorit dan lokasi tempat.' correction='Nama tempat favorit saya adalah Perpustakan Daerah Oita yang ada di daerah Oita.'>Nama tempat favorit saya adalah <segment id='7' features='eror;ejaan;ejk' state='active' comment='Huruf &quot;P&quot; dan &quot;D&quot; dikapitalisasi karena termasuk nama diri perpustakaan, yaitu &quot;Oita Prefectural Library&quot; yang dalam bahasa Indonesia dapat ditulis &quot;Perpustakaan Daerah Oita&quot;' correction='Perpustakaan Daerah' parent='14'>perpustakaan daerah</segment> Oita.
+Perpustakaan <segment id='6' features='eror;ejaan;ejk' state='active' parent='14'>daerah</segment> Oita ada di daerah Oita.</segment>
+<segment id='10' features='eror;leksikal;kata;ktvar' state='active' comment='Dalam dua kalimat, terdapat kata &quot;tempat ini&quot; dan &quot;di sana&quot; secara berulang sehingga kalimat tidak bervariasi.'>Saya suka ruang belajar <segment id='5' features='eror;ejaan;ejk' state='active' comment='Huruf &quot;P&quot;dan &quot;D&quot; dikapitalisasi karena termasuk nama diri perpustakaan, yaitu &quot;Oita Prefectural Library&quot; yang dalam bahasa Indonesia dapat ditulis &quot;Perpustakaan Daerah Oita&quot;' correction='Perpustakaan Daerah Oita' parent='10'>perpustakaan daerah</segment> Oita <segment id='2' features='eror;ejaan;ejtb' state='active' parent='10'><segment id='1' features='eror;ejaan;ejhrf' state='active' correction='karena' parent='2'>kerena</segment>, tempat</segment> ini <segment id='3' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='10'>di</segment> <segment id='8' features='eror;gramatikal;frasa-nomina;nomx' state='active' parent='10'>sana</segment> sepi sekali.
+Saya belajar dan mengerjakan PR di tempat ini <segment id='9' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='10'>di</segment> <segment id='15' features='eror;gramatikal;frasa-nomina;nomx' state='active' parent='10'>sana</segment>.</segment> 
+Biasanya saya <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='meminjam'>meninjam</segment> buku di perpustakaan untuk referensi dalam laporan. 
+<segment id='13' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Perpustakaan Daerah Oita memiliki banyak buku serta ruang belajar yang bersih dan rapi.'>Perpustakaan <segment id='12' features='eror' state='active' comment='Huruf &quot;D&quot; dikapitalisasi karena termasuk nama diri perpustakaan, yaitu &quot;Oita Prefectural Library&quot; yang dalam bahasa Indonesia dapat ditulis &quot;Perpustakaan Daerah Oita&quot;' correction='Daerah' parent='13'>daerah</segment> Oita <segment id='11' features='eror;leksikal;kata;vrbs' state='active' parent='13'>ada</segment> banyak buku.
+Ruang <segment id='16' features='eror;gramatikal;frasa-nomina;yg0' state='active' parent='13'>belajar bersih</segment> dan rapi sekali.</segment>
+Silakan pergi ke tempat ini.    </body>
+</document>

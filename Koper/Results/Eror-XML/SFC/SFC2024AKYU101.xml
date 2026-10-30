@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2024AKYU101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di kamar saya dan adik perempuan saya ada banyak <segment id='1' features='eror;leksikal;kata;noms' state='active' comment='Buah biasanya di dapur, di dalam kulkas. Kemudian, kalimat sebelumnya merincikan barang-barang. Jadi, seharusnya kata ini adalah &quot;barang&quot;, bukan &quot;buah&quot;.' correction='barang'>buah</segment>. Ada banyak buku, dua lemari, dua meja, dua <segment id='3' features='eror;ejaan;ejtb' state='active' correction='kursi, dan'><segment id='2' features='eror;ejaan;ejhrf' state='active' correction='kursi' parent='3'>kurusi</segment> dan</segment> satu tempat tidur. Tempat tidur saya tidak ada di kamar. Di meja adik <segment id='4' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='perempuan saya ada'>perempuan ada</segment> satu gelas dan dua kamus. Meja kami <segment id='6' features='eror;leksikal;kata;vrbs' state='active' correction='memiliki'>ada</segment> laci. Di dalam laci ada satu kamus bahasa Inggris, dua kamus bahasa <segment id='5' features='eror;ejaan;ejtb' state='active' correction='Jepang, dan'>Jepang dan</segment> satu kamus bahasa Spanyol.    </body>
+</document>

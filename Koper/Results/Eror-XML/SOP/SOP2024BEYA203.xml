@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2024BEYA203.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Makanan yang paling saya suka adalah <segment id='1' features='eror;ejaan;ejk' state='active' correction='nasi'>Nasi</segment> ayam hainan. Itu berasal dari Cina, tetapi umumnya dimakan di Malaysia dan Singapura.
+Makanan ini disajikan dengan ayam panggang di atas nasi yang dimasak dengan kaldu ayam, saus sambal, dan irisan mentimun.
+Saya <segment id='2' features='eror;gramatikal;frasa-adverbia;advafx' state='active' correction='utamanya'>terutama</segment> menyukai <segment id='6' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='nasi ayam hainan'>nasi ayam</segment> yang disantap di Ipoh. Itu disajikan dengan <segment id='7' features='eror;leksikal;kata;ktinf' state='active' correction='taoge'>tauge</segment> segar <segment id='8' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='dan rasanya sangat enak!'>dan sangat</segment> enak! Selain itu, harga <segment id='3' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='nasi ayam hainan'>nasi ayam</segment> juga sangat murah. Di Malaysia, Anda bisa makan dengan harga sekitar <segment id='4' features='eror;ejaan;ejtb' state='active' correction='15RM ayai'>15RM, atau</segment> sekitar 400 yen. Jika Anda pernah ke Malaysia atau Singapura, pastikan untuk mencoba <segment id='5' features='eror;ejaan;ejk' state='active' correction='nasi'>Nasi</segment> ayam <segment id='9' features='eror;ejaan;ejk' state='active' correction='hainan'>Hainan</segment>!    </body>
+</document>

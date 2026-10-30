@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2025AITS104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya akan bercerita tentang rumah dan kamar saya.
+Saya tinggal dengan keluarga di Adachi.
+Rumah saya ada di <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='dekat'>dikat</segment> taman.
+<segment id='2' features='eror;ejaan;ejhrf' state='active' correction='Dekat'>Dikat</segment> rumah saya ada banyak rumah.
+Kira-kira 3 <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='menit'>minit</segment> dengan berjalan kaki ada minimarket.
+Di sebelah rumah saya <segment id='5' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='jalan besar'><segment id='4' features='eror;ejaan;ejhrf' state='active' correction='besar' parent='5'>basar</segment> jalan</segment>.
+Jalan itu selalu ada banyak mobil yang melintas.
+Rumah saya putih dan <segment id='6' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='tiga lantai'>lantai tiga</segment>.
+Rumah saya ada satu mobil dan lima sepeda.
+Kamar saya <segment id='7' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='di'>ada lantai</segment> tiga.
+Saya selalu pergi <segment id='8' features='eror;leksikal;kata;preps' state='active' correction='ke'>di</segment> situ dengan tangga.
+Di dalam kamar saya ada TV, <segment id='10' features='eror;ejaan;ejtb' state='active' correction='kursi, meja'>kursi <segment id='9' features='eror;gramatikal;konjungsi;konjx' state='active' parent='10'>dan</segment> <segment id='11' features='eror;gramatikal;konjungsi;konj0' state='active' correction='meja, dan tempat'>meja</segment>, tempat</segment> tidur.
+Tempat tidur saya abu-abu.
+Saya ada <segment id='12' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='di'>selalu <segment id='13' features='eror;leksikal;kata;prons' state='active' correction='situ' parent='12'>itu</segment></segment>.
+Di dalam kamar <segment id='14' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='ada'>saya tiga</segment> jendela.
+Dinding kamar saya <segment id='15' features='eror;ejaan;ejtb' state='active' correction='putih, tetapi'>putih tetapi</segment> lantai cokelat.
+<segment id='16' features='eror;leksikal;kata;ktvar' state='active'>Saya mau <segment id='17' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='lantai putih' parent='16'>putih lantai</segment>.
+Saya mau kamar saya <segment id='18' features='eror;gramatikal;frasa-adjektiva;adjafx' state='active' correction='bersih' parent='16'>membersihkan</segment>.
+Saya selalu lihat HP di atas tempat tidur.
+Saya suka itu.</segment>    </body>
+</document>

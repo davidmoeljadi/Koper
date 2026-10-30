@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2024AIAY105.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat <segment id='1' features='eror;ejaan;ejtb' state='active' correction='pagi.'>pagi</segment>
+Nama saya <segment id='2' features='eror;ejaan;ejtb' state='active' correction='[NAMA].'>[NAMA]</segment>
+<segment id='7' features='eror;leksikal;kata;ktvar' state='active'><segment id='3' features='eror;gramatikal;frasa-verba;vrb0' state='active' comment='Jika tidak menggunakan kata &quot;berasal&quot;, kalimat dapat bermakna kedatangan.' correction='Saya berasal dari' parent='7'>Saya dari</segment> <segment id='4' features='eror;ejaan;ejtb' state='active' correction='Tokyo.' parent='7'>Tokyo</segment>
+Saya tinggal di <segment id='5' features='eror;ejaan;ejtb' state='active' correction='Minowa.' parent='7'>Minowa</segment>
+Saya mahasiswa Universitas <segment id='6' features='eror;ejaan;ejtb' state='active' correction='Chuo.' parent='7'>Chuo</segment></segment>
+Hobi saya <segment id='8' features='eror;ejaan;ejtb' state='active' correction='menari.'>menari</segment>
+Senang berjumpa dengan Anda.    </body>
+</document>

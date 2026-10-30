@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023YOYUR101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat siang.
+<segment id='4' features='eror;ejaan;ejtb' state='active'>Kenalkan nama</segment> saya &lt;NAMA&gt;.
+Panggil saya &lt;NAMA&gt;.
+Saya orang Jepang.
+Saya dari <segment id='5' features='eror;ejaan;ejk' state='active'>kota</segment> <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='Ichikawa'>Ichikaw</segment>, Provinsi Chiba.
+Saya mahasiswa tingkat satu, Program <segment id='6' features='eror;ejaan;ejk' state='active'>bahasa</segment> <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='Indonesia'>Indoneshia</segment>, Jurusan Bahasa Asia, <segment id='7' features='eror;gramatikal;frasa-nomina;nom0' state='active'>Universitas Asing</segment> Kanda.
+Di universitas saya belajar bahasa Indonesia dan bahasa Inggris.
+Hobi saya bermain gitar.
+Saya suka omuraisu.
+Saya tinggal di <segment id='3' features='eror;ejaan;ejk' state='active' correction='Motoyawata'>motoyawata</segment>.
+Senang bertemu dengan Anda.
+Terima kasih.    </body>
+</document>

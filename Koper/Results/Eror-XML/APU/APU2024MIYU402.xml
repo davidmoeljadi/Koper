@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2024MIYU402.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Ibu [NAMA]
+Di tempat,
+
+Selamat pagi, <segment id='1' features='eror;ejaan;ejk' state='active' correction='Ibu'>ibu</segment> [NAMA]. Nama saya <segment id='2' features='eror;ejaan;ejtb' state='active' correction=','><segment id='3' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='siswa' parent='2'>[NAMA] yang</segment></segment> ada di kelas Bahasa 4. Saya tidak bisa hadir karena demam sejak dua hari yang lalu (Sabtu) dan akan pergi ke dokter hari ini. 
+<segment id='4' features='eror;leksikal;kata;konjs' state='active' correction='Oleh karena itu'>Jadi</segment>, saya akan <segment id='5' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='mengulas'>ulasan</segment> kelas kali ini dengan teman saya.
+Atas perhatian <segment id='6' features='eror;ejaan;ejtb' state='active' correction=','>Ibu saya</segment> ucapkan terima kasih.
+
+Hormat saya,
+
+[NAMA]    </body>
+</document>

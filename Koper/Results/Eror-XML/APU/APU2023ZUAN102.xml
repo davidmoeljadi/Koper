@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023ZUAN102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Restoran Favorit Saya
+
+・Nama restoran favorit saya adalah Kobeya.
+・Kobeya ada di dekat <segment id='17' features='eror;ejaan;ejk' state='active' comment='Bagian nama diri.' correction='Stasiun'>stasiun</segment> Mikage, kira-kira 10 menit dari <segment id='1' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='stasiun itu'>itu stasiun</segment>.
+・Restoran ini sedikit jauh dari rumah saya, tapi restoran ini <segment id='2' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='bagus sebagai tempat bertemu'><segment id='3' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='bagus sebagai tempat bertemu' parent='2'>bagus bertemu</segment></segment> dan <segment id='4' features='eror;leksikal;kata;vrbs' state='active' correction='berbincang'>bicara(talk)</segment> dengan teman.
+・Saya suka restoran <segment id='5' features='eror;ejaan;ejtb' state='active' correction='ini karena'>ini, karena</segment> ada banyak <segment id='6' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='menu roti'>roti menu</segment> di restoran ini.
+・Restoran ini juga ada semacam <segment id='7' features='eror;ejaan;ejsp' state='active' correction='spageti (pasta)'>spageti(pasta)</segment> atau kari, <segment id='8' features='eror;ejaan;ejtb' state='active' correction='minuman, dan'>minuman dan</segment> <segment id='9' features='eror;leksikal;kata;ktas' state='active' correction='makanan penutup'>dessert</segment>.
+・Restoran ini <segment id='10' features='eror;ejaan;ejsp' state='active' correction='luas, bersih'>luas ,<segment id='11' features='eror;ejaan;ejtb' state='active' correction='bersih, dan'>bersih</segment> dan</segment> sepi.
+・Restoran ini sedikit mahal.
+・<segment id='18' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='Setiap ke restoran ini'>Setiap <segment id='16' features='eror;leksikal;kata;noms' state='active' correction='restoran ini' parent='18'>saat</segment></segment>, saya pesan roti jeruk. 
+・Menurut <segment id='12' features='eror;ejaan;ejtb' state='active' correction='saya, rasa'>saya <segment id='13' features='eror;ejaan;ejhrf' state='active' correction='rasa' parent='12'>rasa<segment id='14' features='eror;gramatikal;frasa-nomina;nyax' state='active' parent='13'>yna</segment></segment></segment> roti <segment id='15' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='jeruknya'>jeruk</segment> enak dan manis sekali.
+・Silakan pergi ke restoran ini!    </body>
+</document>

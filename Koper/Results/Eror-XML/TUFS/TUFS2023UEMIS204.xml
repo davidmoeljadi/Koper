@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023UEMIS204.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+ Indonesia adalah negara dengan <segment id='1' features='eror;ejaan;ejhrf' state='active'>beragama</segment> budaya dan ras. Salah satu perayaan dan tradisi di Indonesia adalah Imlek. Tradisi Imlek di Indonesia selalu menyuguhkan pertunjukan-pertunjukan seru di berbagai kota di Indonesia. Biasanya kita bisa melihat atraksi barongsai ataupun para penari liong yang meliuk-liuk di jalanan.
+<segment id='2' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='Salah satu tradisi'> Tradisi</segment> Imlek di Indonesia biasanya makan bersama keluarga sebelum hari Imlek. Kemudian, <segment id='3' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>bertemu  saudara</segment> pada hari Imlek untuk makan bersama dan silaturahmi.
+Tradisi Imlek di <segment id='4' features='eror;ejaan;ejhrf' state='active'>Indoneisa</segment> selanjutnya adalah membagikan angpau. Orang dewasa <segment id='5' features='eror;gramatikal;frasa-nomina;yg0' state='active'>atau sudah</segment> menikah membagikan angpau ke anak-anak atau kepada yang belum menikah.
+<segment id='6' features='eror;ejaan;ejhrf' state='active'>Pda</segment> <segment id='8' features='eror;leksikal;kata;noms' state='active'>tahun</segment> Imlek, kita bisa <segment id='7' features='eror;ejaan;ejhrf' state='active'>munemukan</segment> banyak lampion atau lentera merah di kelenteng.    </body>
+</document>

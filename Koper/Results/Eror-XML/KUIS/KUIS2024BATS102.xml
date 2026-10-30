@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2024BATS102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Keluarga <segment id='1' features='eror;ejaan;ejk' state='active' comment='Merupakan bagian dari judul sehingga perlu dikapital' correction='Saya'>saya</segment>
+
+Selamat siang <segment id='2' features='eror;ejaan;ejsp' state='active' correction='teman-teman. Apa kabar?'>teman-teman.Apa</segment> kabar?
+Kali <segment id='3' features='eror;ejaan;ejsp' state='active' correction='ini, saya'>ini,saya</segment> mau memperkenalkan keluarga <segment id='4' features='eror;ejaan;ejsp' state='active' correction='saya. Keluarga'>saya.Keluarga</segment> saya terdiri atas <segment id='5' features='eror;ejaan;ejsp' state='active' correction='ayah, ibu, kakak laki-laki, dan saya.'>ayah,ibu,kakak <segment id='6' features='eror;ejaan;ejtb' state='active' comment='Kesalahan penggunaan tanda [-] dan perlunya pembubuhan tanda koma sebelum [dan] karena konteks kalimat merincikan.' correction='laki-laki, dan saya.'>laki-laki-</segment> dan saya.</segment>
+Nama ayah <segment id='7' features='eror;ejaan;ejsp' state='active' correction='[NAMA]. Dia'>[NAMA].<segment id='10' features='eror;leksikal;kata;ktvar' state='active' comment='Penggunaan kata [dia] secara repetitif di awal kalimat.'>Dia</segment> berasal dari <segment id='12' features='eror;ejaan;ejsp' state='active' parent='10'>Osaka.Dia</segment> <segment id='8' features='eror;ejaan;ejsp' state='active' parent='10'>bekerja  sebagai</segment> <segment id='9' features='eror;ejaan;ejhrf' state='active' correction='pengantar' parent='10'>oengantar</segment> <segment id='13' features='eror;ejaan;ejsp' state='active' parent='10'>barang.Hobi</segment> dia bermain <segment id='14' features='eror;ejaan;ejsp' state='active' parent='10'><segment id='11' features='eror;lainnya;lain' state='active' comment='Kata berbahasa asing' parent='14'>baseball</segment>.Dia</segment> suka menonton film.
+Ibu saya bernama <segment id='15' features='eror;ejaan;ejsp' state='active' parent='10'>[NAMA].Dia</segment> berasal dari <segment id='16' features='eror;ejaan;ejsp' state='active' parent='10'>Chiba.Dia</segment> bekerja di toko <segment id='17' features='eror;ejaan;ejsp' state='active' parent='10'>obat.Hobi</segment> dia mendengarkan <segment id='18' features='eror;ejaan;ejsp' state='active' parent='10'>musik.Dia</segment> juga suka menonton film.
+Nama kakak laki-laki saya <segment id='19' features='eror;ejaan;ejsp' state='active' parent='10'>[NAMA].Dia</segment> yang tertinggi.Hobi dia <segment id='20' features='eror;ejaan;ejsp' state='active' parent='10'>olahraga.Dia</segment> suka bermain gitar.</segment>    </body>
+</document>

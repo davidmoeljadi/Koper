@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023TOTA104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA] [NAMA].
+Saya mahasiswa tahun kedua di universitas.
+Saya mahasiswa APU fakultas APM.
+Sekarang saya tinggal di <segment id='2' features='eror;ejaan;ejsp' state='active' correction='Kamegawa, Bappu'>Kamegawa,<segment id='1' features='eror;ejaan;ejhrf' state='active' parent='2'>Bappu</segment></segment>.
+Umur saya 19 tahun.
+<segment id='3' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Keluarga saya ada 7 orang, yaitu kakek, nenek, ayah, ibu, 2 orang kakak laki-laki, dan saya.'>Keluarga saya ada 7 orang.
+Kakek, <segment id='11' features='eror;ejaan;ejsp' state='active' parent='3'>nenekayah</segment>, ibu, <segment id='12' features='eror;ejaan;ejsp' state='active' parent='3'>ayah,2</segment> orang kakak <segment id='13' features='eror;ejaan;ejtb' state='active' parent='3'>laki-laki dan</segment> saya.</segment> Umur 2 orang kakak <segment id='4' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='saya'>laki-laki <segment id='10' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='tahun'>23</segment> dan 21</segment>. <segment id='5' features='eror;lainnya;lain' state='active' comment='Tidak jelas merujuk ke mana, apakah kakak pertama atau kakak kedua.'>Nama dia [NAMA].</segment> <segment id='6' features='eror;leksikal;ungkapan;ukps' state='active'>Dia mahasiswa tahun rumah sakit.</segment> 
+Nama kakek saya <segment id='7' features='eror;ejaan;ejtb' state='active'><segment id='8' features='eror;gramatikal;konjungsi;konj0' state='active' correction='dan' parent='7'>[NAMA]、nama</segment></segment> nenek saya [NAMA]. Mereka tinggal di Yamagata. 
+Nama ayah saya [NAMA] dan nama <segment id='14' features='eror;ejaan;ejk' state='active'>Ibu</segment> saya [NAMA]. Umur <segment id='9' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='saya'>ayah 52</segment> tahun.
+Hobi ayah saya memancing. Hobi ibu saya jalan-jalan.    </body>
+</document>

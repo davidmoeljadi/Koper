@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023OMASA302.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Sering kali, <segment id='1' features='eror;gramatikal;frasa-preposisi;prepx' state='active'>jawaban dari mereka</segment> <segment id='2' features='eror;gramatikal;frasa-verba;vrbpas' state='active'>yang kami mendapat</segment> mirip. Saya <segment id='3' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>pikir</segment> <segment id='4' features='eror;leksikal;kata;ktinf' state='active'>kalau</segment> mereka diberi lebih banyak waktu, mungkin kami bisa mendapat bermacam-macam jawaban. Selain itu, kami juga bisa mengganti pertanyaannya (APU, Jepang, Beppu).
+
+<segment id='7' features='eror;leksikal;kata;preps' state='active'>Untuk</segment> <segment id='6' features='eror;ejaan;ejsp' state='active'>saya/ <segment id='8' features='eror;ejaan;ejtb' state='active'>kam</segment>i mencari</segment> mahasiswa Indonesia untuk diwawancarai cukup sulit. Cara menemukan orang Indonesia yang paling mudah <segment id='9' features='eror;leksikal;kata;preps' state='active'>untuk</segment> kami adalah menemukan orang yang berbicara dalam bahasa Indonesia. <segment id='5' features='eror;leksikal;kata;konjs' state='active'>Tetapi</segment>, ternyata bertanya kepada orang yang sedang berbicara juga sulit.    </body>
+</document>

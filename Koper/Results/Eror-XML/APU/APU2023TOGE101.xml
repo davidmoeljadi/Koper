@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023TOGE101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama dia [NAMA].
+<segment id='4' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari <segment id='1' features='eror;ejaan;ejhrf' state='active' parent='4'>Hukuoka</segment>.
+Dia lahir <segment id='2' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='4'>di</segment> dan besar di <segment id='3' features='eror;ejaan;ejhrf' state='active' parent='4'>Hukuoka</segment>.
+Dia tinggal di asrama APU.
+Dia mahasiswa APU <segment id='9' features='eror;ejaan;ejk' state='active' parent='4'>fakultas</segment> ST.
+Dia <segment id='10' features='eror;ejaan;ejhrf' state='active' parent='4'>bekarja</segment> <segment id='11' features='eror;ejaan;ejhrf' state='active' parent='4'>sampigan</segment> di Yume <segment id='12' features='eror;ejaan;ejk' state='active' parent='4'>town</segment>.</segment>
+<segment id='5' features='eror;ejaan;ejhrf' state='active'>Hodi</segment> dia <segment id='6' features='eror;gramatikal;frasa-verba;vrbafx' state='active'>mendengar</segment> musik.
+Dia ikut <segment id='7' features='eror;ejaan;ejhrf' state='active'><segment id='8' features='eror;ejaan;ejk' state='active' parent='7'>kulb</segment></segment> Yossya.    </body>
+</document>

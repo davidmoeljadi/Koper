@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2024AKOM306.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hal: <segment id='1' features='eror;gramatikal;frasa-preposisi;prepx' state='active' comment='[Pesta Wisuda] sudah menerangkan tempat sehingga tidak perlu menggunakan preposisi [ke]' correction='Undangan Pesta Wisuda'>Undangan ke Pesta</segment> Wisuda
+
+Kami bermaksud akan mengadakan jamuan makan siang untuk merayakan mahasiswa UGM yang akan lulus. Makan <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='siang'>sinag</segment> akan direncanakan dengan jadwal sebagai berikut:
+
+・Waktu:
+-Tanggal: 24 Juni 2024
+-Hari: Senin
+-Jam: 12:00 WIB
+・Tempat: Kantin FIB
+・Pakaian: Batik 
+
+<segment id='3' features='eror;leksikal;ungkapan;ukpa' state='active' comment='Struktur kalimat tidak lengkap. Kalimat mengandung dua gagasan yang dapat dipisah.' correction='Akhir kata saya ucapkan terima kasih. Kami berharap untuk bertemu Anda pada hari tersebut.'>Akhir kata saya ucapan, harapan kami untuk bertemu Anda pada hari tersebut.</segment>    </body>
+</document>

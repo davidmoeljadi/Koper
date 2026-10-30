@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023MAEM103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Makanan favorit saya es krim <segment id='1' features='eror;ejaan;ejhrf' state='active'>matcha</segment>. <segment id='2' features='eror;ejaan;ejk' state='active'>es</segment> krim <segment id='3' features='eror;ejaan;ejhrf' state='active'>matcha</segment> enak <segment id='4' features='eror;ejaan;ejtb' state='active'>sekali tapi</segment> mahal. Saya mau makan es krim <segment id='6' features='eror;ejaan;ejtb' state='active'><segment id='5' features='eror;ejaan;ejhrf' state='active' parent='6'>matcha</segment>. setiap</segment> minggu.
+<segment id='7' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>Beppu</segment> tidak ada es krim <segment id='8' features='eror;ejaan;ejhrf' state='active'>matcha</segment> murah. <segment id='11' features='eror;gramatikal;kalimat;kalpen' state='active'>Es krim <segment id='9' features='eror;ejaan;ejhrf' state='active' parent='11'>matcha</segment> di Kyoto sangat terkenal. Kyoto cukup sepi. Saya mau <segment id='10' features='eror;ejaan;ejhrf' state='active' parent='11'>pegi</segment> ke Kyoto.</segment>    </body>
+</document>

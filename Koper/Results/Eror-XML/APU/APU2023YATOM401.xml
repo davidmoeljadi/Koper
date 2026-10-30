@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023YATOM401.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Selamat siang, Pak Heri.
+Saya senang sekali karena saya bisa <segment id='25' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>bertemu <segment id='1' features='eror;ejaan;ejk' state='active' parent='25'>anda</segment></segment> minggu depan.
+<segment id='26' features='eror;ejaan;ejtb' state='active'><segment id='2' features='eror;leksikal;kata;konjs' state='active' parent='26'>Tetapi</segment> saya</segment> jadi tidak <segment id='3' features='eror;ejaan;ejhrf' state='active'>bias</segment> datang ke <segment id='4' features='eror;ejaan;ejk' state='active'>Kelas</segment> pertama <segment id='5' features='eror;gramatikal;frasa-nomina;ygx' state='active'>yang</segment> hari <segment id='6' features='eror;ejaan;ejk' state='active'>senin</segment>.
+<segment id='7' features='eror;gramatikal;konjungsi;konjx' state='active'>Karena</segment> saya sekarang di <segment id='27' features='eror;ejaan;ejtb' state='active'>Okinawa, dan</segment> rencana <segment id='28' features='eror;gramatikal;frasa-nomina;pron0' state='active'>pertama adalah</segment> saya kembali ke Oita <segment id='29' features='eror;gramatikal;frasa-nomina;urtfn' state='active'>pagi <segment id='8' features='eror;ejaan;ejk' state='active' parent='29'>Hari</segment> <segment id='9' features='eror;ejaan;ejk' state='active'>minggu</segment>.</segment>
+<segment id='17' features='eror;ejaan;ejtb' state='active'><segment id='10' features='eror;leksikal;kata;konjs' state='active' parent='17'>Tapi</segment> teman</segment> saya <segment id='11' features='eror;gramatikal;frasa-verba;vrb0' state='active'>yang dengan saya</segment> di Okinawa harus menginap <segment id='13' features='eror;leksikal;kata;preps' state='active'>ke</segment> rumah sakit dan saya juga harus di sana <segment id='12' features='eror;gramatikal;frasa-nomina;nom0' state='active'>sampai <segment id='14' features='eror;ejaan;ejhrf' state='active' parent='12'>selasai</segment></segment>.
+<segment id='18' features='eror;ejaan;ejtb' state='active'>Jadi saya</segment> tidak bisa datang ke <segment id='30' features='eror;leksikal;kata;noms' state='active'>sana</segment> hari <segment id='15' features='eror;ejaan;ejk' state='active'>senin</segment>, <segment id='16' features='eror;leksikal;kata;ktinf' state='active'>tapi</segment> saya <segment id='19' features='eror;ejaan;ejhrf' state='active'>bias</segment> <segment id='20' features='eror;leksikal;kata;vrbs' state='active'>ikut</segment> hari <segment id='21' features='eror;ejaan;ejk' state='active'>selasa</segment>.
+Maaf <segment id='24' features='eror;ejaan;ejtb' state='active'><segment id='22' features='eror;leksikal;kata;ktinf' state='active' parent='24'>banget</segment> <segment id='23' features='eror;ejaan;ejk' state='active' parent='24'>pak</segment></segment>.
+
+Joko    </body>
+</document>

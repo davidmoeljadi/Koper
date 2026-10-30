@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023WIEN101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Namanya [NAMA].
+<segment id='1' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari <segment id='3' features='eror;ejaan;ejk' state='active' parent='1'>kota surabaya</segment>.
+Dia lahir dan besar <segment id='4' features='eror;ejaan;ejsp' state='active' parent='1'>di  <segment id='5' features='eror;ejaan;ejk' state='active' parent='1'>kota</segment> surabaya</segment>.
+Dia tinggal <segment id='9' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='dekat' parent='1'>di <segment id='6' features='eror;ejaan;ejk' state='active' parent='1'><segment id='8' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='Stasiun Beppu' parent='6'>beppu</segment> <segment id='7' features='eror;leksikal;kata;ktas' state='active' parent='8'>eki</segment></segment></segment>.
+<segment id='12' features='eror;gramatikal;kalimat;kalpen' state='active' parent='1'>Dia mahasiswa APU <segment id='10' features='eror;ejaan;ejk' state='active' parent='12'>fakultas</segment> APM. 
+Dia <segment id='11' features='eror;ejaan;ejk' state='active' parent='12'>jurusan</segment> Bisnis <segment id='13' features='eror;ejaan;ejtb' state='active' parent='12'>Manajemen</segment></segment>
+Dia tidak bekerja sampingan.</segment>
+Hobi dia menyanyi.
+Dia ikut <segment id='2' features='eror;ejaan;ejk' state='active'>klub apuina</segment>.    </body>
+</document>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023TOTA101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama dia [NAMA] [NAMA]. 
+<segment id='1' features='eror;leksikal;kata;ktvar' state='active'>Dia berasal dari Jepang. 
+Dia lahir dan besar di Tokyo. 
+Dia mahasiswa APU <segment id='2' features='eror;ejaan;ejk' state='active' parent='1'>fakultas</segment> <segment id='3' features='eror;ejaan;ejtb' state='active' parent='1'>APU, <segment id='4' features='eror;ejaan;ejk' state='active' parent='3'>jurusan</segment></segment> APS. 
+<segment id='9' features='eror;lainnya;lain' state='active' parent='1'>Dia sekarang tinggal di dekat <segment id='5' features='eror;leksikal;kata;ktas' state='active' parent='9'><segment id='6' features='eror;ejaan;ejk' state='active' parent='5'>station</segment></segment> Beppu. <segment id='7' features='eror;ejaan;ejk' state='active' parent='9'>hobi</segment> dia menonton <segment id='8' features='eror;ejaan;ejsp' state='active' parent='9'>film.Dia</segment> sekarang tinggal di dikat station Beppu. hobi dia menonton film.</segment></segment>    </body>
+</document>

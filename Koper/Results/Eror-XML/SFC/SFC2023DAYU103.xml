@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2023DAYU103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='2' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya tinggal di Tokyo. Saya <segment id='1' features='eror;ejaan;ejsp' state='active' parent='2'>tinggal   dengan</segment> orang tua.</segment> <segment id='5' features='eror;gramatikal;kalimat;kalpen' state='active'>Nama ayah<segment id='3' features='eror;leksikal;kata;prons' state='active' parent='5'>nya</segment> [NAMA]. Dan nama ibu<segment id='4' features='eror;leksikal;kata;prons' state='active' parent='5'>nya</segment> [NAMA].</segment> Ayah<segment id='6' features='eror;leksikal;kata;prons' state='active'>nya</segment> bekerja di sebuah rumah sakit di <segment id='7' features='eror;ejaan;ejsp' state='active'>Tokyo .</segment> Ibu<segment id='8' features='eror;leksikal;kata;prons' state='active'>nya</segment> <segment id='9' features='eror;ejaan;ejsp' state='active'>bekerja　di</segment> sebuah rumah sakit di Kanagawa. Saya tidak <segment id='10' features='eror;ejaan;ejsp' state='active'>punya  saudara</segment> kandung.    </body>
+</document>

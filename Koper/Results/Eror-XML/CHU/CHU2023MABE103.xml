@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023MABE103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Indonesia punya delapan warisan dunia. 
+<segment id='12' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='akan'>Saya memperkenalkan</segment> satu <segment id='13' features='eror;gramatikal;frasa-nomina;nom0' state='active'>warisan di</segment> Indonesia.
+“Kompleks Candi Prambanan” merupakan reruntuhan Hindu 
+abad <segment id='2' features='eror;ejaan;ejsp' state='active' correction='kesembilan'><segment id='1' features='eror;ejaan;ejtb' state='active' parent='2'>ke sembilan-sepuluh</segment></segment> di <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Jawa'>Java</segment>.
+<segment id='4' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='Warisan ini'>Ini <segment id='15' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='warisan dunia' parent='4'>warisan</segment></segment> menunjukkan <segment id='5' features='eror;ejaan;ejk' state='active' correction='toleransi'>Toleransi</segment> terhadap agama lain <segment id='6' features='eror;gramatikal;frasa-nomina;nomx' state='active'>orang</segment> pada saat itu.
+Reruntuhan ini terkubur dalam waktu yang lama karena letusan gunung dan invasi Islam.
+Laksamana Raffles dari Inggris <segment id='7' features='eror;gramatikal;frasa-nomina;nya0' state='active' correction='menemukannya'>menemukan</segment> kembali pada abad <segment id='8' features='eror;ejaan;ejtb' state='active'>ke-sembilan belas</segment>.
+Dulu ada dua ratus empat puluh kuil yang berjejer di sini.
+Wayang orang telah dipentaskan sejak tahun <segment id='9' features='eror;ejaan;ejtb' state='active' correction='1960-an'>1960an</segment> di Sendratari Ramayana.
+<segment id='10' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='Menurut saya'>Saya <segment id='16' features='eror;ejaan;ejtb' state='active'><segment id='14' features='eror;ejaan;ejhrf' state='active' parent='16'>menuruktu</segment></segment> reruntuhan</segment> ini sangat indah.
+Saya ingin pergi ke <segment id='11' features='eror;leksikal;kata;noms' state='active' correction='sana'>sini</segment> di masa depan.    </body>
+</document>

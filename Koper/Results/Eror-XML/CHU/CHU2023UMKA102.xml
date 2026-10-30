@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023UMKA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Aku punya meja di <segment id='1' features='eror;ejaan;ejsp' state='active'>kamarku .</segment>
+<segment id='2' features='eror;gramatikal;kalimat;kalpen' state='active'>Ada juga kursi dan tempat tidur. 
+dan ada tempat tidur.</segment> 
+Ada sebuah piano di dalam ruangan. <segment id='4' features='eror;ejaan;ejtb' state='active'><segment id='3' features='eror;leksikal;kata;ktinf' state='active' correction='Namun,' parent='4'>Tapi</segment> aku</segment> tidak bisa bermain piano. <segment id='5' features='eror;leksikal;kata;prons' state='active' correction='Aku'>Saya</segment> punya beberapa buku.    </body>
+</document>

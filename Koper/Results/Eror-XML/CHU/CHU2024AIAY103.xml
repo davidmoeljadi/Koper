@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2024AIAY103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya punya dua orang teman. Namanya [NAMA] dan [NAMA]. Mereka teman saya sejak SMA. Mereka tinggal di Saitama. Umur [NAMA] 20 <segment id='1' features='eror;ejaan;ejtb' state='active' comment='Tanpa tanda koma [,]' correction='... tahun dan umur'>tahun, dan</segment> umur [NAMA] 19 tahun. [NAMA] empat bersaudara, dia amak ketiga. [NAMA] dua bersaudara, dia anak pertama. 
+[NAMA] suka minum kopi. <segment id='2' features='eror;ejaan;ejtb' state='active' correction='Kemarin, [NAMA]'>Kemarin [NAMA]</segment> membeli tiga bungkus <segment id='3' features='eror;ejaan;ejtb' state='active' comment='Tanpa tanda koma [,]' correction='... kopi seharga Rp52.800'>kopi, <segment id='4' features='eror;gramatikal;frasa-nomina;nomafx' state='active' correction='seharga' parent='3'>harganya</segment></segment> Rp52.800.    </body>
+</document>

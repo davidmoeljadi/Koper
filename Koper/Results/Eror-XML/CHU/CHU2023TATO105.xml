@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023TATO105.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='2' features='eror;leksikal;kata;ktvar' state='active'>Saya bangun jam <segment id='1' features='eror;ejaan;ejhrf' state='active' parent='2'>lina</segment> pagi.
+<segment id='3' features='eror;ejaan;ejk' state='active' parent='2'>saya</segment> makan pagi <segment id='4' features='eror;gramatikal;frasa-verba;vrbx' state='active' parent='2'>makan</segment> jam enam <segment id='5' features='eror;ejaan;ejhrf' state='active' parent='2'>seperemat</segment> pagi.
+Saya <segment id='8' features='eror;gramatikal;frasa-preposisi;prep0' state='active' parent='2'>pergi <segment id='6' features='eror;ejaan;ejk' state='active' parent='8'><segment id='7' features='eror;ejaan;ejhrf' state='active' parent='6'>Univalsitas</segment></segment></segment> jam sembilan pagi.
+Saya pulang jam <segment id='9' features='eror;ejaan;ejsp' state='active' parent='2'>10<segment id='10' features='eror;leksikal;kata;noms' state='active' correction='malam' parent='9'>sore</segment></segment>.
+Saya tidur jam 12 <segment id='11' features='eror;leksikal;kata;noms' state='active' correction='malam' parent='2'>sore</segment>.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2024AIAY102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hari ini hari Kamis.  Saya bangun jam 8.30 pagi, lalu mandi dan sarapan. Saya keluar rumah jam 9.15 <segment id='2' features='eror;gramatikal;konjungsi;konj0' state='active' correction='pagi, lalu kami'>pagi, kami</segment> naik mobil ke <segment id='3' features='eror;lainnya;lain' state='active' comment='Kalimat ini kurang jelas dalam menyebutkan keterangan tempat sehingga pembaca tidak mengetahui maksud penulis pergi ke mana.' correction='ke sekolah'>sana.</segment> <segment id='1' features='eror;gramatikal;kalimat;kalsub' state='active'>Diajarkan di sekolah.</segment> Jam 12 kami pergi ke kafe. Kafe itu namanya Tully&apos;s Coffee. Kami makan di sana kira-kira 45 menit. Kami juga minum kopi. Jam 4 sore kami pulang ke rumah.    </body>
+</document>

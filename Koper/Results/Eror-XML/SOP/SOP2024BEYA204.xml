@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2024BEYA204.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Waktu saya pergi berbelanja ke supermarket, saya terlupa membawa dompetnya. Saat ingin membayar barang belanjaan, saya baru sadar bahwa dompetnya tertinggal di <segment id='1' features='eror;ejaan;ejtb' state='active' correction='rumah sehingga'>rumah, sehingga</segment> harus pulang dulu untuk mengambilnya.    </body>
+</document>

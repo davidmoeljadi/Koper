@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023SHIE101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya <segment id='1' features='eror;ejaan;ejsp' state='active'>[NAMA].  Saya</segment> tinggal di <segment id='2' features='eror;ejaan;ejsp' state='active'>Saitama.  Keluarga</segment> saya ada <segment id='8' features='eror;leksikal;kata;dets' state='active' correction='empat'>lima</segment> <segment id='3' features='eror;ejaan;ejtb' state='active'>orang yaitu</segment> <segment id='4' features='eror;ejaan;ejtb' state='active'>ayah <segment id='5' features='eror;ejaan;ejtb' state='active'>ibu</segment> adik</segment> <segment id='6' features='eror;ejaan;ejtb' state='active'>laki <segment id='7' features='eror;ejaan;ejtb' state='active'>laki</segment> dan</segment> saya.
+Nama adik laki-laki saya <segment id='9' features='eror;ejaan;ejsp' state='active'>[NAMA].  Dia</segment> murid <segment id='10' features='eror;ejaan;ejsp' state='active'>SMA.  Ayah</segment> saya <segment id='11' features='eror;ejaan;ejsp' state='active'>karyawan.  Ibu</segment> saya ibu rumah <segment id='12' features='eror;ejaan;ejsp' state='active'>tangga.  Mereka</segment> tinggal di Niiza dengan saya.    </body>
+</document>

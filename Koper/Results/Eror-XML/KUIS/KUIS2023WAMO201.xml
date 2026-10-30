@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023WAMO201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hai Tuti, 
+
+Terima kasih atas <segment id='1' features='eror;ejaan;ejhrf' state='active'>srat</segment>mu!
+<segment id='2' features='eror;leksikal;kata;ktinf' state='active'>Saya</segment> juga ingin bertemu kamu.
+Aku terkejut ketika membaca suratmu. Aku pikir kamu harus berbicara dengan ibumu. Mari kita bicarakan hal ini bersama-sama lain kali!
+
+<segment id='3' features='eror;ejaan;ejhrf' state='active'>Salan</segment> sayang,
+Rano    </body>
+</document>

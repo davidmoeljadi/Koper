@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023MOXI101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama dia [NAMA].
+Dia <segment id='1' features='eror;ejaan;ejhrf' state='active'>berascal</segment> <segment id='2' features='eror;ejaan;ejhrf' state='active'>dark</segment> Jepang.
+Dia lahir <segment id='3' features='eror;leksikal;kata;preps' state='active' correction='di'>dari</segment> Nishinomiya .
+Sekarang dia tinggal di APHouse 1.
+Dia mahasiswa <segment id='4' features='eror;ejaan;ejk' state='active'>fakultas</segment> APS. <segment id='5' features='eror;leksikal;ungkapan;ukps' state='active'>Dia tidak jurusan.</segment>
+Dia tidak bekerja <segment id='6' features='eror;ejaan;ejhrf' state='active'>samplingan</segment>.
+Hobi dia <segment id='7' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='mendengarkan'>mendengar</segment> musik.
+Dia ikut klub <segment id='8' features='eror;ejaan;ejsp' state='active'>bolavoli</segment>.    </body>
+</document>

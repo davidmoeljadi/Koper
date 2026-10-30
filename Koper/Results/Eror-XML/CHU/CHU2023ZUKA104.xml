@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023ZUKA104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Namanya [NAMA] [NAMA]. Dia berasal dari Hokkaido. Dia tinggal di Tokyo. Dia punya kakak <segment id='5' features='eror;ejaan;ejtb' state='active'>laki-laki <segment id='1' features='eror;gramatikal;konjungsi;konjx' state='active' parent='5'>dan</segment></segment> kakak <segment id='6' features='eror;ejaan;ejtb' state='active'><segment id='4' features='eror;ejaan;ejhrf' state='active' parent='6'>prempuan</segment> dan</segment> adik laki-laki. Mereka tinggal di Hokkaido. Dia tinggal di Osaka sekarang. Dia bangun tepat jam enam tadi pagi. Dia makan roti dan buah-buahan. Dia pegawai negeri. Perusahaan <segment id='7' features='eror;gramatikal;frasa-nomina;nyaitu' state='active'>itu</segment> terletak di sebelah kantor pos. Dia makan siang di <segment id='2' features='eror;ejaan;ejhrf' state='active'>restran</segment>. Dia bekerja delapan jam. Dia membeli kopi di <segment id='8' features='eror;ejaan;ejhrf' state='active'>minimakrket</segment>. Dia membeli makan malam di supermarket. Dia pulang dari supermarket ke rumah tepat jam 8 malam. Dia makan <segment id='11' features='eror;ejaan;ejtb' state='active'>ikan <segment id='3' features='eror;gramatikal;konjungsi;konjx' state='active' parent='11'>dan</segment></segment> daging <segment id='12' features='eror;ejaan;ejtb' state='active'>babi <segment id='9' features='eror;gramatikal;konjungsi;konjx' state='active' parent='12'>dan</segment></segment> <segment id='10' features='eror;ejaan;ejtb' state='active'>roti dan</segment> salad. Dia pergi tidur jam 12.    </body>
+</document>

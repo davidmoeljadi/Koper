@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023SHITO101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA].
+<segment id='12' features='eror;leksikal;kata;ktvar' state='active'>Saya dari Yamagata.
+Saya tinggal di Tokyo.</segment>
+<segment id='1' features='eror;ejaan;ejhrf' state='active'>Nana</segment> ayah <segment id='2' features='eror;ejaan;ejtb' state='active'>saya, <segment id='3' features='eror;ejaan;ejtb' state='active'>[NAMA]</segment>, dan</segment> nama ibu <segment id='4' features='eror;ejaan;ejtb' state='active'>saya, [NAMA]</segment>.
+<segment id='5' features='eror;ejaan;ejhrf' state='active'>Nana</segment> adik laki-laki <segment id='6' features='eror;ejaan;ejtb' state='active'><segment id='7' features='eror;ejaan;ejsp' state='active' parent='6'>saya,<segment id='8' features='eror;ejaan;ejtb' state='active'><segment id='9' features='eror;ejaan;ejsp' state='active' parent='8'>[NAMA]</segment></segment>,dan</segment></segment> nama adik perempuan <segment id='10' features='eror;ejaan;ejsp' state='active'><segment id='11' features='eror;ejaan;ejtb' state='active' parent='10'>saya,[NAMA]</segment></segment>.    </body>
+</document>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023OMASA301.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya &lt;NAMA&gt;. Saya mahasiswa <segment id='1' features='eror;ejaan;ejtb' state='active'>APU, <segment id='2' features='eror;ejaan;ejk' state='active' parent='1'>jurusan</segment></segment> Budaya, Masyarakat, dan Media. Saya akan bercerita tentang keluarga dan rumah saya. 
+
+Saya berasal dari Saitama. Saya lahir di Saitama dan besar di tempat-tempat yang lain. Saya dan keluarga saya pindah ke Saitama lagi dan tinggal di situ sampai sekarang. Anggota keluarga saya ada 4 orang, yaitu <segment id='3' features='eror;ejaan;ejsp' state='active'>orangtua</segment> saya, adik laki-laki saya, dan saya. 
+
+Ayah saya <segment id='4' features='eror;ejaan;ejhrf' state='active'>berkerja</segment> di Tokyo sampai tahun lalu. Ibu saya bekerja di Saitama. Adik saya belajar psikologi di universitas. 
+
+Rumah kami tidak terlalu besar, <segment id='5' features='eror;leksikal;kata;ktinf' state='active'>tapi</segment> cukup untuk kami berempat. Di depannya ada taman, dan kami bisa melihat bunga <segment id='6' features='eror;ejaan;ejk' state='active'>Sakura</segment> dari dalam rumah pada musim semi.    </body>
+</document>

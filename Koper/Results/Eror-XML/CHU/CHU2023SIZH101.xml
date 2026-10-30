@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023SIZH101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya [NAMA]. Saya tinggal sendirian di Tokyo. Saya dari Beijing. Saya <segment id='1' features='eror;ejaan;ejhrf' state='active'>arak</segment> tunggal. Ayah saya polisi. Ibu saya pengusaha.    </body>
+</document>

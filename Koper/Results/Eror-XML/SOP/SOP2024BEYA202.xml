@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2024BEYA202.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Pada <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='liburan'>libulan</segment> musim semi, saya pergi ke Malaysia sendiri. Saya berjalan-jalan ke berbagai tempat wisata. Contohnya, Batu Caves, <segment id='2' features='eror;ejaan;ejk' state='active' correction='Masjid Putra'>Masjid putra</segment>, Menara Berkembar <segment id='3' features='eror;ejaan;ejtb' state='active' correction=','>Petronas dan</segment> lain-lain. Di Batu Caves, saya harus menaiki banyak anak tangga untuk mencapai puncak. Ada banyak monyet <segment id='4' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='saya'>saat menaiki</segment> tangga. Mereka sangat lucu. Setelah itu, saya pergi ke Masjid Putra. Masjid Putra terkenal dengan bangunannya yang berwarna merah muda dan sangat indah. Ada seorang pemandu di sana yang bisa berbahasa <segment id='5' features='eror;ejaan;ejtb' state='active'>Jepang, dan</segment> dia berbicara kepada saya tentang Islam. Malam <segment id='6' features='eror;ejaan;ejtb' state='active' correction=','>harinya saya</segment> pergi melihat Menara Kembar Petronas. Menara yang berkilauan berpadu dengan pemandangan malam sangat indah. Kenangan saya di Malaysia sangat bagus. Saya ingin pergi lagi.    </body>
+</document>

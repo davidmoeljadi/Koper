@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023TOIS102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='3' features='eror;leksikal;kata;noms' state='active' comment='Setelah saya baca keseluruhan teks, menurut saya kata &quot;toko&quot; lebih baik diganti menjadi &quot;restoran&quot;' correction='Restoran'>Toko</segment> <segment id='1' features='eror;ejaan;ejk' state='active' comment='Saya rasa ini merupakan judul' correction='Ramen'>ramen</segment> Favorit Saya
+
+Nama <segment id='4' features='eror;leksikal;kata;noms' state='active' comment='Saya mengganti &quot;toko&quot; menjadi &quot;restoran&quot; karena konteksnya membahas tempat makan.' correction='restoran'>toko</segment> ramen favorit saya adalah SANMI (333).
+<segment id='5' features='eror;leksikal;kata;noms' state='active' correction='Restoran'>Toko</segment> ini ada di dekat <segment id='9' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='Stasiun Hakata'>Hakata Stasiun</segment>, kira-kira 5 menit dari <segment id='10' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='Stasiun Hakata'>Hakata Stasiun</segment>.
+Saya suka <segment id='6' features='eror;leksikal;kata;noms' state='active' correction='restoran'>toko</segment> <segment id='2' features='eror;ejaan;ejtb' state='active' comment='hapus koma'>ini, karena</segment> ada ramen <segment id='7' features='eror;gramatikal;frasa-nomina;yg0' state='active' correction='tomat yang enak'>tomat enak</segment> sekali.
+<segment id='8' features='eror;leksikal;kata;preps' state='active' correction='Menurut'>Bagaimana</segment> saya, ramen ini sehat dan rasanya ringan.
+Ramen di <segment id='11' features='eror;leksikal;kata;noms' state='active' correction='restoran'>toko</segment> ini terlalu murah karena mahasiswa dapat makan dengan harga <segment id='16' features='eror;ejaan;ejsp' state='active' correction='330 yen'>330yen</segment>.
+<segment id='13' features='eror;leksikal;kata;noms' state='active' correction='Restoran'>Toko</segment> ini ada banyak menu topping ramen.
+Menu favorit saya di <segment id='14' features='eror;leksikal;kata;noms' state='active' correction='restoran'>toko</segment> ini ramen keju dan tomat.
+Silakan pergi ke SANMI (333)!    </body>
+</document>

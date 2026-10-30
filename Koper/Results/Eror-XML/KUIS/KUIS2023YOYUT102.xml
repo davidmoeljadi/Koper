@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023YOYUT102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Keluarga saya
+
+Nama saya &lt;NAMA&gt;.
+Saya mahasiswa tingkat satu di Universitas Bahasa Asing Kanda.
+Jurusan saya Bahasa Indonesia.
+Saya belajar bahasa Inggris dan bahasa Indonesia setiap hari.
+Saya dari Kota Yachiyo, Provinsi Chiba.
+Saya tinggal di Kota Narita, Provinsi Chiba.
+Keluarga saya ada ayah, ibu, dan adik perempuan.
+Ayah saya bekerja di perusahaan bangunan.
+Saya tidak tahu <segment id='1' features='eror;gramatikal;frasa-nomina;nomx' state='active'>tugas pekerjaan</segment> dia.
+Ibu saya bekerja paruh waktu di Daiso.
+Dia jago masak.
+Dia dari Kota Sapporo, Provinsi Hokkaido.
+Adik perempuan saya murid SMU tingkat satu.
+<segment id='2' features='eror;gramatikal;frasa-nomina;urtfn' state='active'>Dia tulisan</segment><segment id='3' features='eror;gramatikal;frasa-nomina;nyax' state='active'>nya</segment> bagus.
+Saya selalu bermain bersama dengan <segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active'>adik perempuan</segment>.    </body>
+</document>

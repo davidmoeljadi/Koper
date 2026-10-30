@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023TAKU102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Ada tiga kamar.
+Ada dua tempat tidur.
+Ada sebuah meja di <segment id='1' features='eror;gramatikal;frasa-nomina;nom0' state='active'>tengah.</segment>
+Sebuah komputer ada di atas meja.
+Ada TV di depan sofa.
+Ada karpet di bawah meja.
+Ruangan di <segment id='2' features='eror;gramatikal;frasa-nomina;nom0' state='active'>depan adalah</segment> dapur.    </body>
+</document>

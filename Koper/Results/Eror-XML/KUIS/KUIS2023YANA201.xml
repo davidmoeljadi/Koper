@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023YANA201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tuti sayang,  
+
+Aku dalam keadaan baik dan sehat. Aku juga merindukan kamu.
+Aku minta maaf karena telah membuat kamu merasa tidak aman.
+Sebenarnya, aku ingin menikah denganmu sekarang <segment id='2' features='eror;ejaan;ejtb' state='active' correction='juga, tetapi'>juga tetapi</segment> tidak punya cukup uang. 
+<segment id='3' features='eror;leksikal;kata;ktinf' state='active' correction='Jadi'>Jadinya</segment>, kamu harus menunggu sedikit lebih lama.
+Aku sudah memesan restoran dengan pemandangan malam <segment id='4' features='eror;gramatikal;frasa-nomina;ygx' state='active'>yang</segment> favoritmu bulan depan dan berharap bisa bertemu denganmu.
+Aku sayang kamu.
+
+Salam sayang,
+Rano    </body>
+</document>

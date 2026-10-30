@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023TOGE104.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejhrf' state='active' correction='Keluarga'>Keluarge</segment> saya <segment id='2' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='ada enam orang'>enam orang ada</segment>. Saya empat bersaudara.
+Ayah, ibu, kakak laki-laki, saya, adik perempuan, dan adik laki-laki.
+Ayah saya pengusaha. Ibu saya ibu rumah <segment id='5' features='eror;ejaan;ejhrf' state='active' correction='tangga'>tannga</segment>.
+Ayah dan <segment id='10' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='saya'>ibu tinggal</segment> di Miyazaki, Jepang.
+Kakak laki-laki saya <segment id='4' features='eror;gramatikal;frasa-nomina;nomafx' state='active' correction='pekerja'>bekerja</segment> kantor di Osaka, Jepang. Umur dia 23 tahun.
+Adik <segment id='6' features='eror;ejaan;ejk' state='active' correction='perempuan'>Perempuan</segment> saya siswa kelas 2 SMA. Hobi dia belanja.
+Adik laki-laki saya siswa kelas 2 SMP. Dia suka <segment id='7' features='eror;ejaan;ejhrf' state='active' correction='membaca'>mumbaca</segment> buku. Saya juga suka <segment id='8' features='eror;ejaan;ejhrf' state='active' correction='membaca'>mumbaca</segment> buku.    </body>
+</document>

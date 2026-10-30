@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2024AKAD106.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hari <segment id='1' features='eror;ejaan;ejtb' state='active' comment='Kekurangan tanda baca koma [,]' correction='Sabtu, saya'>Sabtu saya</segment> dan teman saya berkunjung ke Shimokitazawa. Kami naik kereta dari <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='Shonandai'>Syonandai</segment> ke Shimokitazawa. Saya suka baju dan sepatu. Saya berjalan-jalan <segment id='3' features='eror;ejaan;ejsp' state='active' comment='Kelebihan spasi' correction='di toko'>di  toko</segment> baju. Saya suka <segment id='4' features='eror;ejaan;ejtb' state='active' comment='Tidak perlu tanda kutip pada nama diri (kecuali bila nama diri tersebut menggunakan tanda kutip)' correction='Stussy'>&quot;<segment id='6' features='eror;ejaan;ejk' state='active' comment='Penggunaan huruf kapital karena merujuk pada nama diri' correction='Stussy' parent='4'>stussy</segment>&quot;</segment> dan <segment id='5' features='eror;ejaan;ejtb' state='active' comment='Tidak perlu tanda kutip pada nama diri (kecuali bila nama diri tersebut menggunakan tanda kutip)' correction='RCG'>&quot;RCG&quot;</segment> . Baju <segment id='8' features='eror;ejaan;ejsp' state='active' comment='Kelebihan spasi' correction='Stussy paling'><segment id='7' features='eror;ejaan;ejk' state='active' comment='Penggunaan huruf kapital karena merujuk pada nama diri' correction='Stussy' parent='8'>stussy</segment>  paling</segment> bagus.
+Kami pergi ke toko <segment id='9' features='eror;ejaan;ejsp' state='active' comment='Kelebihan spasi' correction='ramen. Ramen'>ramen . Ramen</segment> itu sangat enak. Kami senang sekali hari itu.    </body>
+</document>

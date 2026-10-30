@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023YOYUR103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya tinggal di Motoyawata.
+Dari <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='stasiun'>sutasiun</segment> ke <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='rumah'>rumar</segment> saya memakan waktu kira-kira 20 (dua puluh) menit dengan berjalan kaki.
+<segment id='6' features='eror;ejaan;ejtb' state='active' comment='kekurangan spasi' correction='Rumah tempat'><segment id='4' features='eror;ejaan;ejhrf' state='active' correction='Rumah' parent='6'>Rumar</segment>,tempat</segment> tinggal saya tidak <segment id='3' features='eror;ejaan;ejtb' state='active'>baru tetapi</segment> cantik dan nyaman .
+Saya sudah tinggal di sana selama <segment id='8' features='eror;ejaan;ejsp' state='active' comment='kekurangan spasi' correction='10 tahun.'>10(sepuluh)tahun</segment>.
+Sekitar rumah saya ramai. Ada pekarangan TK dan Sekolah Menengah Atas (SMA) di sekitar rumah saya.
+<segment id='5' features='eror;gramatikal;frasa-nomina;nomj' state='active'>Delapan teman-teman</segment> saya tinggal di sekitar rumah saya.
+Semua <segment id='7' features='eror;gramatikal;frasa-nomina;pron0' state='active'>tetangga baik</segment> hati.
+Saya senang tinggal di <segment id='12' features='eror;ejaan;ejsp' state='active' comment='kekurangan spasi'>sana,tetapi</segment> saya ingin hidup sendiri.    </body>
+</document>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023YAMYUM201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='eror;ejaan;ejtb' state='active' correction='Hai, Tuti'>Hai Tuti</segment>
+
+<segment id='2' features='eror;leksikal;kata;ktinf' state='active'><segment id='5' features='eror;gramatikal;kalimat;kalpen' state='active' parent='2'>Saya <segment id='4' features='eror;gramatikal;frasa-verba;urtfv' state='active' correction='ingin sekali menikah dengan Anda.' parent='5'>mau menikah dengan Anda <segment id='6' features='eror;ejaan;ejsp' state='active' parent='5'>sekali</segment> .</segment>
+Karena Anda baik, cakap, dan <segment id='26' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='dicintai' parent='5'>dicinta</segment> <segment id='8' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='5'>dari</segment> <segment id='7' features='eror;ejaan;ejsp' state='active' parent='5'>saya .</segment></segment>
+Mungkin saya <segment id='9' features='eror;ejaan;ejtb' state='active' correction='kejam, tapi' parent='2'>kejam <segment id='10' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='tapi perbuatan ibu' parent='2'>tapi</segment> ibu</segment> Anda tidak benar untuk <segment id='12' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='minta kamu menikah' parent='2'>minta menikah</segment> dengan anak temannya.
+<segment id='13' features='eror;ejaan;ejtb' state='active' correction='Pertama, Anda' parent='2'>Pertama Anda</segment> <segment id='14' features='eror;ejaan;ejhrf' state='active' correction='harus' parent='2'>halus</segment> mengatakan <segment id='15' features='eror;leksikal;kata;preps' state='active' correction='kepada' parent='2'>ke</segment> ibu anda bahwa <segment id='17' features='eror;ejaan;ejsp' state='active' parent='2'>anda  <segment id='18' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='tidak mau menikah' parent='2'>tidak</segment> menikah</segment> dengan dia. 
+Anda tidak tahu tentang dia. <segment id='19' features='eror;ejaan;ejtb' state='active' correction='Jadi, Anda' parent='2'>Jadi Anda</segment> tidak bisa <segment id='20' features='eror;leksikal;kata;vrbs' state='active' correction='menikah' parent='2'>berjalan</segment> dengan dia.
+Kemudian, Anda <segment id='21' features='eror;ejaan;ejhrf' state='active' correction='harus' parent='2'>halus</segment> menikah dengan saya karena saya menyenangkan dan cocok dengan <segment id='22' features='eror;leksikal;kata;prons' state='active' correction='kamu' parent='2'>kami</segment>. 
+<segment id='23' features='eror;leksikal;kata;konjs' state='active' correction='Jadi,' parent='2'>Yaitu</segment> Anda tidak <segment id='24' features='eror;ejaan;ejhrf' state='active' correction='perlu' parent='2'>puluh</segment> mendengarkan ibumu.</segment>    </body>
+</document>

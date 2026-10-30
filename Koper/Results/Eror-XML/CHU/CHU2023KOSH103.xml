@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023KOSH103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Apakah <segment id='6' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='tahu'>kamu hewan</segment> apa saja yang bisa dilihat di Indonesia?
+Harimau <segment id='1' features='eror;ejaan;ejhrf' state='active'>sumatera</segment> dan badak <segment id='2' features='eror;ejaan;ejhrf' state='active'>sumatera</segment> merupakan hewan <segment id='3' features='eror;ejaan;ejk' state='active'>Yang</segment> terkenal di Indonesia. Harimau <segment id='4' features='eror;ejaan;ejhrf' state='active'>sumatera</segment> merupakan hewan yang sangat pemalu. Harimau <segment id='5' features='eror;ejaan;ejhrf' state='active'>sumatera</segment> adalah harimau terkecil dan harimau <segment id='7' features='eror;ejaan;ejhrf' state='active'>sumatera</segment> pandai berenang dan pandai memanjat pohon. Badak <segment id='10' features='eror;ejaan;ejhrf' state='active'>sumatera</segment> adalah badak terkecil dari semua <segment id='12' features='eror;ejaan;ejsp' state='active'><segment id='8' features='eror;leksikal;kata;noms' state='active' correction='badak' parent='12'>hari mau</segment></segment> dan mereka hanya bisa <segment id='11' features='eror;ejaan;ejhrf' state='active'>diliht</segment> di Indonesia. <segment id='9' features='eror;ejaan;ejsp' state='active'>Orangutan</segment> sangat pintar.
+<segment id='13' features='eror;ejaan;ejsp' state='active'>Orangutan</segment> cukup pintar untuk mengendarai mobil. Videonya dapat dilihat secara <segment id='14' features='eror;leksikal;kata;ktas' state='active'>online</segment>. <segment id='17' features='eror;ejaan;ejsp' state='active'>Orangutan</segment> melemparkan barang ke arah manusia. Tiga ekor <segment id='15' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='tersebut'>hewan adalah</segment> spesies yang terancam. Ada monyet hitam di Indonesia. Ekor monyet hitam agak pendek.    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2023KONHON201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Dia perempuan. Dia berwajah cantik. Rambutnya <segment id='1' features='eror;ejaan;ejhrf' state='active'>cokolat</segment> dan panjang. Dia lebih pendek <segment id='2' features='eror;leksikal;kata;ktinf' state='active'>dari</segment> saya. Dia memakai kemeja putih. Dia memakai rok biru dan kotak-kotak. Dia bermata besar. Dia memakai masker putih. Kulitnya putih. Dia memakai sepatu hitam. Hidungnya mancung. Bulu matanya panjang. Dia <segment id='3' features='eror;ejaan;ejhrf' state='active'>mumakai</segment> kaus kaki putih. Dia langsing. Kakinya panjang. Dia memiliki rambut poni. Alisnya <segment id='4' features='eror;ejaan;ejhrf' state='active'>cokolat</segment> dan tipis. Dia memiliki tas <segment id='5' features='eror;ejaan;ejhrf' state='active'>cokolat</segment> dan hitam. Dia meletakkan botol teh di atas mejanya. Ada kamus bahasa Indonesia di atas mejanya. Dia memiliki kotak pensil putih. Suaranya lucu. Sepatu hitamnya terbuat dari kulit. Dia memiliki buku tulis hitam. Dia menggunakan ponsel berwarna <segment id='6' features='eror;leksikal;kata;ktinf' state='active'>pink</segment>.    </body>
+</document>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2024SERI402.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='4' features='eror;leksikal;kata;ktas' state='active'>Dear</segment> Ibu [NAMA],
+
+Selamat siang! Apa kabar?
+Saya [NAMA].
+Maaf mengganggu <segment id='5' features='eror;ejaan;ejk' state='active'>ibu</segment>. Saya tidak bisa <segment id='6' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>hadir kelas</segment> hari Senin <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='karena'>karna</segment> saya sedang <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='demam'>deman</segment> dari dua hari yang lalu. <segment id='3' features='eror;ejaan;ejtb' state='active' correction='Jadi, saya'>Jadi saya</segment> akan pergi ke dokter.
+
+Maaf dan terima kasih.
+<segment id='7' features='eror;ejaan;ejtb' state='active'>Salam</segment>
+<segment id='8' features='eror;ejaan;ejtb' state='active'>[NAMA].</segment>    </body>
+</document>

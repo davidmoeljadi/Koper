@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023NATREI401.txt</textfile>
+    <lang>indonesian</lang>
+  </header>
+    <body>
+Selamat <segment id='4' features='eror;ejaan;ejtb' state='active'><segment id='15' features='eror;ejaan;ejk' state='active' parent='4'>Pagi</segment> Ibu</segment> [NAMA].
+Saya mengirim e-mai<segment id='1' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='memberi tahu'>l untu<segment id='8' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='saya'>k ketidakhadir</segment>an</segment> di kelas hari Senin minggu depan.
+Sekarang saya di Okinawa<segment id='10' features='eror;gramatikal;kalimat;kalpen' state='active'>. Awalnya, saya akan kembali pada hari Minggu pagi di Oita<segment id='2' features='eror;ejaan;ejk' state='active' parent='10'>, Teta</segment>pi 
+<segment id='9' features='eror;ejaan;ejk' state='active' parent='10'>Sa</segment>ya tidak bisa pulan<segment id='7' features='eror;leksikal;kata;preps' state='active' correction='sesuai' parent='10'>g deng</segment>an rencana itu. Karena teman saya sakit da<segment id='11' features='eror;gramatikal;frasa-verba;vrb0' state='active' parent='10'>n harus</segment> di rumah saki</segment>t<segment id='5' features='eror;gramatikal;kalimat;kalobj' state='active'>. Saya haru<segment id='14' features='eror;gramatikal;frasa-verba;urtfv' state='active' parent='5'><segment id='3' features='eror;gramatikal;frasa-verba;vrbpas' state='active' parent='14'>s ditema</segment>n<segment id='12' features='eror;leksikal;kata;preps' state='active' parent='14'>i</segment> ke rumah saki<segment id='13' features='eror;gramatikal;frasa-preposisi;prepx' state='active' parent='14'>t unt</segment>uk teman sa</segment>y</segment>a. Saya bisa pulang ke Beppu hari Selasa<segment id='16' features='eror;ejaan;ejk' state='active'>, Jadi Sa</segment>ya akan ikut kelas dar<segment id='6' features='eror;leksikal;kata;noms' state='active' correction='jam'>i kel</segment>as kedua. 
+Terima kasih.
+[NAMA] [NAMA]    </body>
+</document>

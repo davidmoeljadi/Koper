@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SFC/SFC2024AKAD103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya <segment id='1' features='eror;ejaan;ejtb' state='active' correction='[nama]. Saya'>[NAMA] 
+Saya</segment> bangun jam setengah enam.
+Saya makan pagi jam tujuh tepat.
+Dari rumah saya ke <segment id='2' features='eror;ejaan;ejk' state='active' correction='universitas'>Universitas</segment> kira-kira <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='10'>sepuluh</segment> menit.
+Saya tidur <segment id='4' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='jam'>di dua</segment> belas <segment id='5' features='eror;ejaan;ejtb' state='active' correction='tepat.'>tepat</segment>    </body>
+</document>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023TAMSHU201b.txt</textfile>
+    <lang>indonesian</lang>
+  </header>
+    <body>
+Hai Rano,
+
+<segment id='1' features='eror;leksikal;kata;prons' state='active' correction='Aku'>Saya</segment> membaca <segment id='2' features='eror;gramatikal;frasa-nomina;pron0' state='active'>surat dan</segment> <segment id='3' features='eror;leksikal;kata;prons' state='active' correction='aku'>saya</segment> <segment id='4' features='eror;ejaan;ejsp' state='active'>mengerti  bahwa</segment> mungkin kamu menikah dengan anak teman <segment id='11' features='eror;gramatikal;frasa-nomina;pron0' state='active'>ibu</segment>.
+<segment id='12' features='eror;leksikal;kata;prons' state='active'>Saya</segment> mau tahu pendapat kamu.
+<segment id='5' features='eror;leksikal;kata;prons' state='active' correction='Kita'>Kami</segment> telah berkencan untuk waktu yang lama dan itu membuatku sangat sedih karena kamu menikah dengan orang lain.
+Bahkan jika <segment id='6' features='eror;leksikal;kata;prons' state='active'>Anda</segment> harus mendengarkan ibu <segment id='7' features='eror;leksikal;kata;prons' state='active'>Anda</segment>, <segment id='8' features='eror;leksikal;kata;prons' state='active'><segment id='14' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='ibu' parent='8'>Anda</segment></segment> harus menghargai pendapat <segment id='13' features='eror;leksikal;kata;prons' state='active'>Anda</segment>.
+Apakah kamu sudah <segment id='9' features='eror;gramatikal;frasa-preposisi;prep0' state='active'>mengatakan ibumu</segment> bahwa kamu punya pacar?
+Jika kamu belum <segment id='10' features='eror;gramatikal;frasa-nomina;nyaitu' state='active'>mengatakan <segment id='17' features='eror;ejaan;ejsp' state='active'>itu</segment>,<segment id='19' features='eror;gramatikal;kalimat;kalobj' state='active'>sebaiknya</segment> kamu <segment id='18' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='mengatakan' parent='19'><segment id='20' features='eror;gramatikal;frasa-nomina;nya0' state='active' parent='18'>berkata</segment></segment></segment>.
+Mungkin dia tidak tahu bahwa kamu <segment id='21' features='eror;leksikal;kata;advs' state='active' correction='sudah'>tidak</segment> punya pacar.
+Aku pikir ibumu hanya mengkhawatirkanmu.
+Jika kamu <segment id='15' features='eror;leksikal;kata;vrbs' state='active'>melaporkan</segment>nya ke ibu <segment id='22' features='eror;leksikal;kata;prons' state='active'>saya</segment>, <segment id='23' features='eror;leksikal;kata;prons' state='active'>saya</segment> pikir dia akan setuju.
+Jika kamu <segment id='16' features='eror;leksikal;kata;vrbs' state='active'>melapor</segment> ke ibu <segment id='24' features='eror;leksikal;kata;prons' state='active'>saya</segment>, tolong beri tahu <segment id='25' features='eror;leksikal;kata;prons' state='active'>saya</segment> lagi.
+
+Salam sayang,
+Tuti    </body>
+</document>

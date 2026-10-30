@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023ZUKA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Di <segment id='1' features='eror;ejaan;ejk' state='active'>Kamarku</segment> <segment id='2' features='eror;ejaan;ejsp' state='active'>ada  meja</segment>, kursi, rak buku, tempat <segment id='3' features='eror;ejaan;ejtb' state='active'>tidur dan</segment> lemari. Di atas meja ada buku, jam, pena, dan komputer. Di rak buku ada majalah dan buku. Di dekat tempat tidur ada gelas.    </body>
+</document>

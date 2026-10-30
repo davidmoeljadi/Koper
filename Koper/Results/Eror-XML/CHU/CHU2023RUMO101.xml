@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023RUMO101.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Nama saya <segment id='1' features='eror;ejaan;ejsp' state='active'>[NAMA].Saya</segment> tinggal di <segment id='3' features='eror;ejaan;ejsp' state='active'><segment id='2' features='eror;ejaan;ejk' state='active' parent='3'>kanagawa</segment>.Saya</segment> dari <segment id='5' features='eror;ejaan;ejsp' state='active'><segment id='4' features='eror;ejaan;ejk' state='active' parent='5'>kanagawa</segment>.Saya</segment> punya kakak <segment id='6' features='eror;ejaan;ejsp' state='active'>laki-laki.Nama</segment> kakak laki-laki saya <segment id='7' features='eror;ejaan;ejsp' state='active'>[NAMA].Dia</segment> <segment id='8' features='eror;leksikal;kata;noms' state='active'>murid</segment> <segment id='9' features='eror;ejaan;ejsp' state='active'>universitas.Nama</segment> ayah saya <segment id='10' features='eror;ejaan;ejtb' state='active'><segment id='11' features='eror;ejaan;ejsp' state='active' parent='10'>[NAMA],dan</segment></segment> nama ibu saya <segment id='12' features='eror;ejaan;ejsp' state='active'>[NAMA].Ayah</segment> saya <segment id='14' features='eror;leksikal;kata;ktinf' state='active'>supir</segment> <segment id='15' features='eror;ejaan;ejsp' state='active'><segment id='13' features='eror;leksikal;kata;ktinf' state='active' parent='15'>bis</segment>.Ibu</segment> saya <segment id='16' features='eror;ejaan;ejsp' state='active'>pengasuh.Saya</segment> juga punya <segment id='17' features='eror;ejaan;ejhrf' state='active'>kekek</segment> dan <segment id='18' features='eror;ejaan;ejsp' state='active'>nenek.Mereka</segment> tinggal di <segment id='19' features='eror;ejaan;ejk' state='active'>kanagawa</segment>.    </body>
+</document>

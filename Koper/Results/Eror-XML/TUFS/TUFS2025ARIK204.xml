@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2025ARIK204.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+The Last Samurai adalah film yang dibintangi oleh Tom Cruise. <segment id='4' features='eror;gramatikal;kalimat;kalpan' state='active' comment='Kata &quot;namun&quot; merupakan konjungsi antarkalimat.' correction='Film ini bercerita tentang seorang tentara Amerika yang datang ke Jepang ditugaskan untuk melatih tentara modern. Namun akhirnya ditangkap oleh Pasukan Samurai Jepang.'>Film ini bercerita tentang seorang tentara Amerika yang datang ke Jepang ditugastan untuk melatih tentara modern, <segment id='5' features='eror;ejaan;ejtb' state='active' comment='Tanda koma digunakan di belakang kata atau ungkapan penghubung antarkalimat. (Sumber: EYD V)' correction='Namun, akhirnya' parent='4'>namun akhirnya</segment> ditangkap <segment id='2' features='eror;ejaan;ejk' state='active' comment='Nama pasukan termasuk nama diri. Jadi, seharusnya dikapital.' correction='oleh Pasukan Samurai' parent='4'><segment id='1' features='eror;gramatikal;frasa-nomina;nom0' state='active' comment='Setelah saya baca sinopsisnya di https://www.detik.com/jabar/berita/d-7021023/sinopsis-film-the-last-samurai-mantan-perwira-perang-dan-samurainya, seharusnya ungkapannya adalah &quot;pasukan samurai Jepang&quot;.' correction='oleh pasukan samurai' parent='2'>oleh samurai</segment></segment> <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Jepang' parent='4'>Japeng</segment>.</segment> Akan tetapi, dia mulai memahami dan menghormati budaya samurai serta cara hidup mereka. Dia bahkan bergabung dengan mereka dalam perlawanan terhadap pemerintah Jepang yang ingin menghapus tradisi lama.
+
+Film ini sangat menyentuh dan penuh makna. Kita bisa belajar tentang kehormatan, <segment id='6' features='eror;ejaan;ejtb' state='active' correction='keberanian, dan'>keberanian dan</segment> menjaga warisan budaya. Musiknya juga sangat indah!
+
+Saya menonton itu sudah lama sekali, <segment id='7' features='eror;leksikal;kata;konjs' state='active' comment='Penggunaan lebih baku.' correction='tetapi'>tapi</segment> saya masih mengingatnya dengan baik.    </body>
+</document>

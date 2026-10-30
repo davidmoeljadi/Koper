@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023TUYE102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Restoran Favorit Saya
+
+Nama restoran favorit saya adalah RAW.
+Restoran ini ada di Taipei, sedikit <segment id='2' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='dari'><segment id='1' features='eror;ejaan;ejhrf' state='active' correction='jauh' parent='2'>juah</segment> rumah</segment> saya, kira-kira dua jam dari rumah saya.
+Saya suka restoran <segment id='3' features='eror;ejaan;ejtb' state='active' comment='tidak perlu koma'>ini, karena</segment> makanan di restoran ini sangat enak.
+Di restoran ini ada makanan, <segment id='11' features='eror;gramatikal;frasa-nomina;nomafx' state='active' correction='minuman'>minum</segment>, dan <segment id='4' features='eror;leksikal;kata;ktas' state='active' correction='pencuci mulut'>dessert</segment>.
+Saya sangat suka menu utama di <segment id='13' features='eror;ejaan;ejhrf' state='active' correction='restoran'>retoran</segment> ini. Enak, <segment id='5' features='eror;leksikal;kata;ktinf' state='active' correction='tetapi'>tapi</segment> sedikit mahal.
+Ada juga “wine-pairing”. Rasanya enak sekali dan tidak terlalu sedikit.
+Restoran ini sedikit jauh dari rumah saya, <segment id='6' features='eror;leksikal;kata;ktinf' state='active' correction='tetapi'>tapi</segment> restoran ini bagus <segment id='7' features='eror;gramatikal;frasa-verba;vrb0' state='active' correction='dikunjungi'>untuk dengan</segment> keluarga.
+Silakan pergi ke restoran ini.    </body>
+</document>

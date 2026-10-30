@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>SOP/SOP2024BEYA205.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Saya pergi ke Malaysia sendirian pada bulan Maret. Saya tiba di <segment id='1' features='eror;ejaan;ejsp' state='active'>KLIA  jam</segment> 11 malam dan naik taksi ke hotel. Keesokan harinya, saya naik <segment id='2' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='untuk'>kereta pergi</segment> ke <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='Central'>Sentral</segment> Market. Saya terkejut karena kereta di Malaysia sangat murah. Setelah berbelanja di <segment id='4' features='eror;ejaan;ejhrf' state='active' correction='Central'>Sentral</segment> Market, saya makan nasi ayam di restoran Cina. Itu sangat enak. 
+
+Pada hari kedua, saya <segment id='5' features='eror;ejaan;ejhrf' state='active' correction='pergi'>perdi</segment> ke <segment id='6' features='eror;ejaan;ejsp' state='active'>Melaka.Saya</segment> mengunjungi kuil, gereja, pasar, dll. Tiba-tiba hujan mulai turun, tetapi segera berhenti.
+
+<segment id='9' features='eror;gramatikal;kalimat;kalpan' state='active'>Pada hari lain, saya pergi ke Ipoh dan berteman dengan dua orang <segment id='11' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='Kami' parent='9'><segment id='7' features='eror;ejaan;ejtb' state='active' correction='.' parent='11'>Malaysia, <segment id='10' features='eror;gramatikal;konjungsi;konjx' state='active' parent='7'>dan</segment></segment> pergi</segment> ke masjid dan kuil <segment id='8' features='eror' state='active' parent='9'>Hindu</segment> di KL.</segment>
+
+Liburan saya di Malaysia sangat berkesan. Saya ingin pergi lagi.    </body>
+</document>

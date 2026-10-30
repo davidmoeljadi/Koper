@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023OMASA303.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Keluarga dan Rumah &lt;NAMA&gt;
+
+&lt;NAMA&gt; adalah mahasiswa tahun kedua APM. Dia berasal dari Papua.
+
+Keluarga &lt;NAMA&gt; ada 5 orang, yaitu ayah, ibu, &lt;NAMA&gt;, adik laki-laki, dan adik perempuan. Ayah &lt;NAMA&gt; karyawan dan ibunya memiliki toko buku. Mereka berdua pindah ke Papua dari Sulawesi sebelum &lt;NAMA&gt; lahir. Bibi dan paman &lt;NAMA&gt; juga tinggal bersama di satu rumah. 
+
+Keluarganya juga ada anjing, namanya Snowy. Menurut &lt;NAMA&gt;, Snowy <segment id='2' features='eror;gramatikal;frasa-adjektiva;adjj' state='active'>kecil-kecil</segment> dan lucu. Keluarganya tidak ada pembantu. <segment id='4' features='eror;ejaan;ejtb' state='active'><segment id='3' features='eror;leksikal;kata;konjs' state='active' parent='4'>Tetapi</segment> itu</segment> tidak masalah karena bibi, <segment id='5' features='eror;ejaan;ejtb' state='active'>paman dan anak-anak</segment> bisa membantu ibu. 
+
+Menurut &lt;NAMA&gt;, rumah keluarganya termasuk kecil. Rumahnya <segment id='6' features='eror;ejaan;ejhrf' state='active'>berlatai</segment> satu dan ada 4 kamar tidur, 2 kamar tamu, 2 kamar mandi, dan 1 dapur yang bersambung dengan ruang makan. Ada juga teras, 1 garasi <segment id='1' features='eror;ejaan;ejtb' state='active'>motor dan</segment> 1 halaman. Halamannya cukup besar dan toko buku ibu &lt;NAMA&gt; <segment id='7' features='eror;leksikal;kata;vrbs' state='active'>dibuka</segment> di situ. Di belakang rumah ada banyak pohon buah-buahan seperti pohon pisang dan pohon nanas. Karena itu, keluarganya tidak perlu membeli buah-buahan. 
+
+Tempat favorit &lt;NAMA&gt; di rumahnya ruang tamu. Di situ, keluarganya berdoa bersama setiap hari sebelum berangkat ke sekolah atau kantor. Pada akhir pekan, mereka menonton Netflix bersama di situ. 
+
+Di dalam wawancara ini, kami juga berbicara sedikit tentang budaya Papua. Saya menjadi ingin tahu lebih banyak tentang Papua.    </body>
+</document>

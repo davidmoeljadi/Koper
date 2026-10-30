@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023ZAIT102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Kafe Favorit Saya
+
+Nama kafe favorit saya adalah Michimichi No Yakara.
+Kafe ini ada di dekat <segment id='1' features='eror;ejaan;ejk' state='active'>taman beppu</segment>.
+Saya suka kafe <segment id='2' features='eror;ejaan;ejtb' state='active'>ini, <segment id='10' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='makanannya'>karena</segment> <segment id='5' features='eror;gramatikal;frasa-verba;vrbx' state='active' parent='10'>ada</segment> enak</segment> dan murah <segment id='3' features='eror;lainnya;lain' state='active' comment='Frasa &quot;di kafe ini&quot; sebaiknya dihapus karena keterangan tempat sudah disebutkan di awal kalimat sehingga penggunaan frasa tersebut menjadi tidak efektif dan bersifat redundan.'>di kafe ini.</segment>
+Saya sangat suka makanan set ayam nanban. Saya dan <segment id='15' features='eror;gramatikal;frasa-nomina;pron0' state='active'>teman mengatakan</segment> ayam nanban restoran ini enak sekali. <segment id='6' features='eror;leksikal;kata;konjs' state='active' comment='Konjungsi &apos;dan&apos; tidak tepat digunakan di awal kalimat. Oleh karena itu, konjungsi tersebut dihapus agar kalimat menjadi lebih efektif.' correction='Selain itu,'>Dan</segment> ayam nanban ini murah dan kuantitasnya banyak. Ada juga coklat <segment id='8' features='eror;leksikal;kata;ktas' state='active' correction='fondan'>fondant</segment> yang <segment id='9' features='eror;leksikal;kata;noms' state='active' correction='nama'>arti</segment>nya Witch&apos;s Cake. <segment id='12' features='eror;ejaan;ejhrf' state='active' correction='Menurut'>Manurut</segment> <segment id='16' features='eror;gramatikal;frasa-nomina;nom0' state='active'>saya, <segment id='14' features='eror;ejaan;ejk' state='active' parent='16'>Ini</segment></segment> manis dan enak.
+Kafe ini buka siang dan malam. <segment id='17' features='eror;leksikal;kata;konjs' state='active' correction='Karena'>Untuk</segment> itu, <segment id='13' features='eror;leksikal;kata;prons' state='active' comment='Penggunaan pronomina ini tidak konsisten dengan penggunaan sebelumnya, yaitu &apos;saya&apos;.' correction='saya/saya dan teman'>kami</segment> bisa pergi ke <segment id='18' features='eror;gramatikal;frasa-nomina;det0' state='active' correction='ini'>kafe <segment id='7' features='eror;leksikal;kata;prons' state='active' correction='kapan saja/kapan pun.'>bilamana</segment> juga</segment>. Kafe ini sedikit jauh dari <segment id='4' features='eror;ejaan;ejk' state='active'>stasiun</segment> Beppu, <segment id='11' features='eror;lainnya;lain' state='active' comment='Penjelasan bahwa kafe tersebut enak dan murah sudah disampaikan di awal sehingga penjelasan ini tidak perlu diulang.'>ini enak dan murah.</segment> Silakan pergi ke kafe ini!    </body>
+</document>

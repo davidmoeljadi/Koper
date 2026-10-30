@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023TOTA102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Tempat Favorit Saya
+
+Nama restoran favorit saya adalah Motomachibaru.
+<segment id='1' features='eror;ejaan;ejhrf' state='active' correction='Restoran'>Restorant</segment> ini ada di dekat <segment id='18' features='eror;ejaan;ejk' state='active'>stasiun</segment> Beppu, kira-kira 10 menit dari <segment id='19' features='eror;ejaan;ejk' state='active'>stasiun</segment> Beppu.
+Saya suka <segment id='2' features='eror;ejaan;ejhrf' state='active' correction='restoran'>restotant</segment> <segment id='3' features='eror;ejaan;ejtb' state='active' correction='ini karena'>ini, karena</segment> murah dan sangat enak <segment id='4' features='eror;leksikal;kata;ktvar' state='active'>di <segment id='20' features='eror;ejaan;ejhrf' state='active' parent='4'>restorant</segment> ini</segment>. 
+Restoran ini menyajikan pasta, <segment id='5' features='eror;leksikal;kata;ktas' state='active' correction='piza'>pizza</segment>, dan <segment id='6' features='eror;leksikal;kata;ktas' state='active' correction='alkohol'>alcohol</segment>. 
+<segment id='7' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya sangat suka menu pasta ham mentah yang lembut di restoran ini. Enak, dan harganya tidak begitu mahal.</segment> <segment id='11' features='eror;gramatikal;kalimat;kalpen' state='active' correction='Ada juga piza margherita yang penataannya begitu cantik.'>Ada juga <segment id='10' features='eror;ejaan;ejk' state='active' correction='piza margherita' parent='11'><segment id='8' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='10'>Margherita <segment id='9' features='eror;leksikal;kata;ktas' state='active' parent='8'>Pizza</segment></segment></segment>. Penataannya juga sangat indah.</segment> <segment id='13' features='eror;gramatikal;frasa-adverbia;adv0' state='active' correction='Sangat direkomendasikan'><segment id='12' features='eror;leksikal;kata;ktas' state='active' parent='13'>Recommended</segment></segment> <segment id='16' features='eror;leksikal;kata;ktinf' state='active' correction='bagi'>buat</segment> yang <segment id='14' features='eror;ejaan;ejsp' state='active' correction='mau ke'>ma uke</segment> <segment id='17' features='eror;leksikal;kata;ktinf' state='active'>resto</segment> murah dan enak. 
+<segment id='15' features='eror;leksikal;ungkapan;ukpa' state='active'>Silakan saya mau pergi ke restoran ini!</segment>    </body>
+</document>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023NAOT102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Kafe Favorit Saya
+
+Nama kafe favorit saya adalah <segment id='5' features='eror;ejaan;ejtb' state='active' comment='Gunakan tanda titik dalam setiap akhir kalimat.' correction='Nama kafe favorit saya adalah R&amp;B.'>R&amp;B
+Kafe</segment> ini ada di dekat <segment id='14' features='eror;ejaan;ejk' state='active'>menara</segment> Beppu, kira-kira 3 menit dari Menara Beppu.
+Teman saya <segment id='2' features='eror;ejaan;ejhrf' state='active'>bekarja</segment> di kafe ini.
+<segment id='1' features='eror;gramatikal;kalimat;kalpen' state='active' comment='Kedua kalimat ini harusnya digabung menjadi satu kalimat.' correction='Saya suka kafe ini karena ada banyak menu, seperti makanan, minuman, dan hidangan penutup.'>Saya suka kafe <segment id='4' features='eror;ejaan;ejtb' state='active' comment='Sebelum kata &quot;karena&quot; tidak perlu menggunakan tanda koma.' correction='ini karena' parent='1'>ini, karena</segment> ada banyak menu di kafe ini.
+Makanan, minuman, dan <segment id='6' features='eror;leksikal;kata;ktas' state='active' comment='Kata &apos;dessert&apos; merupakan istilah bahasa asing. Padanan kata &apos;dessert&apos; dalam bahasa Indonesia adalah &apos;hidangan penutup&apos; atau &apos;pencuci mulut&apos;.' correction='hidangan penutup' parent='1'>dessert</segment>.</segment>
+Saya sangat suka menu hamburger di kafe ini. <segment id='3' features='eror;gramatikal;kalimat;kalsub' state='active'><segment id='12' features='eror;ejaan;ejtb' state='active' comment='Tidak perlu menggunakan tanda koma sebab perinciannya hanya dua.' correction='Rasanya enak dan harganya tidak begitu mahal.' parent='3'>Enak, dan</segment> harganya tidak begitu mahal.</segment>
+Ada juga soda lemon. Rasanya enak sekali dan tidak terlalu asam.
+Kafe ini sedikit jauh dari AP <segment id='8' features='eror;ejaan;ejk' state='active' comment='Jika AP House adalah nama diri maka gunakan huruf kapital pada awal katanya.' correction='AP House'>house</segment>, <segment id='7' features='eror;leksikal;kata;ktinf' state='active'>tapi</segment> kafe ini <segment id='9' features='eror;leksikal;kata;adjs' state='active' comment='Penggunakan kata &apos;bagus&apos; dalam kalimat ini kurang tepat.' correction='cocok'>bagus</segment> <segment id='10' features='eror;gramatikal;frasa-nomina;nom0' state='active' comment='Tambahkan nomina &quot;tempat&quot; agar kalimatnya menjadi sempurna.' correction='untuk tempat bertemu'>untuk bertemu</segment> dan <segment id='11' features='eror;gramatikal;frasa-verba;vrbafx' state='active' comment='Verba &quot;berbicara&quot; digunakan agar klausa &quot;bicara dengan teman&quot; setara dengan klausa sebelumnya &quot;... untuk bertemu&quot;.' correction='berbicara'>bicara</segment> dengan teman.
+Silakan pergi ke kafe ini!    </body>
+</document>

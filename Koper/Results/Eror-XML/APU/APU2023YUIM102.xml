@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023YUIM102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Restoran Favorit Saya
+
+Nama restoran favorit saya adalah Yakiniku King.
+Restoran ini ada di dekat Mochigahama, kira-kira 5 menit dari halte bus Mochigahama.
+<segment id='4' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya suka <segment id='1' features='eror;ejaan;ejhrf' state='active' correction='restoran' parent='4'>restran</segment> <segment id='2' features='eror;ejaan;ejtb' state='active' comment='hapus koma' parent='4'>ini, karena</segment> ada <segment id='5' features='eror;gramatikal;frasa-nomina;urtfn' state='active' parent='4'>banyak menu di restoran ini.
+Makanan, minuman, dan <segment id='6' features='eror;leksikal;kata;ktas' state='active' parent='5'>dessert</segment></segment>.</segment>
+Saya sangat suka menu <segment id='3' features='eror;ejaan;ejhrf' state='active' correction='daging'>danging</segment> sapi di restoran ini. <segment id='8' features='eror;ejaan;ejtb' state='active'><segment id='7' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='Rasanya enak' parent='8'>Enak</segment>, dan</segment> harganya tidak begitu mahal.
+<segment id='9' features='eror;lainnya;lain' state='active' comment='Hapus karena kalimat sebelumnyaa juga sudah membahas rasa.'>Rasanya enak sekali.</segment> Restoran ini sedikit jauh dari <segment id='12' features='eror;ejaan;ejk' state='active'>stasiun</segment> Beppu. 
+<segment id='10' features='eror;leksikal;kata;ktinf' state='active' correction='Akan tetapi'>tapi</segment>, restoran ini sangat ideal bagi mereka yang lapar.
+Menurut saya, Restoran Yakiniku King <segment id='11' features='eror;leksikal;kata;adjs' state='active' correction='enak'>bagus</segment> sekali.
+Silakan pergi ke restoran ini.    </body>
+</document>

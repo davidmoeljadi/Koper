@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>TUFS/TUFS2025ARIK205.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='2' features='eror;ejaan;ejtb' state='active' correction='Pasar Buku Bekas'>&quot;Pasar <segment id='1' features='eror;ejaan;ejk' state='active' correction='Buku Bekas' parent='2'>buku bekas</segment>&quot;</segment>
+
+Pasar buku bekas <segment id='3' features='eror;ejaan;ejhrf' state='active'>adalar</segment> pasar tradisional yang terkenal di Jepang. <segment id='4' features='eror;gramatikal;kalimat;kalsub' state='active' correction='Toko yang paling terkenal namanya BOOK OFF'>Yang paling terkenal namanya <segment id='11' features='eror;ejaan;ejtb' state='active' correction='BOOK OFF' parent='4'>&quot;BOOK OFF&quot;</segment></segment>. Di <segment id='5' features='eror;ejaan;ejtb' state='active' correction='Di sini, Anda bisa membeli'>sini Anda</segment> bisa membeli buku, CD, <segment id='6' features='eror;ejaan;ejtb' state='active' correction='DVD, dan'>DVD dan</segment> <segment id='7' features='eror;leksikal;kata;ktas' state='active' correction='gim'>game</segment> bekas dengan harga murah. Barang-barangnya <segment id='8' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='masih dalam kondisi'>masih kondisi</segment> bagus seperti baru.
+Selain membeli, Anda juga bisa menjual barang bekas di toko ini.
+BOOK OFF <segment id='9' features='eror;leksikal;kata;vrbs' state='active' correction='ada'>adalah</segment> di banyak kota di setiap daerah. <segment id='10' features='eror;gramatikal;kalimat;kalbel' state='active' correction='Toko ini populer bagi orang Jepang dan turis.'>Ini populer di dalam orang Jepang dan turis asing.</segment>
+Saya sering pergi ke BOOK OFF yang dekat kantor saya <segment id='12' features='eror;leksikal;kata;konjs' state='active' correction='untuk'>dan</segment> membeli buku tentang sejarah, <segment id='13' features='eror;ejaan;ejtb' state='active' correction='komik, dan novel'>komik dan</segment> novel.
+Kalau Anda suka membaca <segment id='14' features='eror;ejaan;ejhrf' state='active' correction='atau'>ata</segment> mencari barang murah, ini adalah tempat yang wajib dikunjungi di Jepang.
+Pasar buku bekas <segment id='16' features='eror;gramatikal;frasa-nomina;nom0' state='active' correction='adalah pasar tradisional'><segment id='15' features='eror;ejaan;ejhrf' state='active' correction='adalah' parent='16'>adalar</segment> tradisional</segment> di Jepang. <segment id='18' features='eror;gramatikal;kalimat;kalbel' state='active' correction='Akan tetapi, BOOK OFF sudah ada 30 tahun lebih dulu dari pasar buku bekas lain.'>Akan tetapi, <segment id='17' features='eror;ejaan;ejk' state='active' correction='BOOK' parent='18'>Book</segment> OFF lahir yang datang 30 tahun lebih baru dari pasar buku bekas lain.</segment>    </body>
+</document>

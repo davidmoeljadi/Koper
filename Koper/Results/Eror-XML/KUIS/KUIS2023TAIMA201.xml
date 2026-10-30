@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023TAIMA201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='2' features='eror;ejaan;ejtb' state='active' comment='Gunakan tanda koma setelah kata &quot;halo&quot;.' correction='Halo, Tuti.'>Halo <segment id='3' features='eror;ejaan;ejtb' state='active'>Tuti</segment>,</segment>
+Aku juga mau bertemu kamu.
+Kamu tidak usah mendengarkan ibumu.
+<segment id='1' features='eror;ejaan;ejtb' state='active' comment='Gunakan tanda koma setelah kata &quot;pertama&quot;.' correction='Pertama, kamu tidak tahu tentang dia, bukan?'>Pertama kamu</segment> tidak tahu tentang dia, bukan?
+Kamu harus menikah dengan seseorang yang kamu kenal baik <segment id='4' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='Kamu harus menikah dengan seseorang yang kamu kenal baik dan bisa menikmati kebersamaan.'>dan menikmati</segment> kebersamaan.
+Aku kira aku lebih pantas menikah denganmu daripada anak teman ibumu.
+Aku bisa menjelaskan hal ini pada ibumu.
+Kamu harus jujur pada dirimu sendiri.
+Hanya saja keputusan ada di tanganmu.
+<segment id='6' features='eror;leksikal;kata;advs' state='active' comment='Ganti kata &quot;akhirnya&quot; menjadi &quot;terakhir&quot;.' correction='Terakhir, aku mau mengatakan satu hal lagi.'>Akhirnya</segment> aku mau mengatakan satu hal lagi.
+Aku cinta kamu.
+
+Salam sayang,
+Rano    </body>
+</document>

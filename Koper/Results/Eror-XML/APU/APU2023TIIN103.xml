@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023TIIN103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Kelas favorit saya <segment id='3' features='eror;ejaan;ejk' state='active'>Kelas</segment> <segment id='4' features='eror;ejaan;ejk' state='active'>Bahasa</segment> Indonesia. Sekarang <segment id='1' features='eror;ejaan;ejhrf' state='active'><segment id='2' features='eror;ejaan;ejk' state='active' parent='1'>Say</segment></segment> belajar di Kelas Bahasa Indonesia Satu.
+Saya suka kelas <segment id='5' features='eror;ejaan;ejhrf' state='active'>in</segment> karena <segment id='6' features='eror;ejaan;ejhrf' state='active'>dose</segment>nya baik dan banyak berbicara kepada kami. <segment id='7' features='eror;ejaan;ejk' state='active'>kelas</segment> ini tidak ada PR. Kuis kelas ini <segment id='8' features='eror;ejaan;ejtb' state='active'>sulit tapi</segment> saya suka.     </body>
+</document>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>CHU/CHU2023NOHA103.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Bubur Ayam
+
+Apakah kalian semua tahu makanan terkenal di <segment id='13' features='eror;ejaan;ejtb' state='active'>Indonesia</segment>
+Nasi <segment id='14' features='eror;ejaan;ejk' state='active'><segment id='1' features='eror;ejaan;ejhrf' state='active' parent='14'>Goren</segment>, Mi <segment id='2' features='eror;ejaan;ejhrf' state='active' parent='14'>Goren</segment>, Sate</segment>, dll terkenal.
+Semuanya sangat enak.
+Hari ini, saya akan memperkenalkan
+hidangan bubur yang terkenal.
+Bubur itu namanya bubur <segment id='3' features='eror;ejaan;ejk' state='active'>Ayam</segment>.
+Rasanya <segment id='15' features='eror;gramatikal;frasa-preposisi;prep0' state='active' correction='seperti'><segment id='10' features='eror;gramatikal;frasa-verba;vrbx' state='active' parent='15'>adalah</segment> sup</segment> burung.
+Di Jepang, bubur dimakan saat sakit.
+<segment id='17' features='eror;ejaan;ejtb' state='active'><segment id='16' features='eror;leksikal;kata;konjs' state='active' parent='17'>Tetapi</segment> <segment id='11' features='eror;ejaan;ejk' state='active' parent='17'>D</segment>i</segment> <segment id='18' features='eror;ejaan;ejtb' state='active'>Indonesia, banyak</segment> orang yang makan <segment id='4' features='eror;ejaan;ejhrf' state='active'><segment id='6' features='eror;ejaan;ejk' state='active' parent='4'>Bubul</segment></segment> <segment id='5' features='eror;ejaan;ejk' state='active'>Ayam</segment> untuk sarapan.
+Saya belum pernah makan bubur <segment id='12' features='eror;ejaan;ejk' state='active'>Ayam</segment>.
+<segment id='20' features='eror;ejaan;ejtb' state='active'><segment id='21' features='eror;gramatikal;konjungsi;konj0' state='active' correction='karena' parent='20'><segment id='19' features='eror;leksikal;kata;konjs' state='active' parent='21'>Tapi</segment> terlihat</segment></segment> sangat enak, jadi saya ingin mencobanya sekali.
+Beberapa orang membuatnya di rumah, tetapi <segment id='9' features='eror;ejaan;ejhrf' state='active'><segment id='7' features='eror;ejaan;ejk' state='active' parent='9'>Bubul</segment></segment> <segment id='8' features='eror;ejaan;ejk' state='active'>Ayam</segment> juga dijual di warung.
+<segment id='22' features='eror;ejaan;ejtb' state='active'>Jadi Anda</segment> dapat dengan mudah menemukan hidangan ini di pasar tradisional.
+Jika Anda pergi ke Indonesia, silakan mencobanya.    </body>
+</document>

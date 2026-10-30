@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>APU/APU2023RAUK102.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Restoran favorit saya adalah restoran <segment id='1' features='eror;leksikal;kata;ktas' state='active' correction='barbeku'>BBQ</segment>.
+Nama <segment id='2' features='eror;gramatikal;frasa-nomina;urtfn' state='active' correction='restoran barbeku favorit'>favorit restoran <segment id='3' features='eror;gramatikal;frasa-nomina;pron0' state='active' correction='saya'><segment id='4' features='eror;leksikal;kata;ktas' state='active' correction='barbeku' parent='3'>BBQ</segment></segment> adalah</segment> Hormon Minato.
+Restoran ini ada di dekat rumah saya, kira-kira 10 menit dari rumah <segment id='5' features='eror;gramatikal;frasa-nomina;pronx' state='active'>saya</segment>.
+<segment id='12' features='eror;gramatikal;kalimat;kalpen' state='active'>Saya suka restoran <segment id='7' features='eror;ejaan;ejtb' state='active' parent='12'><segment id='6' features='eror;ejaan;ejhrf' state='active' parent='7'>in</segment>, karena</segment> ada banyak menu <segment id='10' features='eror;ejaan;ejhrf' state='active' comment='Kata &apos;horumon&apos; belum ada padanannya dalam bahasa Indonesia. Jika melihat di mesin pencari, arti dari kata tersebut adalah hidangan yang terbuat dari jeroan daging sapi atau babi.' correction='horumon' parent='12'><segment id='15' features='eror;leksikal;kata;ktas' state='active' parent='10'>hormone</segment></segment> di restoran ini.
+Makanan, minuman, dan <segment id='8' features='eror;leksikal;kata;ktas' state='active' comment='Dapat dipilih salah satu dari kedua koreksi yang diberikan sebab kedua kata tersebut bersinonim.' correction='hidangan penutup atau pencuci mulut' parent='12'>dessert</segment>.</segment>
+Saya sangat suka menu <segment id='11' features='eror;leksikal;kata;noms' state='active' comment='Nama makanan ini membingungkan sebab sepertinya ini terjemahan langsung dari bahasa asing ke bahasa Indonesia. Sepertinya nama makanan ini merujuk ke dolsot bibimbap, yaitu makanan Korea yang dihidangkan di dalam mangkuk batu yang sudah dipanaskan.' correction='dolsot bibimbap'>bibimbap panggang batu</segment> di restoran ini. 
+<segment id='13' features='eror;gramatikal;kalimat;kalsub' state='active'>Enak dan harganya tidak begitu mahal.</segment>
+Saya pergi ke tempat ini dengan teman-teman saya.
+Saya juga suka <segment id='14' features='eror;leksikal;kata;ktas' state='active' comment='Nama makanan ini cukup membingungkan. Namun, sepertinya ini merujuk pada steik yang cara memasaknya dipanggang di atas batu panas.' correction='rocks steak'>rok steak</segment>. <segment id='9' features='eror;ejaan;ejhrf' state='active' correction='Rasanya'>Resanya</segment> enak sekali dan tidak terlalu manis. 
+Silakan pergi ke restoran ini!    </body>
+</document>

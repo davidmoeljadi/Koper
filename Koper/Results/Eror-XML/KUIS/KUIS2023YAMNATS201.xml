@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>KUIS/KUIS2023YAMNATS201.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+Hai Tuti,
+
+Aku baik. <segment id='1' features='eror;ejaan;ejsp' state='active'>Kamu?  Aku</segment> sangat rindu padamu. Aku selalu memikirkanmu.
+<segment id='2' features='eror;ejaan;ejhrf' state='active' correction='Oh'>O</segment>, gitu. Sebenarnya aku ingin menikah denganmu. Tapi kita masih mahasiswa, bukan? Setelah lulus dari universitas, <segment id='3' features='eror;gramatikal;frasa-verba;vrbaux0' state='active' correction='akan'>aku bekerja</segment> keras. <segment id='4' features='eror;ejaan;ejtb' state='active'>Jadi jangan</segment> menikah dengannya. Aku pasti melamarmu. Aku tidak akan melepaskanmu.
+<segment id='5' features='eror;gramatikal;frasa-verba;vrbafx' state='active' correction='Katakan'>Kata</segment> kepada ibumu, <segment id='8' features='eror;ejaan;ejsp' state='active'>“ Aku</segment> punya pacar dan aku ingin menikah dengannya. Minta <segment id='6' features='eror;ejaan;ejtb' state='active'>maaf <segment id='9' features='eror;ejaan;ejk' state='active' parent='6'>ibu</segment></segment>, tapi aku tidak bisa menikah dengan anak teman <segment id='7' features='eror;ejaan;ejk' state='active' comment='penulisan [Ibu] sebagai sapaan diawali dengan huruf kapital' correction='Ibu'>ibu</segment>.“
+Bagaimanapun, aku ingin bertemu denganmu.
+Apa kau punya waktu bulan depan?
+Aku akan datang dan menemuimu.
+
+Salam sayang,
+Rano    </body>
+</document>
